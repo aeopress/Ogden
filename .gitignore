@@ -4,6 +4,10 @@
 
 # deps
 /node_modules/
+# this repo uses bun.lock; ignore other package managers' lockfiles
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
 
 # logs
 npm-debug.log*

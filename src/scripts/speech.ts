@@ -70,7 +70,7 @@ function pickVoice(lang: Lang): SpeechSynthesisVoice | undefined {
   );
 }
 
-let currentLang: Lang = (localStorage.getItem('voice') as Lang) ?? 'en-GB';
+let currentLang: Lang = (localStorage.getItem('voice') as Lang) ?? 'en-US';
 
 export function setLang(lang: Lang): void {
   currentLang = lang;

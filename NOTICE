@@ -1,0 +1,32 @@
+Ogden's Basic English · 850 字繁中學習手冊
+Copyright (c) 2026 yelban (https://github.com/yelban)
+
+This project is distributed under a dual-license arrangement:
+
+  Code     — MIT License (see LICENSE)
+  Content  — Creative Commons Attribution-ShareAlike 4.0 International
+             (see LICENSE-CONTENT.md)
+
+The MIT license covers the source code: Astro components, TypeScript
+scripts, CSS, build configuration, CI workflow, and component markup.
+
+The CC BY-SA 4.0 license covers the curated content: the 850-word
+vocabulary list, Traditional Chinese glosses, English definitions,
+example sentences, synonyms, and research notes under docs/ogden-research/.
+
+The README's "授權（雙授權）" section lists which path falls under which
+license.
+
+Upstream attribution
+--------------------
+The word list and five-category grouping are derived from the English
+Wiktionary appendix, also CC BY-SA 4.0:
+  https://en.wiktionary.org/wiki/Appendix:Basic_English_word_list
+
+Example-sentence vocabulary ceiling references the Basic English
+Combined Wordlist on Simple English Wikipedia, also CC BY-SA 4.0:
+  https://simple.wikipedia.org/wiki/Wikipedia:Basic_English_combined_wordlist
+
+C.K. Ogden's original 1930 book "Basic English: A General Introduction
+with Rules and Grammar" is in the public domain in most jurisdictions
+where the copyright term is life + 70 years (Ogden died 1957).

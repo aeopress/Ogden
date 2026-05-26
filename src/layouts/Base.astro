@@ -4,12 +4,18 @@ import '@/styles/global.css';
 interface Props {
   title?: string;
   description?: string;
+  image?: string;
 }
 
 const {
   title = "Ogden's Basic English · 850 字繁中學習手冊",
-  description = '基於 C.K. Ogden 1930 年的 Basic English 850 字精選表打造的繁體中文版學習網站。',
+  description = 'C.K. Ogden 1930 年設計的 850 個英文核心字，五分類卡片化、UK/US 發音、翻面與考你練習。台灣用語、免費、無需註冊。',
+  image = '/og-image.png',
 } = Astro.props;
+
+const SITE_URL = 'https://ogden.orz99.com';
+const canonicalUrl = new URL(Astro.url.pathname, SITE_URL).href;
+const imageUrl = new URL(image, SITE_URL).href;
 ---
 
 <!doctype html>
@@ -18,7 +24,28 @@ const {
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
     <title>{title}</title>
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Ogden's Basic English 850" />
+    <meta property="og:locale" content="zh_TW" />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={imageUrl} />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Ogden's Basic English · 850 字繁中學習手冊 · 五分類卡片預覽" />
+
+    <!-- Twitter / X Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={imageUrl} />
+    <meta name="twitter:image:alt" content="Ogden's Basic English · 850 字繁中學習手冊" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

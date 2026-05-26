@@ -22,8 +22,11 @@ jobs:
       CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - name: Anonymous shallow clone
+        run: |
+          git clone --depth 1 --branch "${GITHUB_REF_NAME:-main}" \
+            "https://github.com/${GITHUB_REPOSITORY}.git" .
+          git rev-parse HEAD
 
       - name: Install Bun
         run: |

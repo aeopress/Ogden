@@ -1,0 +1,207 @@
+{
+  "category": "picturable_things",
+  "batch": 8,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "sun",
+      "definition_en": "The bright thing in the day sky that gives heat and light to the earth.",
+      "gloss_zh_tw": "太陽;日間天空中為地球供熱與光的明亮星體。",
+      "example_en": "The sun came up over the hills.",
+      "example_zh_tw": "太陽從山頭升起。",
+      "synonyms": ["star", "sunshine"]
+    },
+    {
+      "id": "table",
+      "definition_en": "A flat top on legs, used for eating, writing, or putting things on.",
+      "gloss_zh_tw": "桌子;具腿支撐的扁平面板，可用於進食、書寫或擺物。",
+      "example_en": "Put the plate on the table.",
+      "example_zh_tw": "把盤子放到桌上。",
+      "synonyms": ["desk", "stand"]
+    },
+    {
+      "id": "tail",
+      "definition_en": "The long thin part at the back end of an animal.",
+      "gloss_zh_tw": "尾巴;動物身後的長條部位。",
+      "example_en": "The dog gave a happy tail wag.",
+      "example_zh_tw": "那隻狗開心地搖了搖尾巴。",
+      "synonyms": ["rear", "back"]
+    },
+    {
+      "id": "thread",
+      "definition_en": "A very thin long line of cotton or silk, used to sew.",
+      "gloss_zh_tw": "線;以棉或絲製、用以縫紉的細長線。",
+      "example_en": "Put thread through the needle.",
+      "example_zh_tw": "把線穿過針。",
+      "synonyms": ["string", "yarn"]
+    },
+    {
+      "id": "throat",
+      "definition_en": "The front part of the neck, inside which one swallows.",
+      "gloss_zh_tw": "喉嚨;頸前供吞嚥之處。",
+      "example_en": "I have a sore throat today.",
+      "example_zh_tw": "我今天喉嚨痛。",
+      "synonyms": ["gullet", "windpipe"]
+    },
+    {
+      "id": "thumb",
+      "definition_en": "The short fat finger at the side of the hand.",
+      "gloss_zh_tw": "拇指;手側短而粗的手指。",
+      "example_en": "She hurt her thumb when cutting bread.",
+      "example_zh_tw": "她切麵包時弄傷了拇指。",
+      "synonyms": ["digit"]
+    },
+    {
+      "id": "ticket",
+      "definition_en": "A small piece of paper that lets one go on a train or into a show.",
+      "gloss_zh_tw": "車票、入場券;允許搭車或觀演的小張紙。",
+      "example_en": "Buy a ticket before getting on the train.",
+      "example_zh_tw": "上火車前先買票。",
+      "synonyms": ["pass", "voucher"]
+    },
+    {
+      "id": "toe",
+      "definition_en": "One of the five short parts at the end of each foot.",
+      "gloss_zh_tw": "腳趾;足端的五個短小部位之一。",
+      "example_en": "I broke a toe on the door.",
+      "example_zh_tw": "我撞到門弄斷了腳趾。",
+      "synonyms": ["digit"]
+    },
+    {
+      "id": "tongue",
+      "definition_en": "The long soft thing inside the mouth, used to talk and taste.",
+      "gloss_zh_tw": "舌頭;口中柔軟的長物，用以說話與品味。",
+      "example_en": "She put out her tongue at me.",
+      "example_zh_tw": "她對我吐舌頭。",
+      "synonyms": ["language"]
+    },
+    {
+      "id": "tooth",
+      "definition_en": "One of the white hard things in the mouth, used to bite food.",
+      "gloss_zh_tw": "牙齒;口中白色堅硬之物，用以咬食。",
+      "example_en": "I lost a tooth at the dentist.",
+      "example_zh_tw": "我在牙醫那裡掉了一顆牙。",
+      "synonyms": ["fang", "molar"]
+    },
+    {
+      "id": "town",
+      "definition_en": "A place where many people live and work, smaller than a city.",
+      "gloss_zh_tw": "城鎮;居民與工商眾多之處，較城市小。",
+      "example_en": "I grew up in a small town.",
+      "example_zh_tw": "我在一座小鎮長大。",
+      "synonyms": ["village", "borough"]
+    },
+    {
+      "id": "train",
+      "definition_en": "A long line of carriages pulled by an engine on rails.",
+      "gloss_zh_tw": "火車;由機車牽引、行於軌道之長串車廂。",
+      "example_en": "The train comes into the station.",
+      "example_zh_tw": "火車進站了。",
+      "synonyms": ["carriage", "locomotive"]
+    },
+    {
+      "id": "tray",
+      "definition_en": "A flat thing with low sides, used to carry food or other small things.",
+      "gloss_zh_tw": "托盤;邊緣低淺的扁平器具，用以盛物。",
+      "example_en": "Bring the tray of food to the table.",
+      "example_zh_tw": "把那盤食物端到桌上。",
+      "synonyms": ["platter", "salver"]
+    },
+    {
+      "id": "tree",
+      "definition_en": "A tall plant with a hard stem and many branches and leaves.",
+      "gloss_zh_tw": "樹;高大、具硬幹與多枝葉的植物。",
+      "example_en": "The big tree gives good shade.",
+      "example_zh_tw": "那棵大樹樹蔭很涼。",
+      "synonyms": ["timber", "sapling"]
+    },
+    {
+      "id": "trousers",
+      "definition_en": "A piece of clothing for the legs, that covers from the waist down.",
+      "gloss_zh_tw": "長褲;自腰部往下覆蓋雙腿的衣物。",
+      "example_en": "He wears black trousers to work.",
+      "example_zh_tw": "他穿黑長褲去上班。",
+      "synonyms": ["pants", "slacks"]
+    },
+    {
+      "id": "umbrella",
+      "definition_en": "A round cover with a stick under it, used to keep the rain off.",
+      "gloss_zh_tw": "雨傘;帶柄的圓蓋，用以擋雨。",
+      "example_en": "Take an umbrella, the rain may come.",
+      "example_zh_tw": "帶把傘吧，可能會下雨。",
+      "synonyms": ["parasol"]
+    },
+    {
+      "id": "wall",
+      "definition_en": "A high flat side of a room or building, or a stone fence.",
+      "gloss_zh_tw": "牆;房間或建築的扁平側面，或石製圍牆。",
+      "example_en": "Put the picture on the wall.",
+      "example_zh_tw": "把畫掛到牆上。",
+      "synonyms": ["fence", "partition"]
+    },
+    {
+      "id": "watch",
+      "definition_en": "A small thing worn on the wrist that tells the time.",
+      "gloss_zh_tw": "手錶;戴於手腕、顯示時間的小型裝置。",
+      "example_en": "My watch is fast by ten minutes.",
+      "example_zh_tw": "我的手錶快了十分鐘。",
+      "synonyms": ["timepiece", "clock"]
+    },
+    {
+      "id": "wheel",
+      "definition_en": "A round thing that turns and is used to move cars or other things.",
+      "gloss_zh_tw": "輪子、車輪;可轉動以推進車輛之圓形物。",
+      "example_en": "The car has four wheels.",
+      "example_zh_tw": "汽車有四個輪子。",
+      "synonyms": ["tyre", "disc"]
+    },
+    {
+      "id": "whip",
+      "definition_en": "A long thin tool used to hit, often with a string at the end.",
+      "gloss_zh_tw": "鞭子;末端常帶繩、用以鞭打的長條工具。",
+      "example_en": "The driver used a whip on the horse.",
+      "example_zh_tw": "車夫用鞭子驅馬。",
+      "synonyms": ["lash", "switch"]
+    },
+    {
+      "id": "whistle",
+      "definition_en": "A small thing that gives a sharp high sound when air is blown through it.",
+      "gloss_zh_tw": "哨子;以氣吹之即發尖銳高聲的小器具。",
+      "example_en": "The teacher blew the whistle.",
+      "example_zh_tw": "老師吹起哨子。",
+      "synonyms": ["pipe", "shrill"]
+    },
+    {
+      "id": "window",
+      "definition_en": "An opening in a wall with glass in it, that lets light in.",
+      "gloss_zh_tw": "窗戶;牆上有玻璃的開口，可透光入內。",
+      "example_en": "Open the window for fresh air.",
+      "example_zh_tw": "開窗讓空氣流通。",
+      "synonyms": ["pane", "casement"]
+    },
+    {
+      "id": "wing",
+      "definition_en": "The part of a bird, insect, or aircraft used to fly.",
+      "gloss_zh_tw": "翅膀、機翼;鳥、昆蟲或飛機用以飛行之部位。",
+      "example_en": "The bird had a hurt wing.",
+      "example_zh_tw": "那隻鳥翅膀受了傷。",
+      "synonyms": ["pinion", "vane"]
+    },
+    {
+      "id": "wire",
+      "definition_en": "A long thin piece of metal, that bends easily.",
+      "gloss_zh_tw": "電線、鐵絲;易於彎曲的細長金屬。",
+      "example_en": "Tie the box up with wire.",
+      "example_zh_tw": "用鐵絲把箱子綁好。",
+      "synonyms": ["cord", "cable"]
+    },
+    {
+      "id": "worm",
+      "definition_en": "A long thin animal with no legs, that lives in the earth.",
+      "gloss_zh_tw": "蚯蚓、蠕蟲;長條無腳、棲息於土中的動物。",
+      "example_en": "A worm came out of the wet ground.",
+      "example_zh_tw": "一條蚯蚓從濕土裡冒出來。",
+      "synonyms": ["maggot", "grub"]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "picturable_things",
+  "batch": 3,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "coat",
+      "definition_en": "An outer piece of clothing, often long, worn for warm.",
+      "gloss_zh_tw": "外套、大衣;多為長款、可保暖的外穿衣物。",
+      "example_en": "Wear your coat in the cold.",
+      "example_zh_tw": "天冷穿上你的外套。",
+      "synonyms": ["jacket", "overcoat"]
+    },
+    {
+      "id": "collar",
+      "definition_en": "The part of a shirt or coat that goes round the neck.",
+      "gloss_zh_tw": "衣領;圍繞頸部的衣物部分。",
+      "example_en": "Turn up your collar to keep warm.",
+      "example_zh_tw": "把領子翻起來保暖。",
+      "synonyms": ["neckband"]
+    },
+    {
+      "id": "comb",
+      "definition_en": "A flat piece with teeth, used to put the hair in order.",
+      "gloss_zh_tw": "梳子;帶齒的扁片，用以梳理頭髮。",
+      "example_en": "She put a comb in her hair.",
+      "example_zh_tw": "她在頭髮上插了把梳子。",
+      "synonyms": ["brush"]
+    },
+    {
+      "id": "cord",
+      "definition_en": "A long thin thing made of twisted threads, used to keep things together.",
+      "gloss_zh_tw": "繩、細繩;以纖維捻成、用以綁束的細長物。",
+      "example_en": "Tie the parcel with a cord.",
+      "example_zh_tw": "用繩子綁住包裹。",
+      "synonyms": ["rope", "string"]
+    },
+    {
+      "id": "cow",
+      "definition_en": "A big farm animal kept for its milk or meat.",
+      "gloss_zh_tw": "牛、母牛;可產乳或供肉食的大型農場動物。",
+      "example_en": "The cow gives us fresh milk.",
+      "example_zh_tw": "牛供應我們新鮮的牛奶。",
+      "synonyms": ["cattle", "ox"]
+    },
+    {
+      "id": "cup",
+      "definition_en": "A small round container with a handle, used to drink from.",
+      "gloss_zh_tw": "杯子;圓形帶把、用於飲用的容器。",
+      "example_en": "Pour the tea into the cup.",
+      "example_zh_tw": "把茶倒進杯子裡。",
+      "synonyms": ["mug", "glass"]
+    },
+    {
+      "id": "curtain",
+      "definition_en": "A piece of cloth hung at a window or door.",
+      "gloss_zh_tw": "窗簾、簾幕;掛於窗戶或門口的布。",
+      "example_en": "Pull the curtain closed at night.",
+      "example_zh_tw": "晚上把窗簾拉上。",
+      "synonyms": ["drape", "blind"]
+    },
+    {
+      "id": "cushion",
+      "definition_en": "A soft thing filled inside, used to sit or rest on.",
+      "gloss_zh_tw": "墊子、坐墊;內填軟物、可坐或可靠之物。",
+      "example_en": "Sit on the cushion for comfort.",
+      "example_zh_tw": "坐到墊子上比較舒服。",
+      "synonyms": ["pillow", "pad"]
+    },
+    {
+      "id": "dog",
+      "definition_en": "A common animal that is kept by people as a pet or to keep things safe.",
+      "gloss_zh_tw": "狗;常作寵物或看家的動物。",
+      "example_en": "The dog runs in the garden.",
+      "example_zh_tw": "狗在花園裡跑。",
+      "synonyms": ["hound", "puppy"]
+    },
+    {
+      "id": "door",
+      "definition_en": "A flat thing that opens and shuts at the way into a building or room.",
+      "gloss_zh_tw": "門;建築或房間入口處可開合的扁平結構。",
+      "example_en": "Shut the door behind you.",
+      "example_zh_tw": "進來後把門關上。",
+      "synonyms": ["entrance", "gate"]
+    },
+    {
+      "id": "drain",
+      "definition_en": "A pipe or hole for taking dirty water away.",
+      "gloss_zh_tw": "排水管、水溝;用以排走污水之管或孔。",
+      "example_en": "The drain is full of leaves.",
+      "example_zh_tw": "排水溝塞滿了樹葉。",
+      "synonyms": ["pipe", "sewer"]
+    },
+    {
+      "id": "drawer",
+      "definition_en": "A box-like part of a piece of furniture that slides in and out.",
+      "gloss_zh_tw": "抽屜;家具中可推拉的方形儲物部分。",
+      "example_en": "The papers are in the top drawer.",
+      "example_zh_tw": "文件在最上層的抽屜裡。",
+      "synonyms": ["compartment"]
+    },
+    {
+      "id": "dress",
+      "definition_en": "A piece of clothing for a woman or girl, that covers the body and goes down to the legs.",
+      "gloss_zh_tw": "洋裝、連身裙;女性穿著、覆蓋上身至下肢的衣物。",
+      "example_en": "She wears a long blue dress.",
+      "example_zh_tw": "她穿著一件藍色長洋裝。",
+      "synonyms": ["gown", "frock"]
+    },
+    {
+      "id": "drop",
+      "definition_en": "A very small round amount of liquid.",
+      "gloss_zh_tw": "一滴;液體的極小圓形分量。",
+      "example_en": "A drop of rain fell on her face.",
+      "example_zh_tw": "一滴雨水落在她臉上。",
+      "synonyms": ["bead", "droplet"]
+    },
+    {
+      "id": "ear",
+      "definition_en": "The part of the head used to hear with.",
+      "gloss_zh_tw": "耳朵;頭部用以聆聽之器官。",
+      "example_en": "The dog has long, soft ears.",
+      "example_zh_tw": "那隻狗有著又長又軟的耳朵。",
+      "synonyms": ["lobe"]
+    },
+    {
+      "id": "egg",
+      "definition_en": "A round or oval thing laid by a bird, with a soft inside used as food.",
+      "gloss_zh_tw": "蛋;鳥所產的圓或卵形物，內部可食。",
+      "example_en": "I have an egg for breakfast.",
+      "example_zh_tw": "我早餐吃了一顆蛋。",
+      "synonyms": ["ovum"]
+    },
+    {
+      "id": "engine",
+      "definition_en": "A machine that gives power to make a thing move.",
+      "gloss_zh_tw": "引擎、發動機;提供動力使物運轉的機器。",
+      "example_en": "The car has a new engine.",
+      "example_zh_tw": "這台車裝了新引擎。",
+      "synonyms": ["motor", "machine"]
+    },
+    {
+      "id": "eye",
+      "definition_en": "The part of the head used to see with.",
+      "gloss_zh_tw": "眼睛;頭部用以視物之器官。",
+      "example_en": "She has bright blue eyes.",
+      "example_zh_tw": "她有一雙明亮的藍眼睛。",
+      "synonyms": ["sight", "vision"]
+    },
+    {
+      "id": "face",
+      "definition_en": "The front part of the head, from the chin to the hair.",
+      "gloss_zh_tw": "臉、面孔;頭部正面，自下巴至髮際。",
+      "example_en": "Wash your face every morning.",
+      "example_zh_tw": "每天早上洗臉。",
+      "synonyms": ["countenance", "visage"]
+    },
+    {
+      "id": "farm",
+      "definition_en": "A piece of land used to grow food or keep animals.",
+      "gloss_zh_tw": "農場;用以耕作或畜養的土地。",
+      "example_en": "My uncle has a small farm.",
+      "example_zh_tw": "我叔叔有間小農場。",
+      "synonyms": ["ranch", "homestead"]
+    },
+    {
+      "id": "feather",
+      "definition_en": "One of the soft light things that cover a bird's body.",
+      "gloss_zh_tw": "羽毛;覆蓋鳥身的輕軟物。",
+      "example_en": "A white feather fell from the bird.",
+      "example_zh_tw": "鳥身上掉下一片白色羽毛。",
+      "synonyms": ["plume", "down"]
+    },
+    {
+      "id": "finger",
+      "definition_en": "One of the five thin parts at the end of each hand.",
+      "gloss_zh_tw": "手指;手末端的五根細長部分之一。",
+      "example_en": "She put her finger to her lips.",
+      "example_zh_tw": "她把手指放到嘴唇上。",
+      "synonyms": ["digit", "thumb"]
+    },
+    {
+      "id": "fish",
+      "definition_en": "A cold-blooded animal that lives in water and breathes through gills.",
+      "gloss_zh_tw": "魚;生活於水中、以鰓呼吸的冷血動物。",
+      "example_en": "I caught a big fish in the river.",
+      "example_zh_tw": "我在河裡釣到一條大魚。",
+      "synonyms": ["seafood"]
+    },
+    {
+      "id": "flag",
+      "definition_en": "A piece of coloured cloth on a pole, often as a sign of a country.",
+      "gloss_zh_tw": "旗幟;繫於桿上的彩色布料，常作國家象徵。",
+      "example_en": "The flag waved in the wind.",
+      "example_zh_tw": "旗子在風中飄揚。",
+      "synonyms": ["banner", "ensign"]
+    },
+    {
+      "id": "floor",
+      "definition_en": "The flat part at the bottom of a room, on which one walks.",
+      "gloss_zh_tw": "地板;房間底部供人行走的平面。",
+      "example_en": "Sweep the floor every day.",
+      "example_zh_tw": "每天掃地。",
+      "synonyms": ["ground", "deck"]
+    }
+  ]
+}

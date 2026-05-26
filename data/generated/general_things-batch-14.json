@@ -1,0 +1,207 @@
+{
+  "category": "general_things",
+  "batch": 14,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "son",
+      "definition_en": "A male child of a parent.",
+      "gloss_zh_tw": "兒子;雙親的男性子嗣。",
+      "example_en": "Her son is just five years old.",
+      "example_zh_tw": "她兒子才五歲。",
+      "synonyms": ["boy", "child"]
+    },
+    {
+      "id": "song",
+      "definition_en": "Words set to music to be sung.",
+      "gloss_zh_tw": "歌曲;可唱的、配上樂曲的詞句。",
+      "example_en": "She sang a soft song to the baby.",
+      "example_zh_tw": "她對寶寶輕輕哼了首歌。",
+      "synonyms": ["tune", "music"]
+    },
+    {
+      "id": "sort",
+      "definition_en": "A kind or group of things that are the same in some way.",
+      "gloss_zh_tw": "種類、類型;相似事物的分群。",
+      "example_en": "What sort of bird is that?",
+      "example_zh_tw": "那是什麼種類的鳥？",
+      "synonyms": ["kind", "type"]
+    },
+    {
+      "id": "sound",
+      "definition_en": "What one hears with the ears.",
+      "gloss_zh_tw": "聲音;耳朵所聞之物。",
+      "example_en": "The sound of the wind was loud.",
+      "example_zh_tw": "風聲很大。",
+      "synonyms": ["noise", "tone"]
+    },
+    {
+      "id": "soup",
+      "definition_en": "A thin liquid food made by boiling meat or plants in water.",
+      "gloss_zh_tw": "湯;以肉或蔬菜熬煮的稀薄食物。",
+      "example_en": "Have a bowl of hot soup.",
+      "example_zh_tw": "喝碗熱湯。",
+      "synonyms": ["broth", "stew"]
+    },
+    {
+      "id": "space",
+      "definition_en": "An empty place between things; or the great empty above the sky.",
+      "gloss_zh_tw": "空間;物體間的空處或天外的浩瀚之處。",
+      "example_en": "There is no space in the box for more.",
+      "example_zh_tw": "箱子裡沒地方再放東西了。",
+      "synonyms": ["room", "gap"]
+    },
+    {
+      "id": "stage",
+      "definition_en": "A high flat place where one acts in a play; or a step in a process.",
+      "gloss_zh_tw": "舞台、階段;表演場地或過程中的一步。",
+      "example_en": "She walked onto the stage.",
+      "example_zh_tw": "她走上舞台。",
+      "synonyms": ["platform", "phase"]
+    },
+    {
+      "id": "start",
+      "definition_en": "The first part of a thing; or the act of going from rest to motion.",
+      "gloss_zh_tw": "開始、起點;事物的初始或由靜轉動之刻。",
+      "example_en": "We made an early start to the day.",
+      "example_zh_tw": "我們今天很早就開始了。",
+      "synonyms": ["beginning", "outset"]
+    },
+    {
+      "id": "statement",
+      "definition_en": "Something said or written to give a fact or view.",
+      "gloss_zh_tw": "陳述、聲明;以言或文表達事實或看法。",
+      "example_en": "She made a clear statement of her plan.",
+      "example_zh_tw": "她清楚地說出了她的計畫。",
+      "synonyms": ["declaration", "say"]
+    },
+    {
+      "id": "steam",
+      "definition_en": "Water made into a gas by being very hot.",
+      "gloss_zh_tw": "蒸氣;水被加熱化為氣體之物。",
+      "example_en": "Steam came from the hot tea.",
+      "example_zh_tw": "熱茶上冒著蒸氣。",
+      "synonyms": ["vapour", "mist"]
+    },
+    {
+      "id": "steel",
+      "definition_en": "A very hard, strong metal made from iron.",
+      "gloss_zh_tw": "鋼;以鐵製成的高強度堅硬金屬。",
+      "example_en": "The bridge is made of steel.",
+      "example_zh_tw": "這座橋是鋼鐵做的。",
+      "synonyms": ["metal", "iron"]
+    },
+    {
+      "id": "step",
+      "definition_en": "A foot put down once in walking; or a stage in a process.",
+      "gloss_zh_tw": "步伐、步驟;行走時一腳下落或過程中的一步。",
+      "example_en": "Take one step to the right, please.",
+      "example_zh_tw": "請向右走一步。",
+      "synonyms": ["pace", "stride"]
+    },
+    {
+      "id": "stitch",
+      "definition_en": "One loop of thread made by a needle.",
+      "gloss_zh_tw": "縫線、針腳;以針線縫成的一個線圈。",
+      "example_en": "The dress has a small stitch on the side.",
+      "example_zh_tw": "洋裝側邊縫了一針。",
+      "synonyms": ["seam", "suture"]
+    },
+    {
+      "id": "stone",
+      "definition_en": "A hard piece of rock.",
+      "gloss_zh_tw": "石頭、石塊;堅硬的岩石碎塊。",
+      "example_en": "Do not throw a stone at the bird.",
+      "example_zh_tw": "別朝那隻鳥丟石頭。",
+      "synonyms": ["rock", "pebble"]
+    },
+    {
+      "id": "stop",
+      "definition_en": "An act of no longer moving or going on.",
+      "gloss_zh_tw": "停止、停下;不再移動或繼續。",
+      "example_en": "The bus came to a sudden stop.",
+      "example_zh_tw": "公車突然停了下來。",
+      "synonyms": ["halt", "pause"]
+    },
+    {
+      "id": "story",
+      "definition_en": "Words that tell of things that happened, true or made up.",
+      "gloss_zh_tw": "故事、敘事;敘述事件的文字，可為真或虛構。",
+      "example_en": "Read me a story before bed.",
+      "example_zh_tw": "睡前讀個故事給我聽。",
+      "synonyms": ["tale", "fiction"]
+    },
+    {
+      "id": "stretch",
+      "definition_en": "An act of making a thing longer or wider by pulling.",
+      "gloss_zh_tw": "伸展、拉長;拉動使物變長或變寬。",
+      "example_en": "Give your arms a long stretch.",
+      "example_zh_tw": "把雙臂伸展一下。",
+      "synonyms": ["extend", "spread"]
+    },
+    {
+      "id": "structure",
+      "definition_en": "The way the parts of a thing are put together; or a building.",
+      "gloss_zh_tw": "結構;事物各部分的組合方式或一座建築。",
+      "example_en": "The structure of the house is very strong.",
+      "example_zh_tw": "這棟房子的結構很堅固。",
+      "synonyms": ["form", "frame"]
+    },
+    {
+      "id": "substance",
+      "definition_en": "What a thing is made of; the material.",
+      "gloss_zh_tw": "物質、本體;事物之構成材料。",
+      "example_en": "Gold is a heavy substance.",
+      "example_zh_tw": "黃金是一種很重的物質。",
+      "synonyms": ["matter", "material"]
+    },
+    {
+      "id": "sugar",
+      "definition_en": "A sweet white stuff put on or in food to give it a sweet taste.",
+      "gloss_zh_tw": "糖;用於甜化食物的白色甜物。",
+      "example_en": "Put some sugar in your tea.",
+      "example_zh_tw": "在茶裡加點糖。",
+      "synonyms": ["sweet", "sweetener"]
+    },
+    {
+      "id": "suggestion",
+      "definition_en": "An idea put forward for others to think about.",
+      "gloss_zh_tw": "建議、提議;提出供人思考的想法。",
+      "example_en": "I made a suggestion at the meeting.",
+      "example_zh_tw": "我在會議上提了個建議。",
+      "synonyms": ["proposal", "idea"]
+    },
+    {
+      "id": "summer",
+      "definition_en": "The hot time of the year, between spring and autumn.",
+      "gloss_zh_tw": "夏天、夏季;介於春秋之間的炎熱時節。",
+      "example_en": "We go to the sea every summer.",
+      "example_zh_tw": "我們每年夏天都去海邊。",
+      "synonyms": ["heat", "season"]
+    },
+    {
+      "id": "support",
+      "definition_en": "A thing or person that keeps another up or helps it.",
+      "gloss_zh_tw": "支撐、支持;維持或助益他者之物或人。",
+      "example_en": "The pole gives support to the roof.",
+      "example_zh_tw": "柱子支撐著屋頂。",
+      "synonyms": ["help", "backing"]
+    },
+    {
+      "id": "surprise",
+      "definition_en": "A feeling one has when something happens that one did not look for.",
+      "gloss_zh_tw": "驚訝、意外;對未預期之事所生的感覺。",
+      "example_en": "Her visit was a great surprise.",
+      "example_zh_tw": "她的來訪讓人很意外。",
+      "synonyms": ["shock", "wonder"]
+    },
+    {
+      "id": "swim",
+      "definition_en": "An act of moving through water by using the arms and legs.",
+      "gloss_zh_tw": "游泳;以四肢在水中移動。",
+      "example_en": "Let us go for a swim in the sea.",
+      "example_zh_tw": "我們去海裡游泳吧。",
+      "synonyms": ["bathe", "paddle"]
+    }
+  ]
+}

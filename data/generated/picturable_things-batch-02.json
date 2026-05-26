@@ -1,0 +1,207 @@
+{
+  "category": "picturable_things",
+  "batch": 2,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "box",
+      "definition_en": "A square or oblong container with sides and a top.",
+      "gloss_zh_tw": "盒子、箱子;有蓋的方形或長方形容器。",
+      "example_en": "Put the toys in the box.",
+      "example_zh_tw": "把玩具放進盒子裡。",
+      "synonyms": ["container", "case"]
+    },
+    {
+      "id": "boy",
+      "definition_en": "A young male child.",
+      "gloss_zh_tw": "男孩;年幼的男性。",
+      "example_en": "The boy ran into the garden.",
+      "example_zh_tw": "那男孩跑進了花園。",
+      "synonyms": ["lad", "youth"]
+    },
+    {
+      "id": "brain",
+      "definition_en": "The soft grey thing inside the head, used for thinking.",
+      "gloss_zh_tw": "腦、腦髓;頭內柔軟灰色、負責思考之物。",
+      "example_en": "Use your brain to solve the problem.",
+      "example_zh_tw": "動腦解決問題。",
+      "synonyms": ["mind", "head"]
+    },
+    {
+      "id": "brake",
+      "definition_en": "A part of a car or bike used to stop it.",
+      "gloss_zh_tw": "煞車;用以使車輛停止的裝置。",
+      "example_en": "Put your foot on the brake.",
+      "example_zh_tw": "把腳踩到煞車上。",
+      "synonyms": ["check", "stop"]
+    },
+    {
+      "id": "branch",
+      "definition_en": "A part of a tree that grows out from the main stem.",
+      "gloss_zh_tw": "樹枝;自樹幹延伸出來的部分。",
+      "example_en": "The bird sat on a high branch.",
+      "example_zh_tw": "鳥棲息在高枝上。",
+      "synonyms": ["bough", "limb"]
+    },
+    {
+      "id": "brick",
+      "definition_en": "A hard block of baked earth, used to build walls.",
+      "gloss_zh_tw": "磚塊;烘乾的硬土塊，用於築牆。",
+      "example_en": "The house is made of red brick.",
+      "example_zh_tw": "那棟房子是紅磚砌的。",
+      "synonyms": ["block", "stone"]
+    },
+    {
+      "id": "bridge",
+      "definition_en": "A way built over a river or road, so people can go across.",
+      "gloss_zh_tw": "橋;跨越河流或道路的通道。",
+      "example_en": "Cross the bridge to get to the town.",
+      "example_zh_tw": "過橋就到那個鎮了。",
+      "synonyms": ["crossing", "span"]
+    },
+    {
+      "id": "brush",
+      "definition_en": "A tool with stiff hairs, used to clean, paint, or do the hair.",
+      "gloss_zh_tw": "刷子;具硬毛、用以清潔、塗刷或梳髮的工具。",
+      "example_en": "Use a brush to clean the floor.",
+      "example_zh_tw": "用刷子刷地板。",
+      "synonyms": ["broom", "comb"]
+    },
+    {
+      "id": "bucket",
+      "definition_en": "A round container with a handle, used to carry water.",
+      "gloss_zh_tw": "水桶;圓形帶把、用以盛水之容器。",
+      "example_en": "Fill the bucket with water.",
+      "example_zh_tw": "把桶子裝滿水。",
+      "synonyms": ["pail", "container"]
+    },
+    {
+      "id": "bulb",
+      "definition_en": "A round part of a plant that grows under the earth; or a round glass thing that gives light.",
+      "gloss_zh_tw": "球莖;或燈泡。",
+      "example_en": "Change the bulb in the lamp.",
+      "example_zh_tw": "把燈的燈泡換掉。",
+      "synonyms": ["lamp", "globe"]
+    },
+    {
+      "id": "button",
+      "definition_en": "A small round thing on clothes to keep them together.",
+      "gloss_zh_tw": "鈕扣;衣物上的小圓物，用以扣合。",
+      "example_en": "Sew on the button that came off.",
+      "example_zh_tw": "把掉下來的鈕扣縫回去。",
+      "synonyms": ["fastener", "stud"]
+    },
+    {
+      "id": "cake",
+      "definition_en": "A sweet food made of flour, sugar, and eggs, often baked.",
+      "gloss_zh_tw": "蛋糕;以麵粉、糖、蛋烘焙而成的甜食。",
+      "example_en": "She made a chocolate cake for me.",
+      "example_zh_tw": "她為我做了個巧克力蛋糕。",
+      "synonyms": ["pastry", "dessert"]
+    },
+    {
+      "id": "camera",
+      "definition_en": "A small box used to take pictures.",
+      "gloss_zh_tw": "相機;用以拍攝照片的小型器械。",
+      "example_en": "Bring your camera to the party.",
+      "example_zh_tw": "帶你的相機來派對。",
+      "synonyms": ["photographic device"]
+    },
+    {
+      "id": "card",
+      "definition_en": "A small flat piece of stiff paper, with words or pictures on it.",
+      "gloss_zh_tw": "卡片;硬挺的小張紙，上有文字或圖案。",
+      "example_en": "Send me a card on my birthday.",
+      "example_zh_tw": "我生日寄張卡片給我。",
+      "synonyms": ["postcard", "ticket"]
+    },
+    {
+      "id": "cart",
+      "definition_en": "A small thing with wheels used to carry things, often pulled by hand or by an animal.",
+      "gloss_zh_tw": "推車;帶輪可載物的小型工具，常由人或動物拉動。",
+      "example_en": "Put your goods on the cart.",
+      "example_zh_tw": "把貨物放到推車上。",
+      "synonyms": ["wagon", "trolley"]
+    },
+    {
+      "id": "carriage",
+      "definition_en": "A vehicle on wheels, often pulled by a horse, used to take people.",
+      "gloss_zh_tw": "馬車;多由馬拉動、載人的有輪車輛。",
+      "example_en": "She came to the door in a carriage.",
+      "example_zh_tw": "她搭馬車來到了門口。",
+      "synonyms": ["coach", "vehicle"]
+    },
+    {
+      "id": "cat",
+      "definition_en": "A small furry animal that is often kept as a pet.",
+      "gloss_zh_tw": "貓;常作寵物的毛皮小動物。",
+      "example_en": "The cat is on the chair.",
+      "example_zh_tw": "貓在椅子上。",
+      "synonyms": ["kitten", "feline"]
+    },
+    {
+      "id": "chain",
+      "definition_en": "A line of metal rings joined together.",
+      "gloss_zh_tw": "鏈條;金屬環相連而成的長條。",
+      "example_en": "The dog has a chain round its neck.",
+      "example_zh_tw": "那隻狗脖子上有條鏈子。",
+      "synonyms": ["link", "rope"]
+    },
+    {
+      "id": "cheese",
+      "definition_en": "A solid food made from milk, often yellow or white.",
+      "gloss_zh_tw": "起司、乳酪;以牛奶製成的固體食物，多為黃或白色。",
+      "example_en": "Put some cheese on the bread.",
+      "example_zh_tw": "在麵包上加些起司。",
+      "synonyms": ["dairy", "curd"]
+    },
+    {
+      "id": "chest",
+      "definition_en": "The front part of the body between the neck and the stomach; or a big strong box.",
+      "gloss_zh_tw": "胸部;或大型堅固箱櫃。",
+      "example_en": "She put a hand on her chest.",
+      "example_zh_tw": "她把手放在胸口。",
+      "synonyms": ["breast", "trunk"]
+    },
+    {
+      "id": "chin",
+      "definition_en": "The part of the face below the mouth.",
+      "gloss_zh_tw": "下巴;嘴下方的臉部部位。",
+      "example_en": "He has a small cut on his chin.",
+      "example_zh_tw": "他下巴有個小傷口。",
+      "synonyms": ["jaw"]
+    },
+    {
+      "id": "church",
+      "definition_en": "A building where people go to take part in their religion.",
+      "gloss_zh_tw": "教堂;信徒進行宗教活動的建築。",
+      "example_en": "We go to church every Sunday.",
+      "example_zh_tw": "我們每週日上教堂。",
+      "synonyms": ["chapel", "temple"]
+    },
+    {
+      "id": "circle",
+      "definition_en": "A round shape with one curve and no straight lines.",
+      "gloss_zh_tw": "圓形;單一弧線、無直線的形狀。",
+      "example_en": "Draw a circle on the paper.",
+      "example_zh_tw": "在紙上畫個圓。",
+      "synonyms": ["ring", "round"]
+    },
+    {
+      "id": "clock",
+      "definition_en": "A thing used to show what time it is.",
+      "gloss_zh_tw": "鐘;用以顯示時間的裝置。",
+      "example_en": "The clock on the wall says nine.",
+      "example_zh_tw": "牆上的鐘指著九點。",
+      "synonyms": ["timepiece", "watch"]
+    },
+    {
+      "id": "cloud",
+      "definition_en": "A white or grey mass of small water drops in the sky.",
+      "gloss_zh_tw": "雲;天空中由小水滴匯成的白或灰色團。",
+      "example_en": "A big dark cloud is in the sky.",
+      "example_zh_tw": "天空有一大片烏雲。",
+      "synonyms": ["mist", "haze"]
+    }
+  ]
+}

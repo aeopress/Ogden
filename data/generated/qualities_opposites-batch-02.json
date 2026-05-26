@@ -1,0 +1,207 @@
+{
+  "category": "qualities_opposites",
+  "batch": 2,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "left",
+      "definition_en": "On the side of the body where the heart is.",
+      "gloss_zh_tw": "左邊的、左方的;心臟所在的身體一側。",
+      "example_en": "Take the road to the left.",
+      "example_zh_tw": "走左邊那條路。",
+      "synonyms": ["port", "leftward"]
+    },
+    {
+      "id": "loose",
+      "definition_en": "Not held tight; able to move.",
+      "gloss_zh_tw": "鬆的、寬鬆的;未被綁緊、可活動的。",
+      "example_en": "The button is loose on my coat.",
+      "example_zh_tw": "我外套的鈕扣鬆了。",
+      "synonyms": ["slack", "free"]
+    },
+    {
+      "id": "loud",
+      "definition_en": "Making much noise; not quiet.",
+      "gloss_zh_tw": "響亮的、大聲的;聲響大、非安靜的。",
+      "example_en": "The music is too loud for me.",
+      "example_zh_tw": "這音樂太大聲了。",
+      "synonyms": ["noisy", "booming"]
+    },
+    {
+      "id": "low",
+      "definition_en": "Near the ground; not high.",
+      "gloss_zh_tw": "低的;靠近地面、非高的。",
+      "example_en": "The shelf is too low for the books.",
+      "example_zh_tw": "這個架子放書太低了。",
+      "synonyms": ["short", "depressed"]
+    },
+    {
+      "id": "mixed",
+      "definition_en": "Made of more than one kind put together.",
+      "gloss_zh_tw": "混合的、混雜的;由多種事物合成的。",
+      "example_en": "She has mixed feelings about the move.",
+      "example_zh_tw": "她對搬家有複雜的感覺。",
+      "synonyms": ["blended", "combined"]
+    },
+    {
+      "id": "narrow",
+      "definition_en": "Not wide; small from one side to the other.",
+      "gloss_zh_tw": "窄的、狹窄的;兩側距離小的。",
+      "example_en": "The path is narrow and steep.",
+      "example_zh_tw": "那條小路又窄又陡。",
+      "synonyms": ["thin", "slim"]
+    },
+    {
+      "id": "old",
+      "definition_en": "Having had many years; not new.",
+      "gloss_zh_tw": "老的、舊的;歲月已久、非新。",
+      "example_en": "She has an old dog and a young cat.",
+      "example_zh_tw": "她有一隻老狗和一隻小貓。",
+      "synonyms": ["aged", "ancient"]
+    },
+    {
+      "id": "opposite",
+      "definition_en": "On the other side; or having a very different sense.",
+      "gloss_zh_tw": "相反的、對立的;位於另一側或意義截然不同。",
+      "example_en": "The school is on the opposite side of the road.",
+      "example_zh_tw": "學校在路的另一邊。",
+      "synonyms": ["contrary", "reverse"]
+    },
+    {
+      "id": "public",
+      "definition_en": "Open to all the people; not private.",
+      "gloss_zh_tw": "公眾的、公開的;對所有人開放、非私人的。",
+      "example_en": "The library is a public place.",
+      "example_zh_tw": "圖書館是公共場所。",
+      "synonyms": ["open", "common"]
+    },
+    {
+      "id": "rough",
+      "definition_en": "Not smooth; with bumps or unevenness.",
+      "gloss_zh_tw": "粗糙的、不平的;表面有起伏、非平滑。",
+      "example_en": "The bark of the tree is rough.",
+      "example_zh_tw": "樹皮很粗糙。",
+      "synonyms": ["coarse", "bumpy"]
+    },
+    {
+      "id": "sad",
+      "definition_en": "Feeling sorrow; not happy.",
+      "gloss_zh_tw": "悲傷的、難過的;心情低落、非快樂。",
+      "example_en": "She was sad when her dog died.",
+      "example_zh_tw": "她的狗過世時她很傷心。",
+      "synonyms": ["unhappy", "sorrowful"]
+    },
+    {
+      "id": "safe",
+      "definition_en": "Not in danger; free from harm.",
+      "gloss_zh_tw": "安全的;不處於危險中、免受傷害。",
+      "example_en": "Keep the keys safe in your pocket.",
+      "example_zh_tw": "把鑰匙好好放在口袋裡。",
+      "synonyms": ["secure", "protected"]
+    },
+    {
+      "id": "secret",
+      "definition_en": "Not made known to others.",
+      "gloss_zh_tw": "祕密的、不公開的;不為他人所知的。",
+      "example_en": "She has a secret place for her notes.",
+      "example_zh_tw": "她有個藏筆記的祕密地點。",
+      "synonyms": ["hidden", "private"]
+    },
+    {
+      "id": "short",
+      "definition_en": "Of little length; not long.",
+      "gloss_zh_tw": "短的;長度小、非長的。",
+      "example_en": "She has short brown hair.",
+      "example_zh_tw": "她頭髮短短的，棕色的。",
+      "synonyms": ["brief", "small"]
+    },
+    {
+      "id": "shut",
+      "definition_en": "Closed; not open.",
+      "gloss_zh_tw": "關上的、關閉的;已合上、非開的。",
+      "example_en": "The door is shut against the cold.",
+      "example_zh_tw": "門關著擋寒風。",
+      "synonyms": ["closed", "sealed"]
+    },
+    {
+      "id": "simple",
+      "definition_en": "Easy to do or take in; not complex.",
+      "gloss_zh_tw": "簡單的、簡易的;易於完成或理解、非複雜。",
+      "example_en": "She made a simple meal for the children.",
+      "example_zh_tw": "她為孩子們做了簡單的一餐。",
+      "synonyms": ["easy", "plain"]
+    },
+    {
+      "id": "slow",
+      "definition_en": "Taking much time; not fast.",
+      "gloss_zh_tw": "慢的、緩慢的;耗時長、非快的。",
+      "example_en": "The walk is slow and pleasant.",
+      "example_zh_tw": "散步緩慢愉快。",
+      "synonyms": ["sluggish", "leisurely"]
+    },
+    {
+      "id": "small",
+      "definition_en": "Of little size; not big.",
+      "gloss_zh_tw": "小的;尺寸小、非大的。",
+      "example_en": "She bought a small bag for her trip.",
+      "example_zh_tw": "她買了個小包出門用。",
+      "synonyms": ["little", "tiny"]
+    },
+    {
+      "id": "soft",
+      "definition_en": "Easy to press; not hard.",
+      "gloss_zh_tw": "軟的、柔軟的;易被擠壓、非硬的。",
+      "example_en": "The cushion is soft and warm.",
+      "example_zh_tw": "墊子又軟又暖。",
+      "synonyms": ["tender", "gentle"]
+    },
+    {
+      "id": "solid",
+      "definition_en": "Firm and hard; not liquid or gas.",
+      "gloss_zh_tw": "固體的、堅固的;堅實的，非液或氣態。",
+      "example_en": "Ice is solid water.",
+      "example_zh_tw": "冰是固體的水。",
+      "synonyms": ["hard", "firm"]
+    },
+    {
+      "id": "special",
+      "definition_en": "Different from the rest; for a special use.",
+      "gloss_zh_tw": "特別的、特殊的;與一般不同、有特定用途。",
+      "example_en": "Today is a special day for her.",
+      "example_zh_tw": "今天對她來說是特別的一天。",
+      "synonyms": ["unique", "distinct"]
+    },
+    {
+      "id": "strange",
+      "definition_en": "Not seen before; not like the usual.",
+      "gloss_zh_tw": "奇怪的、陌生的;前所未見、與往常不同。",
+      "example_en": "A strange man came to the door.",
+      "example_zh_tw": "一個陌生男人到了門口。",
+      "synonyms": ["odd", "unfamiliar"]
+    },
+    {
+      "id": "thin",
+      "definition_en": "Of little measure from one side to the other; not thick.",
+      "gloss_zh_tw": "薄的、瘦的;雙側距離小、非厚的。",
+      "example_en": "The ice is too thin to walk on.",
+      "example_zh_tw": "冰太薄不能走。",
+      "synonyms": ["slim", "slender"]
+    },
+    {
+      "id": "white",
+      "definition_en": "Of the colour of milk or new snow.",
+      "gloss_zh_tw": "白色的;如牛奶或新雪之色。",
+      "example_en": "She has a white cat with green eyes.",
+      "example_zh_tw": "她有隻綠眼睛的白貓。",
+      "synonyms": ["pale", "ivory"]
+    },
+    {
+      "id": "wrong",
+      "definition_en": "Not right or true; in error.",
+      "gloss_zh_tw": "錯誤的、不對的;不正確或有誤的。",
+      "example_en": "The answer on the paper is wrong.",
+      "example_zh_tw": "考卷上的答案是錯的。",
+      "synonyms": ["incorrect", "mistaken"]
+    }
+  ]
+}

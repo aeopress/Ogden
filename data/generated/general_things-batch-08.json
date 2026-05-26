@@ -1,0 +1,207 @@
+{
+  "category": "general_things",
+  "batch": 8,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "lead",
+      "definition_en": "A heavy soft grey metal; or the act of going first.",
+      "gloss_zh_tw": "鉛；或帶領、領導。",
+      "example_en": "The pipes are made of lead.",
+      "example_zh_tw": "管子是鉛做的。",
+      "synonyms": ["metal", "guide"]
+    },
+    {
+      "id": "learning",
+      "definition_en": "The act of taking in knowledge.",
+      "gloss_zh_tw": "學習；取得知識的過程。",
+      "example_en": "Learning a new language takes time.",
+      "example_zh_tw": "學新語言需要時間。",
+      "synonyms": ["study", "education"]
+    },
+    {
+      "id": "leather",
+      "definition_en": "The skin of an animal made hard, used for shoes or bags.",
+      "gloss_zh_tw": "皮革；經處理變硬的動物皮，用於鞋或包。",
+      "example_en": "Her bag is made of brown leather.",
+      "example_zh_tw": "她的包是棕色皮革做的。",
+      "synonyms": ["hide", "skin"]
+    },
+    {
+      "id": "letter",
+      "definition_en": "A written message sent from one person to another; or a sign in writing.",
+      "gloss_zh_tw": "信件；或字母。",
+      "example_en": "I got a letter from my mother.",
+      "example_zh_tw": "我收到媽媽的信。",
+      "synonyms": ["note", "message"]
+    },
+    {
+      "id": "level",
+      "definition_en": "A flat state, with no part higher than another; or a step in a scale.",
+      "gloss_zh_tw": "水平、等級；平整無起伏，或某階段。",
+      "example_en": "The water came up to the level of my knee.",
+      "example_zh_tw": "水淹到了我的膝蓋。",
+      "synonyms": ["plane", "stage"]
+    },
+    {
+      "id": "lift",
+      "definition_en": "The act of taking a thing up to a higher place.",
+      "gloss_zh_tw": "舉起、抬升；把物品移到較高處。",
+      "example_en": "Give me a lift with this box.",
+      "example_zh_tw": "幫我抬一下這個箱子。",
+      "synonyms": ["raise", "hoist"]
+    },
+    {
+      "id": "light",
+      "definition_en": "The bright thing from the sun or a lamp that lets us see.",
+      "gloss_zh_tw": "光、光線；來自陽光或燈具、使我們得以視物的明亮之物。",
+      "example_en": "Turn on the light, please.",
+      "example_zh_tw": "請開燈。",
+      "synonyms": ["glow", "shine"]
+    },
+    {
+      "id": "limit",
+      "definition_en": "The point past which a thing cannot go.",
+      "gloss_zh_tw": "界限、上限；事物不能超越之處。",
+      "example_en": "There is a limit to my time today.",
+      "example_zh_tw": "我今天時間有限。",
+      "synonyms": ["edge", "boundary"]
+    },
+    {
+      "id": "linen",
+      "definition_en": "A strong cloth made from a plant called flax.",
+      "gloss_zh_tw": "亞麻布；以亞麻植物纖維織成的堅韌布料。",
+      "example_en": "She put clean linen on the bed.",
+      "example_zh_tw": "她在床上換了乾淨的亞麻床單。",
+      "synonyms": ["cloth", "fabric"]
+    },
+    {
+      "id": "liquid",
+      "definition_en": "A thing that flows, like water or milk.",
+      "gloss_zh_tw": "液體；可流動之物，如水或牛奶。",
+      "example_en": "Pour the liquid into the cup.",
+      "example_zh_tw": "把液體倒進杯子裡。",
+      "synonyms": ["fluid", "drink"]
+    },
+    {
+      "id": "list",
+      "definition_en": "A row of words or things written down one by one.",
+      "gloss_zh_tw": "清單、名單；逐項書寫的詞或事物。",
+      "example_en": "Make a list of what we need to buy.",
+      "example_zh_tw": "把要買的東西寫成清單。",
+      "synonyms": ["roll", "record"]
+    },
+    {
+      "id": "look",
+      "definition_en": "An act of turning the eyes to see a thing.",
+      "gloss_zh_tw": "看、瞥；轉動眼睛以視物。",
+      "example_en": "Take a quick look at this book.",
+      "example_zh_tw": "快看一下這本書。",
+      "synonyms": ["glance", "gaze"]
+    },
+    {
+      "id": "loss",
+      "definition_en": "The state of not having a thing one had before.",
+      "gloss_zh_tw": "損失、喪失；不再擁有先前之物的狀態。",
+      "example_en": "Her loss made her very sad.",
+      "example_zh_tw": "她的失去讓她非常傷心。",
+      "synonyms": ["damage", "deficit"]
+    },
+    {
+      "id": "love",
+      "definition_en": "A very strong warm feeling for a person or thing.",
+      "gloss_zh_tw": "愛、喜愛；對人或事物的深厚情感。",
+      "example_en": "She has great love for her family.",
+      "example_zh_tw": "她非常愛她的家人。",
+      "synonyms": ["affection", "care"]
+    },
+    {
+      "id": "machine",
+      "definition_en": "A thing made of parts that work together to do work.",
+      "gloss_zh_tw": "機器、機械；由部件組成、可動作完成工作的器具。",
+      "example_en": "This machine cuts cloth.",
+      "example_zh_tw": "這台機器是用來剪布料的。",
+      "synonyms": ["device", "apparatus"]
+    },
+    {
+      "id": "man",
+      "definition_en": "An adult male person.",
+      "gloss_zh_tw": "男人、男性成人。",
+      "example_en": "An old man sat by the door.",
+      "example_zh_tw": "一個老人坐在門邊。",
+      "synonyms": ["gentleman", "male"]
+    },
+    {
+      "id": "manager",
+      "definition_en": "A person whose work is to lead others in a job.",
+      "gloss_zh_tw": "經理、管理者；在工作中領導他人之人。",
+      "example_en": "The manager will see you now.",
+      "example_zh_tw": "經理現在要見你。",
+      "synonyms": ["boss", "head"]
+    },
+    {
+      "id": "mark",
+      "definition_en": "A small spot, line, or sign on a thing.",
+      "gloss_zh_tw": "印記、記號；事物上的小斑點或標誌。",
+      "example_en": "There is a mark on the wall.",
+      "example_zh_tw": "牆上有個印子。",
+      "synonyms": ["spot", "sign"]
+    },
+    {
+      "id": "market",
+      "definition_en": "A place where people go to buy and sell things.",
+      "gloss_zh_tw": "市場；買賣物品的場所。",
+      "example_en": "I buy fruit at the market every week.",
+      "example_zh_tw": "我每週都去市場買水果。",
+      "synonyms": ["bazaar", "fair"]
+    },
+    {
+      "id": "mass",
+      "definition_en": "A big amount of a thing put together.",
+      "gloss_zh_tw": "團、塊；大量聚集之物。",
+      "example_en": "A mass of clouds came over the hill.",
+      "example_zh_tw": "一團團雲飄過了山頭。",
+      "synonyms": ["lump", "bulk"]
+    },
+    {
+      "id": "meal",
+      "definition_en": "Food eaten at one time, like breakfast or dinner.",
+      "gloss_zh_tw": "一餐、餐食；某一次進食所吃的食物。",
+      "example_en": "We had a big meal at noon.",
+      "example_zh_tw": "中午我們吃了一大頓。",
+      "synonyms": ["dish", "feast"]
+    },
+    {
+      "id": "measure",
+      "definition_en": "The act of finding how big, long, or much a thing is.",
+      "gloss_zh_tw": "量度、量測；測知事物的大小、長度或數量。",
+      "example_en": "Take the measure of the room.",
+      "example_zh_tw": "量一下這間房間的大小。",
+      "synonyms": ["gauge", "size"]
+    },
+    {
+      "id": "meat",
+      "definition_en": "The flesh of an animal used for food.",
+      "gloss_zh_tw": "肉；可食用的動物肌肉。",
+      "example_en": "We had meat for dinner.",
+      "example_zh_tw": "晚餐我們吃了肉。",
+      "synonyms": ["flesh"]
+    },
+    {
+      "id": "meeting",
+      "definition_en": "A time when people come together to talk.",
+      "gloss_zh_tw": "會議、會面；眾人聚集討論的時刻。",
+      "example_en": "Our meeting is at three today.",
+      "example_zh_tw": "我們的會議今天三點。",
+      "synonyms": ["gathering", "session"]
+    },
+    {
+      "id": "memory",
+      "definition_en": "What one keeps in the mind from before.",
+      "gloss_zh_tw": "記憶、回憶；心中所留存的舊事。",
+      "example_en": "I have a clear memory of that day.",
+      "example_zh_tw": "那一天我記得很清楚。",
+      "synonyms": ["recall", "remembrance"]
+    }
+  ]
+}

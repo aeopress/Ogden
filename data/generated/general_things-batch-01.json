@@ -1,0 +1,207 @@
+{
+  "category": "general_things",
+  "batch": 1,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "account",
+      "definition_en": "A record of money taken in and paid out by a person or a business.",
+      "gloss_zh_tw": "帳戶、帳目；金錢進出的紀錄。",
+      "example_en": "Please put it on my account.",
+      "example_zh_tw": "請記在我的帳上。",
+      "synonyms": ["record", "bill"]
+    },
+    {
+      "id": "act",
+      "definition_en": "Something that is done; or a part of a play.",
+      "gloss_zh_tw": "動作、行為；表演的一幕。",
+      "example_en": "Her last act was to send a letter home.",
+      "example_zh_tw": "她最後做的事是寄一封信回家。",
+      "synonyms": ["do", "behaviour"]
+    },
+    {
+      "id": "addition",
+      "definition_en": "The act of joining one thing to another, so making more.",
+      "gloss_zh_tw": "加上、添加；附加之物。",
+      "example_en": "In addition to milk, she put sugar in her tea.",
+      "example_zh_tw": "除了牛奶，她還在茶裡加了糖。",
+      "synonyms": ["increase", "join"]
+    },
+    {
+      "id": "adjustment",
+      "definition_en": "A small change to make a thing fit better or work right.",
+      "gloss_zh_tw": "調整、調節；小幅的修正。",
+      "example_en": "I need to make a small adjustment to my watch.",
+      "example_zh_tw": "我要稍微調整一下我的手錶。",
+      "synonyms": ["change", "fix"]
+    },
+    {
+      "id": "advertisement",
+      "definition_en": "A printed or pictured notice that gets people to take an interest in something to buy.",
+      "gloss_zh_tw": "廣告；用以宣傳、招攬注意的訊息。",
+      "example_en": "The advertisement said the shop was open all day.",
+      "example_zh_tw": "廣告上說這家店全天營業。",
+      "synonyms": ["notice", "sign"]
+    },
+    {
+      "id": "agreement",
+      "definition_en": "A condition where two or more persons say yes to the same thing.",
+      "gloss_zh_tw": "同意、協議；達成一致的看法。",
+      "example_en": "We came to an agreement on the price.",
+      "example_zh_tw": "我們在價錢上達成了協議。",
+      "synonyms": ["approval", "accord"]
+    },
+    {
+      "id": "air",
+      "definition_en": "The mix of gases all about us, that we take in to be living.",
+      "gloss_zh_tw": "空氣；環繞我們、供呼吸的氣體。",
+      "example_en": "Let some fresh air into the room.",
+      "example_zh_tw": "讓一點新鮮空氣進房間。",
+      "synonyms": ["wind", "breath"]
+    },
+    {
+      "id": "amount",
+      "definition_en": "How much there is of a thing.",
+      "gloss_zh_tw": "數量、總量；某事物的多寡。",
+      "example_en": "We need a small amount of salt.",
+      "example_zh_tw": "我們需要一點點鹽。",
+      "synonyms": ["quantity", "number"]
+    },
+    {
+      "id": "amusement",
+      "definition_en": "The feeling of being made happy by something fun.",
+      "gloss_zh_tw": "娛樂、樂趣；因有趣事物而感到的開心。",
+      "example_en": "She watched the dog with amusement.",
+      "example_zh_tw": "她饒富興味地看著那隻狗。",
+      "synonyms": ["pleasure", "fun"]
+    },
+    {
+      "id": "animal",
+      "definition_en": "A living thing that is not a plant or person, like a dog or bird.",
+      "gloss_zh_tw": "動物；非植物、非人類的生物。",
+      "example_en": "The cat is my favourite animal.",
+      "example_zh_tw": "貓是我最喜歡的動物。",
+      "synonyms": ["creature", "being"]
+    },
+    {
+      "id": "answer",
+      "definition_en": "Words said back to a question; or the right end to a problem.",
+      "gloss_zh_tw": "回答、答覆；問題的解答。",
+      "example_en": "I do not know the answer to your question.",
+      "example_zh_tw": "我不知道你問題的答案。",
+      "synonyms": ["reply", "say"]
+    },
+    {
+      "id": "apparatus",
+      "definition_en": "A set of parts put together to do a special work.",
+      "gloss_zh_tw": "器具、儀器；為特定用途組合的器材。",
+      "example_en": "The new apparatus is in the science room.",
+      "example_zh_tw": "新的儀器放在自然科教室。",
+      "synonyms": ["instrument", "machine"]
+    },
+    {
+      "id": "approval",
+      "definition_en": "The act of saying that one thinks well of a thing.",
+      "gloss_zh_tw": "認可、贊同；表示肯定的態度。",
+      "example_en": "She gave a nod of approval.",
+      "example_zh_tw": "她點頭表示同意。",
+      "synonyms": ["agreement", "support"]
+    },
+    {
+      "id": "argument",
+      "definition_en": "A talk where two or more persons do not say the same thing.",
+      "gloss_zh_tw": "爭論、辯論；意見不同的對話。",
+      "example_en": "They had a long argument about the price.",
+      "example_zh_tw": "他們為了價錢爭論了很久。",
+      "synonyms": ["fight", "discussion"]
+    },
+    {
+      "id": "art",
+      "definition_en": "The making of beautiful things, such as pictures or music.",
+      "gloss_zh_tw": "藝術；創作美的事物，如繪畫或音樂。",
+      "example_en": "She is good at the art of writing.",
+      "example_zh_tw": "她在寫作這門藝術上很有功夫。",
+      "synonyms": ["skill", "craft"]
+    },
+    {
+      "id": "attack",
+      "definition_en": "A violent act done to hurt or take a thing.",
+      "gloss_zh_tw": "攻擊、襲擊；以暴力傷害或奪取。",
+      "example_en": "The dog made an attack on the bird.",
+      "example_zh_tw": "那隻狗攻擊了那隻鳥。",
+      "synonyms": ["fight", "assault"]
+    },
+    {
+      "id": "attempt",
+      "definition_en": "An act of trying to do something.",
+      "gloss_zh_tw": "嘗試、試圖；試著去做。",
+      "example_en": "She made an attempt to open the door.",
+      "example_zh_tw": "她試著去打開那扇門。",
+      "synonyms": ["try", "effort"]
+    },
+    {
+      "id": "attention",
+      "definition_en": "The act of taking note of a thing; keeping one's mind on it.",
+      "gloss_zh_tw": "注意、留心；專注於某事。",
+      "example_en": "Please give me your attention for a minute.",
+      "example_zh_tw": "請聽我說一下。",
+      "synonyms": ["care", "interest"]
+    },
+    {
+      "id": "attraction",
+      "definition_en": "The power that makes a thing pull others to it.",
+      "gloss_zh_tw": "吸引力、吸引；使其他事物靠近的力量。",
+      "example_en": "The new shop is a great attraction in town.",
+      "example_zh_tw": "那家新店是鎮上的一大亮點。",
+      "synonyms": ["pull", "interest"]
+    },
+    {
+      "id": "authority",
+      "definition_en": "The right or power to say what others must do.",
+      "gloss_zh_tw": "權威、權力；管轄或下令的權利。",
+      "example_en": "The police have authority over the town.",
+      "example_zh_tw": "警察對這個鎮有管轄權。",
+      "synonyms": ["power", "control"]
+    },
+    {
+      "id": "back",
+      "definition_en": "The part behind, opposite to the front.",
+      "gloss_zh_tw": "背部、後方；與正面相對。",
+      "example_en": "Put the box at the back of the room.",
+      "example_zh_tw": "把箱子放在房間後面。",
+      "synonyms": ["rear", "behind"]
+    },
+    {
+      "id": "balance",
+      "definition_en": "The state of being even on both sides, so a thing does not fall.",
+      "gloss_zh_tw": "平衡；兩側相當而不傾倒的狀態。",
+      "example_en": "He has good balance when he runs.",
+      "example_zh_tw": "他跑步時平衡很好。",
+      "synonyms": ["scale", "level"]
+    },
+    {
+      "id": "base",
+      "definition_en": "The lowest part of a thing, on which it stands.",
+      "gloss_zh_tw": "基底、底部；事物所立的最下端。",
+      "example_en": "The base of the lamp is made of metal.",
+      "example_zh_tw": "燈的底座是金屬做的。",
+      "synonyms": ["foot", "bottom"]
+    },
+    {
+      "id": "behaviour",
+      "definition_en": "The way a person or animal acts.",
+      "gloss_zh_tw": "行為、舉止；行事的方式。",
+      "example_en": "Her behaviour at the meeting was very kind.",
+      "example_zh_tw": "她在會議上的舉止非常和善。",
+      "synonyms": ["act", "conduct"]
+    },
+    {
+      "id": "belief",
+      "definition_en": "What a person thinks is true.",
+      "gloss_zh_tw": "信念、相信；認為某事為真。",
+      "example_en": "It is my belief that hard work pays.",
+      "example_zh_tw": "我相信努力會有回報。",
+      "synonyms": ["thought", "faith"]
+    }
+  ]
+}

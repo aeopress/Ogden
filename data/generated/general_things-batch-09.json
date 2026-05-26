@@ -1,0 +1,207 @@
+{
+  "category": "general_things",
+  "batch": 9,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "metal",
+      "definition_en": "A hard shining stuff like iron or gold, taken from rocks.",
+      "gloss_zh_tw": "金屬；自岩石提煉、堅硬有光澤的物質。",
+      "example_en": "The chair is made of metal.",
+      "example_zh_tw": "這張椅子是金屬做的。",
+      "synonyms": ["iron", "ore"]
+    },
+    {
+      "id": "middle",
+      "definition_en": "The part of a thing that is the same way from each side.",
+      "gloss_zh_tw": "中間、中央；各方等距之處。",
+      "example_en": "He stood in the middle of the room.",
+      "example_zh_tw": "他站在房間中央。",
+      "synonyms": ["centre", "midst"]
+    },
+    {
+      "id": "milk",
+      "definition_en": "The white liquid that comes from a cow or other animal, used as a drink.",
+      "gloss_zh_tw": "牛奶、奶；自牛或其他動物所產之白色液體飲品。",
+      "example_en": "Drink your milk before you go.",
+      "example_zh_tw": "出門前把牛奶喝完。",
+      "synonyms": ["dairy"]
+    },
+    {
+      "id": "mind",
+      "definition_en": "The part of a person that thinks and feels.",
+      "gloss_zh_tw": "心智、頭腦;負責思考與感受的內在部分。",
+      "example_en": "Keep her words in your mind.",
+      "example_zh_tw": "把她的話記在心裡。",
+      "synonyms": ["brain", "thought"]
+    },
+    {
+      "id": "mine",
+      "definition_en": "A deep hole in the earth from which metal or coal is taken.",
+      "gloss_zh_tw": "礦坑、礦山；自地下開採金屬或煤之處。",
+      "example_en": "The men work in a coal mine.",
+      "example_zh_tw": "那些男人在煤礦工作。",
+      "synonyms": ["pit", "shaft"]
+    },
+    {
+      "id": "minute",
+      "definition_en": "A short time, made of sixty seconds.",
+      "gloss_zh_tw": "分鐘；六十秒鐘的時間。",
+      "example_en": "Wait one minute, please.",
+      "example_zh_tw": "請等一分鐘。",
+      "synonyms": ["moment", "time"]
+    },
+    {
+      "id": "mist",
+      "definition_en": "Very small drops of water in the air that make it hard to see far.",
+      "gloss_zh_tw": "薄霧；空氣中極小水滴造成的視線模糊。",
+      "example_en": "There was thick mist on the road this morning.",
+      "example_zh_tw": "今早路上霧很濃。",
+      "synonyms": ["fog", "haze"]
+    },
+    {
+      "id": "money",
+      "definition_en": "What people use to pay for things they get.",
+      "gloss_zh_tw": "金錢、錢；用以購買物品的工具。",
+      "example_en": "I have no money on me today.",
+      "example_zh_tw": "我今天身上沒錢。",
+      "synonyms": ["cash", "coin"]
+    },
+    {
+      "id": "month",
+      "definition_en": "One of the twelve parts of a year, like April or May.",
+      "gloss_zh_tw": "月份；一年中的十二個區塊之一。",
+      "example_en": "The wedding is next month.",
+      "example_zh_tw": "婚禮在下個月。",
+      "synonyms": ["period"]
+    },
+    {
+      "id": "morning",
+      "definition_en": "The early part of the day, from sunrise to noon.",
+      "gloss_zh_tw": "早晨、上午；日出至中午的時段。",
+      "example_en": "I go for a walk every morning.",
+      "example_zh_tw": "我每天早上去散步。",
+      "synonyms": ["dawn", "daybreak"]
+    },
+    {
+      "id": "mother",
+      "definition_en": "A female parent.",
+      "gloss_zh_tw": "母親；女性親長。",
+      "example_en": "My mother is in the garden.",
+      "example_zh_tw": "我媽在花園裡。",
+      "synonyms": ["mum", "mama"]
+    },
+    {
+      "id": "motion",
+      "definition_en": "The act of moving, or the way a thing moves.",
+      "gloss_zh_tw": "動作、運動；移動的現象或方式。",
+      "example_en": "The boat was in slow motion on the water.",
+      "example_zh_tw": "船在水面上緩慢移動。",
+      "synonyms": ["movement", "action"]
+    },
+    {
+      "id": "mountain",
+      "definition_en": "A very high part of the earth, much higher than a hill.",
+      "gloss_zh_tw": "山、高山；地表上遠高於丘陵的隆起。",
+      "example_en": "She climbed a high mountain last year.",
+      "example_zh_tw": "她去年爬了一座高山。",
+      "synonyms": ["peak", "hill"]
+    },
+    {
+      "id": "move",
+      "definition_en": "An act of going from one place to another.",
+      "gloss_zh_tw": "移動、搬動；從一處到另一處。",
+      "example_en": "Make one move to the left, please.",
+      "example_zh_tw": "請往左移動一步。",
+      "synonyms": ["motion", "shift"]
+    },
+    {
+      "id": "music",
+      "definition_en": "Sounds put together in a way that is pleasing to the ear.",
+      "gloss_zh_tw": "音樂；悅耳的聲響組合。",
+      "example_en": "She plays good music on the piano.",
+      "example_zh_tw": "她在鋼琴上彈奏動聽的音樂。",
+      "synonyms": ["tune", "song"]
+    },
+    {
+      "id": "name",
+      "definition_en": "The word by which a person or thing is called.",
+      "gloss_zh_tw": "名字、名稱；用以稱呼人或事物之詞。",
+      "example_en": "What is your name?",
+      "example_zh_tw": "你叫什麼名字？",
+      "synonyms": ["title", "label"]
+    },
+    {
+      "id": "nation",
+      "definition_en": "A country and its people.",
+      "gloss_zh_tw": "國家、民族；一個國家及其人民。",
+      "example_en": "Our nation is at peace.",
+      "example_zh_tw": "我們的國家很和平。",
+      "synonyms": ["country", "state"]
+    },
+    {
+      "id": "need",
+      "definition_en": "A thing one must have.",
+      "gloss_zh_tw": "需要、需求；必須具備之物。",
+      "example_en": "We have a need for more food.",
+      "example_zh_tw": "我們需要更多食物。",
+      "synonyms": ["want", "requirement"]
+    },
+    {
+      "id": "news",
+      "definition_en": "Word of new things that have happened.",
+      "gloss_zh_tw": "新聞、消息；近期發生之事的訊息。",
+      "example_en": "I heard good news today.",
+      "example_zh_tw": "我今天聽到了好消息。",
+      "synonyms": ["report", "information"]
+    },
+    {
+      "id": "night",
+      "definition_en": "The time when the sky is dark, between evening and morning.",
+      "gloss_zh_tw": "夜晚、夜間；天黑至天亮之間的時段。",
+      "example_en": "We go to bed at night.",
+      "example_zh_tw": "我們晚上會去睡覺。",
+      "synonyms": ["evening", "dark"]
+    },
+    {
+      "id": "noise",
+      "definition_en": "A loud or harsh sound.",
+      "gloss_zh_tw": "噪音、聲響；響亮或刺耳的聲音。",
+      "example_en": "The dogs made a lot of noise.",
+      "example_zh_tw": "那些狗叫得很吵。",
+      "synonyms": ["sound", "din"]
+    },
+    {
+      "id": "note",
+      "definition_en": "A short message written down; or a single sound in music.",
+      "gloss_zh_tw": "便條、筆記；或音樂中的一個音符。",
+      "example_en": "She left a note on the table.",
+      "example_zh_tw": "她在桌上留了張紙條。",
+      "synonyms": ["memo", "record"]
+    },
+    {
+      "id": "number",
+      "definition_en": "A word or sign that tells how many.",
+      "gloss_zh_tw": "數字、號碼；表示數量的詞或符號。",
+      "example_en": "Write your number on the paper.",
+      "example_zh_tw": "把你的號碼寫在紙上。",
+      "synonyms": ["count", "figure"]
+    },
+    {
+      "id": "observation",
+      "definition_en": "The act of watching a thing closely.",
+      "gloss_zh_tw": "觀察、觀測；仔細注視某事物。",
+      "example_en": "His observation of birds is very careful.",
+      "example_zh_tw": "他觀察鳥兒非常仔細。",
+      "synonyms": ["watching", "study"]
+    },
+    {
+      "id": "offer",
+      "definition_en": "An act of saying one will give a thing if it is wanted.",
+      "gloss_zh_tw": "提議、提供；表示願意給予的意思表達。",
+      "example_en": "She made an offer of help.",
+      "example_zh_tw": "她表示願意幫忙。",
+      "synonyms": ["proposal", "give"]
+    }
+  ]
+}

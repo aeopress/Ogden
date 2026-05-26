@@ -1,0 +1,47 @@
+---
+import Base from '@/layouts/Base.astro';
+import Hero from '@/components/Hero.astro';
+import Nav from '@/components/Nav.astro';
+import CategorySection from '@/components/CategorySection.astro';
+import PracticeOverlay from '@/components/PracticeOverlay.astro';
+import Footer from '@/components/Footer.astro';
+
+import { CATEGORIES } from '@/data/schema';
+import { WORDS } from '@/data/words';
+
+const byCategory = CATEGORIES.map((cat) => ({
+  cat,
+  words: WORDS.filter((w) => w.category === cat),
+}));
+---
+
+<Base>
+  <Hero />
+  <Nav />
+  <main class="main">
+    {byCategory.map(({ cat, words }) => (
+      <CategorySection category={cat} words={words} />
+    ))}
+    <p id="empty-state" class="empty" hidden>沒找到符合的單字。換個詞試試？</p>
+  </main>
+  <PracticeOverlay />
+  <Footer />
+
+  <script>
+    import '@/scripts/main.client.ts';
+  </script>
+</Base>
+
+<style>
+  .main {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 32px;
+  }
+  .empty {
+    text-align: center;
+    color: var(--ink-faint);
+    padding: 48px 16px;
+    font-family: var(--zh-serif);
+  }
+</style>

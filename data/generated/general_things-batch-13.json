@@ -1,0 +1,207 @@
+{
+  "category": "general_things",
+  "batch": 13,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "sense",
+      "definition_en": "A way the body takes in things, like sight or smell.",
+      "gloss_zh_tw": "感官、感覺；身體接收外物的方式，如視覺或嗅覺。",
+      "example_en": "Dogs have a strong sense of smell.",
+      "example_zh_tw": "狗的嗅覺很敏銳。",
+      "synonyms": ["feeling", "perception"]
+    },
+    {
+      "id": "servant",
+      "definition_en": "A person whose work is to do things for another.",
+      "gloss_zh_tw": "僕人、僕役；為他人做事的人。",
+      "example_en": "The servant brought us tea.",
+      "example_zh_tw": "僕人端來了茶。",
+      "synonyms": ["helper", "attendant"]
+    },
+    {
+      "id": "sex",
+      "definition_en": "The state of being male or female.",
+      "gloss_zh_tw": "性別；雌雄之分。",
+      "example_en": "The form asks for your sex.",
+      "example_zh_tw": "表格要填性別。",
+      "synonyms": ["gender"]
+    },
+    {
+      "id": "shade",
+      "definition_en": "A place out of the sun, made dark by something over it.",
+      "gloss_zh_tw": "陰影、蔭涼;遮蔽陽光所形成的暗處。",
+      "example_en": "Sit in the shade of the tree.",
+      "example_zh_tw": "坐在樹蔭下。",
+      "synonyms": ["shadow", "shelter"]
+    },
+    {
+      "id": "shake",
+      "definition_en": "A quick back-and-forth motion.",
+      "gloss_zh_tw": "搖晃、震動;快速來回的動作。",
+      "example_en": "Give the bottle a hard shake.",
+      "example_zh_tw": "把瓶子用力搖一搖。",
+      "synonyms": ["tremor", "wobble"]
+    },
+    {
+      "id": "shame",
+      "definition_en": "A bad feeling about a thing one has done wrong.",
+      "gloss_zh_tw": "羞愧、慚愧;對自己錯誤行為的不安感。",
+      "example_en": "She felt great shame about her words.",
+      "example_zh_tw": "她對自己說的話深感愧疚。",
+      "synonyms": ["embarrassment", "guilt"]
+    },
+    {
+      "id": "shock",
+      "definition_en": "A sudden hard hit, or a strong feeling from a bad news.",
+      "gloss_zh_tw": "震驚;或突如其來的強烈撞擊。",
+      "example_en": "Her death was a shock to us all.",
+      "example_zh_tw": "她的死令我們大家都很震驚。",
+      "synonyms": ["surprise", "jolt"]
+    },
+    {
+      "id": "side",
+      "definition_en": "One of the parts of a thing that is not the top, bottom, front, or back.",
+      "gloss_zh_tw": "邊、側面;非頂、底、前、後的部分。",
+      "example_en": "Sit on this side of the table.",
+      "example_zh_tw": "請坐桌子的這一邊。",
+      "synonyms": ["edge", "flank"]
+    },
+    {
+      "id": "sign",
+      "definition_en": "A mark or picture that tells one something.",
+      "gloss_zh_tw": "標誌、徵兆;傳達訊息的符號或圖案。",
+      "example_en": "The sign says the shop is closed.",
+      "example_zh_tw": "招牌上寫店休。",
+      "synonyms": ["mark", "symbol"]
+    },
+    {
+      "id": "silk",
+      "definition_en": "A soft fine cloth made from the thread of a worm.",
+      "gloss_zh_tw": "絲、絲綢;以蠶絲織成的細軟布料。",
+      "example_en": "She wears a silk dress to the meeting.",
+      "example_zh_tw": "她穿絲質洋裝去開會。",
+      "synonyms": ["thread", "fabric"]
+    },
+    {
+      "id": "silver",
+      "definition_en": "A bright soft metal of white colour, used for coins and rings.",
+      "gloss_zh_tw": "銀;明亮柔軟的白色金屬，用於錢幣或飾品。",
+      "example_en": "The spoon is made of silver.",
+      "example_zh_tw": "湯匙是銀做的。",
+      "synonyms": ["metal", "argent"]
+    },
+    {
+      "id": "sister",
+      "definition_en": "A girl or woman who has the same mother and father as another person.",
+      "gloss_zh_tw": "姊妹;同父母所生的女性手足。",
+      "example_en": "My sister is in school.",
+      "example_zh_tw": "我妹妹在唸書。",
+      "synonyms": ["sibling", "sis"]
+    },
+    {
+      "id": "size",
+      "definition_en": "How big or small a thing is.",
+      "gloss_zh_tw": "大小、尺寸;事物大小的程度。",
+      "example_en": "What size of shoes do you wear?",
+      "example_zh_tw": "你穿幾號鞋？",
+      "synonyms": ["measure", "scale"]
+    },
+    {
+      "id": "sky",
+      "definition_en": "The space above the earth, where the sun, moon, and clouds are seen.",
+      "gloss_zh_tw": "天空;地球上方可見日月雲彩之處。",
+      "example_en": "Look at the blue sky.",
+      "example_zh_tw": "看看那片藍天。",
+      "synonyms": ["heaven", "air"]
+    },
+    {
+      "id": "sleep",
+      "definition_en": "The state of rest at night when the eyes are shut.",
+      "gloss_zh_tw": "睡眠、睡覺;夜晚閉目休息的狀態。",
+      "example_en": "I had a good sleep last night.",
+      "example_zh_tw": "我昨晚睡得很好。",
+      "synonyms": ["rest", "slumber"]
+    },
+    {
+      "id": "slip",
+      "definition_en": "A small fall, often with the feet sliding.",
+      "gloss_zh_tw": "滑倒、失足;常因雙腳打滑而跌倒。",
+      "example_en": "She had a slip on the wet floor.",
+      "example_zh_tw": "她在濕地板上滑了一跤。",
+      "synonyms": ["slide", "trip"]
+    },
+    {
+      "id": "slope",
+      "definition_en": "A line of land that goes up or down.",
+      "gloss_zh_tw": "斜坡、坡度;向上或向下傾斜的地形。",
+      "example_en": "The slope of the hill is gentle.",
+      "example_zh_tw": "山坡很平緩。",
+      "synonyms": ["incline", "gradient"]
+    },
+    {
+      "id": "smash",
+      "definition_en": "A hard hit that breaks a thing into many bits.",
+      "gloss_zh_tw": "粉碎、猛擊;用力擊打使物碎裂。",
+      "example_en": "He gave the door a hard smash.",
+      "example_zh_tw": "他用力猛擊那扇門。",
+      "synonyms": ["crush", "shatter"]
+    },
+    {
+      "id": "smell",
+      "definition_en": "What one notes through the nose; or the act of doing so.",
+      "gloss_zh_tw": "氣味、味道;或聞的動作。",
+      "example_en": "There is a sweet smell in the air.",
+      "example_zh_tw": "空氣中有股甜甜的香味。",
+      "synonyms": ["odour", "scent"]
+    },
+    {
+      "id": "smile",
+      "definition_en": "A look of being happy, with the corners of the mouth turned up.",
+      "gloss_zh_tw": "微笑;嘴角上揚的快樂表情。",
+      "example_en": "She gave him a warm smile.",
+      "example_zh_tw": "她對他親切地笑了笑。",
+      "synonyms": ["grin", "beam"]
+    },
+    {
+      "id": "smoke",
+      "definition_en": "The grey or white air that comes from a thing on fire.",
+      "gloss_zh_tw": "煙;起火物體所冒出的灰或白色氣體。",
+      "example_en": "Smoke came out of the chimney.",
+      "example_zh_tw": "煙從煙囪冒出來。",
+      "synonyms": ["vapour", "fume"]
+    },
+    {
+      "id": "sneeze",
+      "definition_en": "A sudden push of air out of the nose, often when one has a cold.",
+      "gloss_zh_tw": "打噴嚏;自鼻孔突然噴出空氣，常因感冒。",
+      "example_en": "She gave a loud sneeze.",
+      "example_zh_tw": "她大聲打了個噴嚏。",
+      "synonyms": ["snort"]
+    },
+    {
+      "id": "snow",
+      "definition_en": "White soft bits of frozen water that fall from the sky in winter.",
+      "gloss_zh_tw": "雪、雪花;冬季自天而降、凍結的白色軟片狀水。",
+      "example_en": "Snow came down all night.",
+      "example_zh_tw": "雪下了一整夜。",
+      "synonyms": ["flake", "frost"]
+    },
+    {
+      "id": "soap",
+      "definition_en": "A thing used with water to make oneself or other things clean.",
+      "gloss_zh_tw": "肥皂;與水並用以清潔之物。",
+      "example_en": "Wash your hands with soap.",
+      "example_zh_tw": "用肥皂洗手。",
+      "synonyms": ["detergent", "wash"]
+    },
+    {
+      "id": "society",
+      "definition_en": "All the people who live together with the same ways and rules.",
+      "gloss_zh_tw": "社會;共同生活、有共通規範的群體。",
+      "example_en": "Education is good for our society.",
+      "example_zh_tw": "教育對我們的社會有益。",
+      "synonyms": ["community", "public"]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "general_things",
+  "batch": 2,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "birth",
+      "definition_en": "The coming of a new life into the world.",
+      "gloss_zh_tw": "出生、誕生；新生命到來的時刻。",
+      "example_en": "The baby's birth made the family happy.",
+      "example_zh_tw": "嬰兒的出生讓全家很開心。",
+      "synonyms": ["start", "beginning"]
+    },
+    {
+      "id": "bit",
+      "definition_en": "A very small piece or amount of a thing.",
+      "gloss_zh_tw": "一點、少量；極小的一塊。",
+      "example_en": "There is a bit of bread left.",
+      "example_zh_tw": "還剩一點點麵包。",
+      "synonyms": ["piece", "part"]
+    },
+    {
+      "id": "bite",
+      "definition_en": "The act of taking food with the teeth.",
+      "gloss_zh_tw": "咬、咬一口；用牙齒夾住。",
+      "example_en": "The dog gave my hand a small bite.",
+      "example_zh_tw": "那隻狗在我手上輕輕咬了一下。",
+      "synonyms": ["chew", "snap"]
+    },
+    {
+      "id": "blood",
+      "definition_en": "The red liquid that goes round inside the body of a person or animal.",
+      "gloss_zh_tw": "血、血液；體內循環的紅色液體。",
+      "example_en": "Blood was running from the small cut.",
+      "example_zh_tw": "小傷口流出了血。",
+      "synonyms": ["liquid", "fluid"]
+    },
+    {
+      "id": "blow",
+      "definition_en": "A strong hit; or the act of pushing air out from the mouth.",
+      "gloss_zh_tw": "重擊；吹氣的動作。",
+      "example_en": "The wind gave the door a strong blow.",
+      "example_zh_tw": "風用力吹了一下門。",
+      "synonyms": ["hit", "strike"]
+    },
+    {
+      "id": "body",
+      "definition_en": "The whole of a person or animal, with the head, arms, and legs.",
+      "gloss_zh_tw": "身體、軀體；人或動物的整個外形。",
+      "example_en": "Wash your whole body well.",
+      "example_zh_tw": "把全身好好洗乾淨。",
+      "synonyms": ["form", "frame"]
+    },
+    {
+      "id": "brass",
+      "definition_en": "A hard yellow metal made from copper and another metal.",
+      "gloss_zh_tw": "黃銅；銅與其他金屬合成的硬黃色金屬。",
+      "example_en": "The bell is made of brass.",
+      "example_zh_tw": "那個鈴鐺是黃銅做的。",
+      "synonyms": ["metal", "copper"]
+    },
+    {
+      "id": "bread",
+      "definition_en": "A food made from flour and baked in an oven.",
+      "gloss_zh_tw": "麵包；用麵粉烤製的食物。",
+      "example_en": "She makes bread every morning.",
+      "example_zh_tw": "她每天早上都做麵包。",
+      "synonyms": ["loaf", "food"]
+    },
+    {
+      "id": "breath",
+      "definition_en": "The air that goes in and out of the body through the nose or mouth.",
+      "gloss_zh_tw": "呼吸；進出鼻腔或口腔的空氣。",
+      "example_en": "Take a deep breath before you start.",
+      "example_zh_tw": "開始前先深呼吸一下。",
+      "synonyms": ["air", "wind"]
+    },
+    {
+      "id": "brother",
+      "definition_en": "A boy or man who has the same mother and father as another person.",
+      "gloss_zh_tw": "兄弟；同父母所生的男性手足。",
+      "example_en": "My brother is older than me.",
+      "example_zh_tw": "我哥哥比我大。",
+      "synonyms": ["sibling", "kin"]
+    },
+    {
+      "id": "building",
+      "definition_en": "A made structure with walls and a roof, like a house or shop.",
+      "gloss_zh_tw": "建築物；有牆有屋頂的構造。",
+      "example_en": "The new building is very tall.",
+      "example_zh_tw": "那棟新建築很高。",
+      "synonyms": ["structure", "house"]
+    },
+    {
+      "id": "burn",
+      "definition_en": "What happens when a thing is on fire.",
+      "gloss_zh_tw": "燃燒、燒；起火的現象。",
+      "example_en": "The wood will burn through the night.",
+      "example_zh_tw": "這些木頭會燒一整夜。",
+      "synonyms": ["fire", "flame"]
+    },
+    {
+      "id": "burst",
+      "definition_en": "A sudden break or opening, often with a loud sound.",
+      "gloss_zh_tw": "爆裂、突然破開；多伴隨巨響。",
+      "example_en": "The bag had a sudden burst.",
+      "example_zh_tw": "那個袋子突然破了。",
+      "synonyms": ["break", "blast"]
+    },
+    {
+      "id": "business",
+      "definition_en": "The work a person does to make money; or a place where things are sold.",
+      "gloss_zh_tw": "事業、生意；為賺錢所做的工作。",
+      "example_en": "She is in the cloth business.",
+      "example_zh_tw": "她做布料生意。",
+      "synonyms": ["trade", "work"]
+    },
+    {
+      "id": "butter",
+      "definition_en": "A soft yellow food made from milk, put on bread.",
+      "gloss_zh_tw": "奶油；以牛奶製成、塗於麵包的軟性食品。",
+      "example_en": "Put some butter on the bread.",
+      "example_zh_tw": "在麵包上塗點奶油。",
+      "synonyms": ["spread", "fat"]
+    },
+    {
+      "id": "canvas",
+      "definition_en": "A strong cloth used for sails, tents, or pictures.",
+      "gloss_zh_tw": "帆布；用於船帆、帳篷或畫布的厚布。",
+      "example_en": "She bought a new canvas to paint on.",
+      "example_zh_tw": "她買了一塊新的畫布來畫畫。",
+      "synonyms": ["cloth", "fabric"]
+    },
+    {
+      "id": "care",
+      "definition_en": "The act of looking after something so it is well.",
+      "gloss_zh_tw": "照顧、關心；用心對待某事物。",
+      "example_en": "Take care of the baby tonight.",
+      "example_zh_tw": "今晚照顧好寶寶。",
+      "synonyms": ["attention", "love"]
+    },
+    {
+      "id": "cause",
+      "definition_en": "The thing that makes something else happen.",
+      "gloss_zh_tw": "原因、起因；使事情發生的根源。",
+      "example_en": "What was the cause of the fire?",
+      "example_zh_tw": "起火的原因是什麼？",
+      "synonyms": ["reason", "source"]
+    },
+    {
+      "id": "chalk",
+      "definition_en": "A soft white stone used to make marks on a board.",
+      "gloss_zh_tw": "粉筆；用於寫字的白色軟石。",
+      "example_en": "Write your name on the board with chalk.",
+      "example_zh_tw": "用粉筆在板上寫你的名字。",
+      "synonyms": ["stone", "mark"]
+    },
+    {
+      "id": "chance",
+      "definition_en": "The way things happen without a clear cause; or a good time to do something.",
+      "gloss_zh_tw": "機會、機緣；偶然發生的可能性。",
+      "example_en": "I have a chance to go to the city.",
+      "example_zh_tw": "我有機會去那座城市。",
+      "synonyms": ["luck", "opportunity"]
+    },
+    {
+      "id": "change",
+      "definition_en": "The act of one thing turning into another, or of something not staying the same.",
+      "gloss_zh_tw": "改變、變化；事物的轉變。",
+      "example_en": "There is a small change in the plan.",
+      "example_zh_tw": "計畫有一點小改變。",
+      "synonyms": ["shift", "adjustment"]
+    },
+    {
+      "id": "cloth",
+      "definition_en": "A flat soft material made from wool, cotton, or silk, used for clothes.",
+      "gloss_zh_tw": "布料、布；用毛、棉、絲織成的織品。",
+      "example_en": "Wipe the table with a clean cloth.",
+      "example_zh_tw": "用乾淨的布把桌子擦乾淨。",
+      "synonyms": ["fabric", "linen"]
+    },
+    {
+      "id": "coal",
+      "definition_en": "A hard black thing taken from the earth, burnt for heat.",
+      "gloss_zh_tw": "煤、煤炭；從地底取出、可燃以取暖的黑色物質。",
+      "example_en": "We need more coal to keep the fire warm.",
+      "example_zh_tw": "我們需要更多煤才能讓爐火維持溫暖。",
+      "synonyms": ["fuel", "stone"]
+    },
+    {
+      "id": "colour",
+      "definition_en": "What we see, like red, blue, or green, that makes things look different.",
+      "gloss_zh_tw": "顏色；如紅、藍、綠等視覺差異。",
+      "example_en": "What colour is your new car?",
+      "example_zh_tw": "你的新車是什麼顏色？",
+      "synonyms": ["shade", "tint"]
+    },
+    {
+      "id": "comfort",
+      "definition_en": "A feeling of being at ease, with no pain or trouble.",
+      "gloss_zh_tw": "舒適、安慰；無痛苦、無煩惱的狀態。",
+      "example_en": "She gave him a word of comfort.",
+      "example_zh_tw": "她安慰了他一句。",
+      "synonyms": ["ease", "rest"]
+    }
+  ]
+}

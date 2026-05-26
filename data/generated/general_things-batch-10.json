@@ -1,0 +1,207 @@
+{
+  "category": "general_things",
+  "batch": 10,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "oil",
+      "definition_en": "A thick liquid from plants, animals, or the earth, used for food or fuel.",
+      "gloss_zh_tw": "油;可食或可燃之黏稠液體，來自植物、動物或地下。",
+      "example_en": "Pour some oil into the pan.",
+      "example_zh_tw": "在鍋裡倒點油。",
+      "synonyms": ["grease", "fuel"]
+    },
+    {
+      "id": "operation",
+      "definition_en": "The act of doing or running a thing, especially a careful work.",
+      "gloss_zh_tw": "運作、操作；執行某事的過程，特指細緻工作。",
+      "example_en": "The operation of the machine is simple.",
+      "example_zh_tw": "這台機器的操作很簡單。",
+      "synonyms": ["process", "working"]
+    },
+    {
+      "id": "opinion",
+      "definition_en": "What a person thinks about a thing.",
+      "gloss_zh_tw": "意見、看法；某人對事物的想法。",
+      "example_en": "In my opinion, the book is great.",
+      "example_zh_tw": "我認為這本書很棒。",
+      "synonyms": ["view", "thought"]
+    },
+    {
+      "id": "order",
+      "definition_en": "The way things are put in a row; or a word telling one what to do.",
+      "gloss_zh_tw": "順序、命令；事物排列的方式或下達的指令。",
+      "example_en": "Put the books in order on the shelf.",
+      "example_zh_tw": "把書按順序放上架。",
+      "synonyms": ["command", "arrangement"]
+    },
+    {
+      "id": "organization",
+      "definition_en": "A group of people working together for one aim.",
+      "gloss_zh_tw": "組織、機構；為共同目標合作的團體。",
+      "example_en": "She works for a small organization.",
+      "example_zh_tw": "她在一個小機構工作。",
+      "synonyms": ["body", "institution"]
+    },
+    {
+      "id": "ornament",
+      "definition_en": "A small thing used to make a place look pretty.",
+      "gloss_zh_tw": "裝飾品、飾物；使環境美觀的小物。",
+      "example_en": "She put an ornament on the table.",
+      "example_zh_tw": "她在桌上擺了個裝飾品。",
+      "synonyms": ["decoration", "jewel"]
+    },
+    {
+      "id": "owner",
+      "definition_en": "The person to whom a thing belongs.",
+      "gloss_zh_tw": "擁有者、所有者；事物所屬的人。",
+      "example_en": "Who is the owner of this house?",
+      "example_zh_tw": "這房子的主人是誰？",
+      "synonyms": ["holder", "master"]
+    },
+    {
+      "id": "page",
+      "definition_en": "One side of a sheet in a book or paper.",
+      "gloss_zh_tw": "頁、頁面；書或紙的一面。",
+      "example_en": "Turn to page ten.",
+      "example_zh_tw": "翻到第十頁。",
+      "synonyms": ["sheet", "leaf"]
+    },
+    {
+      "id": "pain",
+      "definition_en": "A bad feeling in the body or mind.",
+      "gloss_zh_tw": "疼痛、痛苦；身體或心理的不適感。",
+      "example_en": "She felt a sharp pain in her arm.",
+      "example_zh_tw": "她感到手臂一陣劇痛。",
+      "synonyms": ["hurt", "ache"]
+    },
+    {
+      "id": "paint",
+      "definition_en": "A coloured liquid put on a thing to cover it.",
+      "gloss_zh_tw": "油漆、顏料；可塗於物體表面的有色液體。",
+      "example_en": "She put new paint on the door.",
+      "example_zh_tw": "她把門重新上漆。",
+      "synonyms": ["colour", "dye"]
+    },
+    {
+      "id": "paper",
+      "definition_en": "A thin flat material made from wood, used for writing or wrapping.",
+      "gloss_zh_tw": "紙、紙張；以木材製成、用以書寫或包裝的薄片。",
+      "example_en": "Write your name on the paper.",
+      "example_zh_tw": "在紙上寫你的名字。",
+      "synonyms": ["sheet", "newspaper"]
+    },
+    {
+      "id": "part",
+      "definition_en": "One of the pieces that make up a whole.",
+      "gloss_zh_tw": "部分、零件；構成整體的單元。",
+      "example_en": "This is the best part of the story.",
+      "example_zh_tw": "這是故事最精彩的部分。",
+      "synonyms": ["piece", "section"]
+    },
+    {
+      "id": "paste",
+      "definition_en": "A soft sticky mix used to keep one thing on another.",
+      "gloss_zh_tw": "糊狀物、漿糊；柔軟黏稠、可使物相連之物。",
+      "example_en": "Use a little paste to fix the picture.",
+      "example_zh_tw": "用一點漿糊把圖貼好。",
+      "synonyms": ["glue", "adhesive"]
+    },
+    {
+      "id": "payment",
+      "definition_en": "Money given for a thing one has got.",
+      "gloss_zh_tw": "付款、款項；為所得之物所付的錢。",
+      "example_en": "The payment is due next week.",
+      "example_zh_tw": "款項下星期到期。",
+      "synonyms": ["fee", "charge"]
+    },
+    {
+      "id": "peace",
+      "definition_en": "A state with no fighting or trouble.",
+      "gloss_zh_tw": "和平、安寧；無爭鬥與煩擾的狀態。",
+      "example_en": "We live in peace with our friends.",
+      "example_zh_tw": "我們和朋友和睦相處。",
+      "synonyms": ["calm", "quiet"]
+    },
+    {
+      "id": "person",
+      "definition_en": "A man, woman, or child.",
+      "gloss_zh_tw": "人、個人；指任一男女老幼。",
+      "example_en": "There is one person in the room.",
+      "example_zh_tw": "房間裡有一個人。",
+      "synonyms": ["human", "individual"]
+    },
+    {
+      "id": "place",
+      "definition_en": "A part of space where a thing or person is.",
+      "gloss_zh_tw": "地方、位置；人或事物所在的空間。",
+      "example_en": "Put it back in its place.",
+      "example_zh_tw": "把它放回原位。",
+      "synonyms": ["spot", "location"]
+    },
+    {
+      "id": "plant",
+      "definition_en": "A living thing that grows in the earth, like a tree or flower.",
+      "gloss_zh_tw": "植物；生長於土壤的生物，如樹或花。",
+      "example_en": "I have a small plant by the window.",
+      "example_zh_tw": "我窗邊放了一株小植物。",
+      "synonyms": ["vegetable", "growth"]
+    },
+    {
+      "id": "play",
+      "definition_en": "An act done for fun; or a story acted out on a stage.",
+      "gloss_zh_tw": "遊戲、玩耍；或舞台上演出的劇。",
+      "example_en": "We went to see a play last night.",
+      "example_zh_tw": "我們昨晚去看了一齣戲。",
+      "synonyms": ["game", "drama"]
+    },
+    {
+      "id": "pleasure",
+      "definition_en": "A feeling of being happy and at ease.",
+      "gloss_zh_tw": "愉悅、樂趣；快樂且放鬆的感受。",
+      "example_en": "It was a great pleasure to see her.",
+      "example_zh_tw": "見到她我很高興。",
+      "synonyms": ["joy", "delight"]
+    },
+    {
+      "id": "point",
+      "definition_en": "A sharp end; or a place in space or time.",
+      "gloss_zh_tw": "尖端;或時空中的某一處。",
+      "example_en": "The point of the pencil is broken.",
+      "example_zh_tw": "鉛筆尖斷了。",
+      "synonyms": ["tip", "spot"]
+    },
+    {
+      "id": "poison",
+      "definition_en": "A thing that makes one ill or dead if taken in.",
+      "gloss_zh_tw": "毒、毒物；攝入後致病或致死之物。",
+      "example_en": "The bottle had poison in it.",
+      "example_zh_tw": "那個瓶子裡有毒。",
+      "synonyms": ["venom", "toxin"]
+    },
+    {
+      "id": "polish",
+      "definition_en": "A soft stuff put on a thing to make it shine.",
+      "gloss_zh_tw": "亮光劑、拋光劑；使物發亮的塗劑。",
+      "example_en": "She put polish on her shoes.",
+      "example_zh_tw": "她把鞋擦上鞋油。",
+      "synonyms": ["shine", "wax"]
+    },
+    {
+      "id": "porter",
+      "definition_en": "A person whose work is to carry bags or to keep the door.",
+      "gloss_zh_tw": "搬運工、門房；負責搬運或看門之人。",
+      "example_en": "The porter helped with my bags.",
+      "example_zh_tw": "搬運工幫我提了行李。",
+      "synonyms": ["carrier", "doorman"]
+    },
+    {
+      "id": "position",
+      "definition_en": "The place where a thing is, or the way it stands.",
+      "gloss_zh_tw": "位置、姿勢；事物所處之地或所立之態。",
+      "example_en": "Take your position by the door.",
+      "example_zh_tw": "到門邊就你的位置。",
+      "synonyms": ["place", "spot"]
+    }
+  ]
+}

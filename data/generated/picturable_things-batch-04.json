@@ -1,0 +1,207 @@
+{
+  "category": "picturable_things",
+  "batch": 4,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "fly",
+      "definition_en": "A small flying insect with two wings.",
+      "gloss_zh_tw": "蒼蠅;有兩翼的小型飛蟲。",
+      "example_en": "A fly is on the food.",
+      "example_zh_tw": "食物上有隻蒼蠅。",
+      "synonyms": ["bug", "insect"]
+    },
+    {
+      "id": "foot",
+      "definition_en": "The lower part of the leg, used for standing or walking.",
+      "gloss_zh_tw": "腳;腿的下部，用以站立或行走。",
+      "example_en": "I have a small cut on my foot.",
+      "example_zh_tw": "我腳上有個小傷口。",
+      "synonyms": ["paw", "sole"]
+    },
+    {
+      "id": "fork",
+      "definition_en": "A small tool with sharp points, used for eating food.",
+      "gloss_zh_tw": "叉子;具尖頭的進食小工具。",
+      "example_en": "Use a fork to eat the cake.",
+      "example_zh_tw": "用叉子吃蛋糕。",
+      "synonyms": ["tine"]
+    },
+    {
+      "id": "fowl",
+      "definition_en": "A bird that is kept for its meat or eggs, like a chicken.",
+      "gloss_zh_tw": "家禽;為肉或蛋而養之鳥類，如雞。",
+      "example_en": "The farm has many fowl.",
+      "example_zh_tw": "農場養了很多家禽。",
+      "synonyms": ["chicken", "poultry"]
+    },
+    {
+      "id": "frame",
+      "definition_en": "The hard outside part of a thing that gives it form.",
+      "gloss_zh_tw": "框、框架;給予事物外形的硬支撐部分。",
+      "example_en": "The window has a wood frame.",
+      "example_zh_tw": "窗子是木框的。",
+      "synonyms": ["framework", "structure"]
+    },
+    {
+      "id": "garden",
+      "definition_en": "A piece of land near a house, where plants or flowers grow.",
+      "gloss_zh_tw": "花園、菜園;屋旁種植花草之地。",
+      "example_en": "She has roses in her garden.",
+      "example_zh_tw": "她花園裡種了玫瑰。",
+      "synonyms": ["yard", "lawn"]
+    },
+    {
+      "id": "girl",
+      "definition_en": "A young female child.",
+      "gloss_zh_tw": "女孩;年幼的女性。",
+      "example_en": "The girl is playing in the park.",
+      "example_zh_tw": "那女孩在公園裡玩。",
+      "synonyms": ["lass", "maiden"]
+    },
+    {
+      "id": "glove",
+      "definition_en": "A piece of clothing for the hand, with parts for each finger.",
+      "gloss_zh_tw": "手套;分指可套於手上的衣物。",
+      "example_en": "Put on your gloves in the cold.",
+      "example_zh_tw": "天冷戴上手套。",
+      "synonyms": ["mitten"]
+    },
+    {
+      "id": "goat",
+      "definition_en": "A small farm animal with horns, kept for milk and meat.",
+      "gloss_zh_tw": "山羊;有角、可取乳供肉之小型農場動物。",
+      "example_en": "The goat ate the grass.",
+      "example_zh_tw": "山羊吃了草。",
+      "synonyms": ["kid"]
+    },
+    {
+      "id": "gun",
+      "definition_en": "A weapon that sends out a small piece of metal with force.",
+      "gloss_zh_tw": "槍;發射金屬小塊的武器。",
+      "example_en": "The soldier carries a gun.",
+      "example_zh_tw": "士兵帶著槍。",
+      "synonyms": ["firearm", "rifle"]
+    },
+    {
+      "id": "hair",
+      "definition_en": "The thin fine things that grow on the head and body of a person.",
+      "gloss_zh_tw": "頭髮、毛髮;長於頭部與身體的細絲狀物。",
+      "example_en": "She has long brown hair.",
+      "example_zh_tw": "她有一頭棕色長髮。",
+      "synonyms": ["mane", "fur"]
+    },
+    {
+      "id": "hammer",
+      "definition_en": "A tool with a heavy head, used to put in nails.",
+      "gloss_zh_tw": "鎚子;頭部沉重、用以敲釘的工具。",
+      "example_en": "Use a hammer to fix the wood.",
+      "example_zh_tw": "用鎚子把木頭釘好。",
+      "synonyms": ["mallet", "tool"]
+    },
+    {
+      "id": "hand",
+      "definition_en": "The end of the arm, used for taking and holding things.",
+      "gloss_zh_tw": "手;手臂末端，用以抓取握持。",
+      "example_en": "Give me your hand.",
+      "example_zh_tw": "把手給我。",
+      "synonyms": ["palm"]
+    },
+    {
+      "id": "hat",
+      "definition_en": "A piece of clothing worn on the head.",
+      "gloss_zh_tw": "帽子;戴於頭部的衣物。",
+      "example_en": "She wears a big sun hat.",
+      "example_zh_tw": "她戴了頂大草帽。",
+      "synonyms": ["cap", "headgear"]
+    },
+    {
+      "id": "head",
+      "definition_en": "The top part of the body, where the eyes, ears, mouth, and brain are.",
+      "gloss_zh_tw": "頭;身體頂部，眼耳口腦所在處。",
+      "example_en": "He put his hat on his head.",
+      "example_zh_tw": "他把帽子戴在頭上。",
+      "synonyms": ["skull", "noggin"]
+    },
+    {
+      "id": "heart",
+      "definition_en": "The part of the body in the chest that sends blood round the body.",
+      "gloss_zh_tw": "心臟;胸內泵送血液之器官。",
+      "example_en": "Her heart was beating fast.",
+      "example_zh_tw": "她心跳得很快。",
+      "synonyms": ["core", "centre"]
+    },
+    {
+      "id": "hook",
+      "definition_en": "A curved piece of metal or other hard stuff, used to keep a thing up.",
+      "gloss_zh_tw": "鉤、掛鉤;彎曲的硬物，用以掛物。",
+      "example_en": "Put your coat on the hook.",
+      "example_zh_tw": "把外套掛到鉤子上。",
+      "synonyms": ["clasp", "peg"]
+    },
+    {
+      "id": "horn",
+      "definition_en": "One of the hard pointed things on the head of some animals.",
+      "gloss_zh_tw": "角;某些動物頭上的硬尖物。",
+      "example_en": "The goat has long horns.",
+      "example_zh_tw": "那隻山羊有著長角。",
+      "synonyms": ["antler"]
+    },
+    {
+      "id": "horse",
+      "definition_en": "A big strong farm animal used to pull or ride.",
+      "gloss_zh_tw": "馬;可拉動車輛或供騎乘的大型動物。",
+      "example_en": "She rides a horse every day.",
+      "example_zh_tw": "她每天騎馬。",
+      "synonyms": ["steed", "stallion"]
+    },
+    {
+      "id": "hospital",
+      "definition_en": "A building where ill or hurt people go to get better.",
+      "gloss_zh_tw": "醫院;病人或傷者前往治療之處。",
+      "example_en": "He is in hospital with a broken leg.",
+      "example_zh_tw": "他因斷腿住院。",
+      "synonyms": ["clinic", "infirmary"]
+    },
+    {
+      "id": "house",
+      "definition_en": "A building where people live.",
+      "gloss_zh_tw": "房子;供人居住的建築。",
+      "example_en": "Their house has a red roof.",
+      "example_zh_tw": "他們家屋頂是紅的。",
+      "synonyms": ["home", "dwelling"]
+    },
+    {
+      "id": "island",
+      "definition_en": "A piece of land with water round it on all sides.",
+      "gloss_zh_tw": "島嶼;四面環水的陸地。",
+      "example_en": "The island is small but green.",
+      "example_zh_tw": "那座島小而青翠。",
+      "synonyms": ["isle"]
+    },
+    {
+      "id": "jewel",
+      "definition_en": "A small bright stone of great value, used for ornament.",
+      "gloss_zh_tw": "珠寶;用於裝飾的珍貴亮石。",
+      "example_en": "Her ring has a small jewel.",
+      "example_zh_tw": "她的戒指鑲了顆小寶石。",
+      "synonyms": ["gem", "stone"]
+    },
+    {
+      "id": "kettle",
+      "definition_en": "A metal container with a handle, used to boil water.",
+      "gloss_zh_tw": "水壺;帶把金屬容器，用以煮水。",
+      "example_en": "Put the kettle on for tea.",
+      "example_zh_tw": "把水壺燒開來泡茶。",
+      "synonyms": ["pot", "boiler"]
+    },
+    {
+      "id": "key",
+      "definition_en": "A small piece of metal made to open a lock.",
+      "gloss_zh_tw": "鑰匙;用以開鎖的小金屬片。",
+      "example_en": "I lost the key to my house.",
+      "example_zh_tw": "我家鑰匙弄丟了。",
+      "synonyms": ["latchkey"]
+    }
+  ]
+}

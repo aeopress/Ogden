@@ -1,0 +1,207 @@
+{
+  "category": "picturable_things",
+  "batch": 1,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "angle",
+      "definition_en": "A shape made when two lines come together at a point.",
+      "gloss_zh_tw": "角;兩線於同一點相交所成的圖形。",
+      "example_en": "The table has sharp angles on the side.",
+      "example_zh_tw": "桌子側邊有銳角。",
+      "synonyms": ["corner", "edge"]
+    },
+    {
+      "id": "ant",
+      "definition_en": "A very small black or red insect that lives in groups in the earth.",
+      "gloss_zh_tw": "螞蟻;群居於地下的小型黑色或紅色昆蟲。",
+      "example_en": "An ant ran across the table.",
+      "example_zh_tw": "一隻螞蟻跑過桌面。",
+      "synonyms": ["insect", "bug"]
+    },
+    {
+      "id": "apple",
+      "definition_en": "A round, sweet fruit, often red or green, that grows on a tree.",
+      "gloss_zh_tw": "蘋果;圓形味甜、生長於樹上的水果，常為紅或綠色。",
+      "example_en": "She eats an apple every day.",
+      "example_zh_tw": "她每天都吃一顆蘋果。",
+      "synonyms": ["fruit"]
+    },
+    {
+      "id": "arch",
+      "definition_en": "A curve made over an opening, like over a door or bridge.",
+      "gloss_zh_tw": "拱、拱門;跨越開口的弧形結構。",
+      "example_en": "There is a stone arch over the gate.",
+      "example_zh_tw": "大門上有座石拱。",
+      "synonyms": ["curve", "vault"]
+    },
+    {
+      "id": "arm",
+      "definition_en": "The part of the body from the shoulder to the hand.",
+      "gloss_zh_tw": "手臂;自肩至手的身體部位。",
+      "example_en": "She held the baby in her arm.",
+      "example_zh_tw": "她把寶寶抱在懷裡。",
+      "synonyms": ["limb"]
+    },
+    {
+      "id": "army",
+      "definition_en": "A great group of people trained to fight in war.",
+      "gloss_zh_tw": "軍隊;受訓參與戰爭的大型團體。",
+      "example_en": "The army goes to the field at sunrise.",
+      "example_zh_tw": "軍隊在日出時開赴前線。",
+      "synonyms": ["troops", "force"]
+    },
+    {
+      "id": "baby",
+      "definition_en": "A very small new child.",
+      "gloss_zh_tw": "嬰兒;剛出生不久的幼兒。",
+      "example_en": "The baby is asleep in the bed.",
+      "example_zh_tw": "寶寶在床上睡著了。",
+      "synonyms": ["infant", "child"]
+    },
+    {
+      "id": "bag",
+      "definition_en": "A soft thing made of cloth or skin, used to keep or carry things.",
+      "gloss_zh_tw": "袋、包;以布或皮製成、用以盛物或攜帶之物。",
+      "example_en": "Put your books in the bag.",
+      "example_zh_tw": "把書放進包裡。",
+      "synonyms": ["sack", "pouch"]
+    },
+    {
+      "id": "ball",
+      "definition_en": "A round thing used for play.",
+      "gloss_zh_tw": "球;圓形的玩耍用品。",
+      "example_en": "Kick the ball to me.",
+      "example_zh_tw": "把球踢給我。",
+      "synonyms": ["sphere", "orb"]
+    },
+    {
+      "id": "band",
+      "definition_en": "A thin flat strip; or a group of music players.",
+      "gloss_zh_tw": "帶子、樂團;薄長帶物或樂隊。",
+      "example_en": "She wears a band on her hair.",
+      "example_zh_tw": "她頭髮上綁了個髮帶。",
+      "synonyms": ["strip", "group"]
+    },
+    {
+      "id": "basin",
+      "definition_en": "A wide round bowl, often used for water.",
+      "gloss_zh_tw": "盆、洗手台;寬廣的圓形容器，常裝水。",
+      "example_en": "Wash your face in the basin.",
+      "example_zh_tw": "在盆裡洗臉。",
+      "synonyms": ["bowl", "sink"]
+    },
+    {
+      "id": "basket",
+      "definition_en": "A container made of thin strips, used to carry things.",
+      "gloss_zh_tw": "籃子;以細條編成、用以盛物之容器。",
+      "example_en": "She put eggs in the basket.",
+      "example_zh_tw": "她把蛋放進籃子裡。",
+      "synonyms": ["hamper", "pannier"]
+    },
+    {
+      "id": "bath",
+      "definition_en": "A big container in which one washes the whole body.",
+      "gloss_zh_tw": "浴缸;可容人全身入內洗澡的大容器。",
+      "example_en": "She takes a bath every night.",
+      "example_zh_tw": "她每晚都泡澡。",
+      "synonyms": ["tub"]
+    },
+    {
+      "id": "bed",
+      "definition_en": "A thing made for one to sleep on.",
+      "gloss_zh_tw": "床;供睡眠的家具。",
+      "example_en": "Go to bed early tonight.",
+      "example_zh_tw": "今晚早點上床睡覺。",
+      "synonyms": ["cot", "bunk"]
+    },
+    {
+      "id": "bee",
+      "definition_en": "A flying insect that gives honey, with a sharp end that can sting.",
+      "gloss_zh_tw": "蜜蜂;產蜜、會螫人的飛行昆蟲。",
+      "example_en": "A bee flew into the flower.",
+      "example_zh_tw": "一隻蜜蜂飛進了花裡。",
+      "synonyms": ["insect", "honeybee"]
+    },
+    {
+      "id": "bell",
+      "definition_en": "A round metal thing that makes a sound when hit or moved.",
+      "gloss_zh_tw": "鈴、鐘;受擊或搖動時發聲的金屬圓物。",
+      "example_en": "The bell of the church rang at noon.",
+      "example_zh_tw": "教堂的鐘在中午響起。",
+      "synonyms": ["chime", "gong"]
+    },
+    {
+      "id": "berry",
+      "definition_en": "A small soft fruit with seeds inside, often red or blue.",
+      "gloss_zh_tw": "莓果;柔軟有籽的小型水果，常為紅或藍色。",
+      "example_en": "Pick berries in the wood.",
+      "example_zh_tw": "到樹林裡摘莓果。",
+      "synonyms": ["fruit"]
+    },
+    {
+      "id": "bird",
+      "definition_en": "A small animal with wings and feathers, that flies.",
+      "gloss_zh_tw": "鳥;有羽翼可飛翔的小動物。",
+      "example_en": "A small bird sat on the branch.",
+      "example_zh_tw": "一隻小鳥停在樹枝上。",
+      "synonyms": ["fowl", "winged"]
+    },
+    {
+      "id": "blade",
+      "definition_en": "The flat sharp part of a knife or other tool used for cutting.",
+      "gloss_zh_tw": "刀片、刃;刀或工具用以切割的扁平鋒利部分。",
+      "example_en": "Be careful with the sharp blade.",
+      "example_zh_tw": "小心鋒利的刀片。",
+      "synonyms": ["edge", "knife"]
+    },
+    {
+      "id": "board",
+      "definition_en": "A flat piece of wood, often long and thin.",
+      "gloss_zh_tw": "木板、板;扁平、常為長薄的木片。",
+      "example_en": "Put the food on the board.",
+      "example_zh_tw": "把食物放到砧板上。",
+      "synonyms": ["plank", "panel"]
+    },
+    {
+      "id": "boat",
+      "definition_en": "A small thing made to go on water, often with sails or an engine.",
+      "gloss_zh_tw": "船、小艇;用於水面航行的小型船隻。",
+      "example_en": "We rowed the boat across the lake.",
+      "example_zh_tw": "我們划船橫渡湖面。",
+      "synonyms": ["ship", "vessel"]
+    },
+    {
+      "id": "bone",
+      "definition_en": "One of the hard white parts inside the body of a person or animal.",
+      "gloss_zh_tw": "骨頭;體內堅硬的白色支撐結構。",
+      "example_en": "She broke a bone in her leg.",
+      "example_zh_tw": "她腿上一根骨頭斷了。",
+      "synonyms": ["skeleton"]
+    },
+    {
+      "id": "book",
+      "definition_en": "Pages of paper bound together, with words to read.",
+      "gloss_zh_tw": "書;裝訂成冊、供閱讀的紙頁。",
+      "example_en": "I am reading a good book.",
+      "example_zh_tw": "我正在讀一本好書。",
+      "synonyms": ["volume", "novel"]
+    },
+    {
+      "id": "boot",
+      "definition_en": "A type of shoe that covers the foot and part of the leg.",
+      "gloss_zh_tw": "靴子;可覆蓋足部與小腿的鞋類。",
+      "example_en": "Put on your boots before going out.",
+      "example_zh_tw": "出門前穿上靴子。",
+      "synonyms": ["shoe", "footwear"]
+    },
+    {
+      "id": "bottle",
+      "definition_en": "A tall thin container, often of glass, used for liquid.",
+      "gloss_zh_tw": "瓶子;多為玻璃製、用以盛液之長形容器。",
+      "example_en": "Pour water from the bottle.",
+      "example_zh_tw": "從瓶子裡倒水。",
+      "synonyms": ["flask", "jar"]
+    }
+  ]
+}

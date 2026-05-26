@@ -1,0 +1,207 @@
+{
+  "category": "general_things",
+  "batch": 6,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "food",
+      "definition_en": "What people and animals take in to live.",
+      "gloss_zh_tw": "食物；人或動物賴以維生的可食之物。",
+      "example_en": "There is food on the table for you.",
+      "example_zh_tw": "桌上有食物給你。",
+      "synonyms": ["meal", "nourishment"]
+    },
+    {
+      "id": "force",
+      "definition_en": "Power used to make something move or happen.",
+      "gloss_zh_tw": "力、力量；推動或迫使事物的能量。",
+      "example_en": "He pushed the door open with great force.",
+      "example_zh_tw": "他用力把門推開。",
+      "synonyms": ["power", "strength"]
+    },
+    {
+      "id": "form",
+      "definition_en": "The shape or way a thing looks.",
+      "gloss_zh_tw": "形狀、形式；事物呈現的樣貌。",
+      "example_en": "The cloud took the form of a bird.",
+      "example_zh_tw": "雲變成了鳥的形狀。",
+      "synonyms": ["shape", "structure"]
+    },
+    {
+      "id": "friend",
+      "definition_en": "A person one knows and likes.",
+      "gloss_zh_tw": "朋友；認識且喜歡的人。",
+      "example_en": "She is my best friend.",
+      "example_zh_tw": "她是我最好的朋友。",
+      "synonyms": ["companion", "mate"]
+    },
+    {
+      "id": "front",
+      "definition_en": "The part one sees first; opposite to the back.",
+      "gloss_zh_tw": "正面、前方；與後方相對。",
+      "example_en": "She sat in the front of the car.",
+      "example_zh_tw": "她坐在車子前座。",
+      "synonyms": ["face", "head"]
+    },
+    {
+      "id": "fruit",
+      "definition_en": "The sweet part of a plant that has seeds, like apples or oranges.",
+      "gloss_zh_tw": "水果；植物含種子的甜味部分。",
+      "example_en": "I eat fruit every day.",
+      "example_zh_tw": "我每天都吃水果。",
+      "synonyms": ["produce", "crop"]
+    },
+    {
+      "id": "glass",
+      "definition_en": "A hard, see-through stuff used for windows or cups.",
+      "gloss_zh_tw": "玻璃；堅硬透明的材質，常用於窗戶或杯子。",
+      "example_en": "Be careful, the glass may break.",
+      "example_zh_tw": "小心，玻璃可能會破。",
+      "synonyms": ["pane", "crystal"]
+    },
+    {
+      "id": "gold",
+      "definition_en": "A bright yellow metal of great value.",
+      "gloss_zh_tw": "黃金；明亮黃色、極具價值的金屬。",
+      "example_en": "Her ring is made of gold.",
+      "example_zh_tw": "她的戒指是黃金做的。",
+      "synonyms": ["metal", "treasure"]
+    },
+    {
+      "id": "government",
+      "definition_en": "The group of people who rule a country.",
+      "gloss_zh_tw": "政府；治理國家的機構或團體。",
+      "example_en": "The government will make a new law.",
+      "example_zh_tw": "政府將制定新法。",
+      "synonyms": ["state", "authority"]
+    },
+    {
+      "id": "grain",
+      "definition_en": "A small hard seed used for food, like rice or wheat.",
+      "gloss_zh_tw": "穀物、穀粒；可食的細小硬種子，如稻米或小麥。",
+      "example_en": "The farmer sells grain to the town.",
+      "example_zh_tw": "農夫把穀物賣到鎮上。",
+      "synonyms": ["seed", "corn"]
+    },
+    {
+      "id": "grass",
+      "definition_en": "The green plant that covers the ground in fields.",
+      "gloss_zh_tw": "草；田野裡綠色、覆蓋地面的植物。",
+      "example_en": "The cow ate the grass.",
+      "example_zh_tw": "牛吃了那些草。",
+      "synonyms": ["lawn", "weed"]
+    },
+    {
+      "id": "grip",
+      "definition_en": "A firm hold of a thing with the hand.",
+      "gloss_zh_tw": "緊握、抓握；用手堅固地握住。",
+      "example_en": "He has a strong grip on the rope.",
+      "example_zh_tw": "他緊緊抓住了繩子。",
+      "synonyms": ["hold", "grasp"]
+    },
+    {
+      "id": "group",
+      "definition_en": "Two or more things or people put together.",
+      "gloss_zh_tw": "群、團體；兩個以上聚在一起的人或物。",
+      "example_en": "A group of children went into the park.",
+      "example_zh_tw": "一群孩子走進了公園。",
+      "synonyms": ["set", "team"]
+    },
+    {
+      "id": "growth",
+      "definition_en": "The act of getting bigger over time.",
+      "gloss_zh_tw": "生長、成長；隨時間變大或變多。",
+      "example_en": "The growth of the tree was slow.",
+      "example_zh_tw": "那棵樹長得很慢。",
+      "synonyms": ["development", "expansion"]
+    },
+    {
+      "id": "guide",
+      "definition_en": "A person or book that shows the way to others.",
+      "gloss_zh_tw": "指南、導覽；指引方向的人或書。",
+      "example_en": "We had a guide for our walk in the wood.",
+      "example_zh_tw": "我們在森林裡散步時有導覽。",
+      "synonyms": ["leader", "pilot"]
+    },
+    {
+      "id": "harbour",
+      "definition_en": "A safe place by the sea where ships can stay.",
+      "gloss_zh_tw": "港口、海港；船舶安全停泊的水域。",
+      "example_en": "The boat came into the harbour at night.",
+      "example_zh_tw": "船在晚上駛進了港口。",
+      "synonyms": ["port", "dock"]
+    },
+    {
+      "id": "harmony",
+      "definition_en": "A state where things go well together.",
+      "gloss_zh_tw": "和諧、融洽；事物相處良好的狀態。",
+      "example_en": "They live in harmony with their friends.",
+      "example_zh_tw": "他們與朋友和睦相處。",
+      "synonyms": ["peace", "accord"]
+    },
+    {
+      "id": "hate",
+      "definition_en": "A strong bad feeling about a person or thing.",
+      "gloss_zh_tw": "憎恨、討厭；對人事物的強烈反感。",
+      "example_en": "She has a deep hate for lies.",
+      "example_zh_tw": "她對說謊深惡痛絕。",
+      "synonyms": ["hatred", "loathing"]
+    },
+    {
+      "id": "hearing",
+      "definition_en": "The sense by which sounds come to one through the ears.",
+      "gloss_zh_tw": "聽覺；耳朵感知聲音的能力。",
+      "example_en": "His hearing is not as good as before.",
+      "example_zh_tw": "他的聽力大不如前。",
+      "synonyms": ["listening", "ear"]
+    },
+    {
+      "id": "heat",
+      "definition_en": "The state of being hot, or the thing one feels from a fire.",
+      "gloss_zh_tw": "熱、熱度；高溫狀態或火所散發的暖意。",
+      "example_en": "The heat from the sun is strong today.",
+      "example_zh_tw": "今天太陽的熱度很強。",
+      "synonyms": ["warmth", "temperature"]
+    },
+    {
+      "id": "help",
+      "definition_en": "An act done to make a thing easier for another.",
+      "gloss_zh_tw": "幫忙、協助；使他人事情變得輕鬆。",
+      "example_en": "Thank you for your help yesterday.",
+      "example_zh_tw": "謝謝你昨天的幫忙。",
+      "synonyms": ["aid", "support"]
+    },
+    {
+      "id": "history",
+      "definition_en": "All that has happened in the past, or the story of it.",
+      "gloss_zh_tw": "歷史；過去發生的事或其敘述。",
+      "example_en": "We learn history at school.",
+      "example_zh_tw": "我們在學校學歷史。",
+      "synonyms": ["past", "record"]
+    },
+    {
+      "id": "hole",
+      "definition_en": "An opening in a thing, often round.",
+      "gloss_zh_tw": "洞、孔；事物上的開口，常為圓形。",
+      "example_en": "There is a hole in my sock.",
+      "example_zh_tw": "我襪子上破了個洞。",
+      "synonyms": ["gap", "opening"]
+    },
+    {
+      "id": "hope",
+      "definition_en": "The feeling that a good thing will happen.",
+      "gloss_zh_tw": "希望；相信好事將至的感覺。",
+      "example_en": "I have hope that she will get well.",
+      "example_zh_tw": "我希望她能康復。",
+      "synonyms": ["wish", "trust"]
+    },
+    {
+      "id": "hour",
+      "definition_en": "A part of the day, made of sixty minutes.",
+      "gloss_zh_tw": "小時；六十分鐘的時長。",
+      "example_en": "Wait for me one hour.",
+      "example_zh_tw": "等我一小時。",
+      "synonyms": ["time"]
+    }
+  ]
+}

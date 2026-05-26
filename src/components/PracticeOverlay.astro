@@ -1,0 +1,269 @@
+---
+---
+
+<div id="practice-overlay" class="overlay" aria-hidden="true">
+  <div class="bar">
+    <div class="modes" role="tablist" aria-label="練習模式">
+      <button id="mode-flip" class="mode active" type="button">翻面</button>
+      <button id="mode-quiz-en-zh" class="mode" type="button">考你（英→中）</button>
+      <button id="mode-quiz-zh-en" class="mode" type="button">考你（中→英）</button>
+    </div>
+    <label class="opt">
+      <input type="checkbox" id="practice-shuffle" /> 打亂
+    </label>
+    <label class="opt">
+      <input type="checkbox" id="practice-auto-speak" checked /> 自動發音
+    </label>
+    <button id="close-practice" class="close" type="button" aria-label="關閉練習">✕</button>
+  </div>
+
+  <div id="practice-content" class="content"></div>
+
+  <p class="hint" aria-hidden="true">
+    <kbd>←</kbd> <kbd>→</kbd> 切換 · <kbd>空格</kbd> 翻面 · <kbd>1-4</kbd> 選項 · <kbd>Esc</kbd> 退出
+  </p>
+</div>
+
+<style>
+  .overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 100;
+    background: color-mix(in srgb, var(--bg) 92%, transparent);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    display: none;
+    flex-direction: column;
+  }
+  body[data-practice='on'] .overlay {
+    display: flex;
+  }
+
+  .bar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px 24px;
+    border-bottom: 1px solid var(--line);
+    background: var(--bg-elev);
+    flex-wrap: wrap;
+  }
+  .modes { display: flex; gap: 6px; }
+  .mode {
+    background: transparent;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 5px 12px;
+    font-family: var(--sans);
+    font-size: 13px;
+    color: var(--ink-soft);
+    cursor: pointer;
+  }
+  .mode.active {
+    background: var(--ink);
+    color: var(--bg-elev);
+    border-color: var(--ink);
+  }
+  .opt {
+    font-family: var(--sans);
+    font-size: 13px;
+    color: var(--ink-soft);
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+  }
+  .close {
+    background: transparent;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    color: var(--ink-soft);
+    margin-left: auto;
+  }
+
+  .content {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 32px;
+  }
+
+  :global(.card-face) {
+    max-width: 720px;
+    width: 100%;
+    background: var(--bg-elev);
+    border: 1px solid var(--line);
+    border-radius: 16px;
+    padding: 48px 40px;
+    box-shadow: 0 24px 48px -24px color-mix(in srgb, var(--ink) 25%, transparent);
+    text-align: center;
+  }
+  :global(.counter) {
+    font-family: var(--sans);
+    font-size: 13px;
+    color: var(--ink-faint);
+    margin-bottom: 16px;
+    font-variant-numeric: tabular-nums;
+  }
+  :global(.big-word) {
+    font-family: var(--serif);
+    font-weight: 600;
+    font-size: clamp(40px, 5.5vw, 60px);
+    color: var(--ink);
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+    margin: 16px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 14px;
+  }
+  :global(.big-zh) {
+    font-family: var(--zh-serif);
+    font-size: clamp(20px, 3vw, 28px);
+    color: var(--ink);
+    line-height: 1.4;
+    margin: 16px 0 24px;
+  }
+  :global(.reveal-btn) {
+    margin-top: 24px;
+    background: var(--op);
+    color: #fff;
+    border: none;
+    border-radius: 999px;
+    padding: 10px 28px;
+    font-family: var(--sans);
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  :global(.reveal) {
+    margin-top: 28px;
+    text-align: left;
+    display: grid;
+    gap: 12px;
+    max-width: 620px;
+    margin-inline: auto;
+  }
+  :global(.reveal .en-def) {
+    font-family: var(--serif);
+    font-style: normal;
+    font-weight: 500;
+    font-size: clamp(20px, 2.4vw, 26px);
+    color: var(--ink);
+    line-height: 1.4;
+  }
+  :global(.reveal .zh-gloss) {
+    font-family: var(--zh-serif);
+    font-size: 17px;
+    color: var(--ink-soft);
+    line-height: 1.65;
+    margin-bottom: 8px;
+  }
+  :global(.reveal .ex-block) {
+    padding-top: 14px;
+    border-top: 1px dashed var(--line);
+    display: grid;
+    gap: 6px;
+  }
+  :global(.reveal .ex-en) {
+    font-family: var(--serif);
+    font-size: clamp(18px, 2vw, 22px);
+    font-weight: 500;
+    color: var(--ink);
+    line-height: 1.45;
+  }
+  :global(.reveal .ex-zh) {
+    font-family: var(--zh-serif);
+    font-size: 15px;
+    color: var(--ink-soft);
+    line-height: 1.6;
+  }
+  :global(.speak-inline) {
+    background: transparent;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    width: 26px;
+    height: 26px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--ink-soft);
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
+    padding: 0;
+    vertical-align: -0.2em;
+    margin-left: 6px;
+  }
+  :global(.speak-inline:hover) {
+    background: var(--op-bg);
+    color: var(--op);
+    border-color: var(--op);
+  }
+  /* big-word still uses flex for centering — keep its inline button slightly larger */
+  :global(.big-word .speak-inline) {
+    width: 32px;
+    height: 32px;
+    margin-left: 0;
+    vertical-align: middle;
+  }
+
+  :global(.quiz-options) {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-top: 28px;
+  }
+  @media (max-width: 540px) {
+    :global(.quiz-options) { grid-template-columns: 1fr; }
+  }
+  :global(.opt) {
+    background: var(--bg);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 14px 18px;
+    font-family: var(--zh-serif);
+    font-size: 15px;
+    color: var(--ink);
+    cursor: pointer;
+    text-align: left;
+    transition: border-color 0.15s, background 0.15s;
+  }
+  :global(.opt:hover) {
+    border-color: var(--op);
+  }
+  :global(.opt.correct) {
+    background: color-mix(in srgb, var(--gt-bg) 80%, transparent);
+    border-color: var(--gt);
+    color: var(--gt);
+  }
+  :global(.opt.wrong) {
+    background: color-mix(in srgb, var(--qo-bg) 50%, transparent);
+    border-color: var(--qo);
+    color: var(--qo);
+  }
+  :global(.hint) {
+    font-family: var(--sans);
+    font-size: 12px;
+    color: var(--ink-faint);
+    margin-top: 16px;
+  }
+
+  .hint {
+    text-align: center;
+    padding: 12px;
+    font-family: var(--sans);
+    font-size: 12px;
+    color: var(--ink-faint);
+  }
+  .hint kbd {
+    background: var(--bg-elev);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 1px 6px;
+    font-size: 11px;
+  }
+</style>

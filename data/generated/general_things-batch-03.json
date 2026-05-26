@@ -1,0 +1,207 @@
+{
+  "category": "general_things",
+  "batch": 3,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "committee",
+      "definition_en": "A group of people picked to do work for others.",
+      "gloss_zh_tw": "委員會；受指派處理事務的一群人。",
+      "example_en": "The committee will meet on Monday.",
+      "example_zh_tw": "委員會星期一開會。",
+      "synonyms": ["group", "board"]
+    },
+    {
+      "id": "company",
+      "definition_en": "A group of people working together to do business.",
+      "gloss_zh_tw": "公司、商號；共同經商的團體。",
+      "example_en": "She works for a small company in town.",
+      "example_zh_tw": "她在鎮上的一家小公司工作。",
+      "synonyms": ["business", "group"]
+    },
+    {
+      "id": "comparison",
+      "definition_en": "The act of looking at two things to see how they are the same or not.",
+      "gloss_zh_tw": "比較、對照；觀察兩者異同的動作。",
+      "example_en": "In comparison, this book is better.",
+      "example_zh_tw": "相比之下，這本書比較好。",
+      "synonyms": ["contrast", "match"]
+    },
+    {
+      "id": "competition",
+      "definition_en": "A test or game where people try to be the best.",
+      "gloss_zh_tw": "競爭、比賽；眾人爭勝的活動。",
+      "example_en": "She is in a song competition this week.",
+      "example_zh_tw": "她這禮拜要參加一場歌唱比賽。",
+      "synonyms": ["match", "race"]
+    },
+    {
+      "id": "condition",
+      "definition_en": "The state a thing is in; how good or bad it is.",
+      "gloss_zh_tw": "狀況、條件；事物的狀態或先決要件。",
+      "example_en": "The car is in good condition.",
+      "example_zh_tw": "這台車狀況很好。",
+      "synonyms": ["state", "shape"]
+    },
+    {
+      "id": "connection",
+      "definition_en": "The way two things are joined together.",
+      "gloss_zh_tw": "連結、聯繫；兩者相連的關係。",
+      "example_en": "There is a connection between the two rooms.",
+      "example_zh_tw": "那兩個房間之間有通道相連。",
+      "synonyms": ["link", "join"]
+    },
+    {
+      "id": "control",
+      "definition_en": "The power to say what something will do.",
+      "gloss_zh_tw": "控制、掌控；決定事物動向的能力。",
+      "example_en": "She has control of the school.",
+      "example_zh_tw": "她掌管這所學校。",
+      "synonyms": ["power", "authority"]
+    },
+    {
+      "id": "cook",
+      "definition_en": "A person whose work is to make food ready to eat.",
+      "gloss_zh_tw": "廚師；負責準備食物的人。",
+      "example_en": "Our cook makes the best bread.",
+      "example_zh_tw": "我們的廚師做的麵包最好吃。",
+      "synonyms": ["chef", "baker"]
+    },
+    {
+      "id": "copper",
+      "definition_en": "A soft red-brown metal used for wires and pots.",
+      "gloss_zh_tw": "銅；紅褐色軟金屬，常用於電線和器皿。",
+      "example_en": "The pot is made of copper.",
+      "example_zh_tw": "這個鍋子是銅做的。",
+      "synonyms": ["metal", "brass"]
+    },
+    {
+      "id": "copy",
+      "definition_en": "A thing made to look the same as another.",
+      "gloss_zh_tw": "副本、拷貝；仿作或複製品。",
+      "example_en": "Please make a copy of this letter.",
+      "example_zh_tw": "請把這封信複印一份。",
+      "synonyms": ["duplicate", "print"]
+    },
+    {
+      "id": "cork",
+      "definition_en": "A light, soft material from a tree, used to keep liquid in a bottle.",
+      "gloss_zh_tw": "軟木塞；用於封住瓶口的輕軟材料。",
+      "example_en": "She pulled the cork out of the wine bottle.",
+      "example_zh_tw": "她把酒瓶上的軟木塞拔出來。",
+      "synonyms": ["stopper", "plug"]
+    },
+    {
+      "id": "cotton",
+      "definition_en": "A soft white material from a plant, used to make cloth.",
+      "gloss_zh_tw": "棉、棉花；棉花植物的纖維，可織布。",
+      "example_en": "This shirt is made of cotton.",
+      "example_zh_tw": "這件襯衫是棉的。",
+      "synonyms": ["cloth", "fabric"]
+    },
+    {
+      "id": "cough",
+      "definition_en": "A sudden push of air out of the throat, often when one is ill.",
+      "gloss_zh_tw": "咳嗽；自喉嚨突然送出的氣流。",
+      "example_en": "She has a bad cough today.",
+      "example_zh_tw": "她今天咳得很厲害。",
+      "synonyms": ["bark", "hack"]
+    },
+    {
+      "id": "country",
+      "definition_en": "A land with its own people and government; or land far from a town.",
+      "gloss_zh_tw": "國家；或鄉間、郊野。",
+      "example_en": "He lives in a small country in the north.",
+      "example_zh_tw": "他住在北方的一個小國。",
+      "synonyms": ["nation", "land"]
+    },
+    {
+      "id": "cover",
+      "definition_en": "Something put over a thing to keep it safe or hide it.",
+      "gloss_zh_tw": "覆蓋、罩子；用以遮蔽或保護之物。",
+      "example_en": "Put a cover on the box.",
+      "example_zh_tw": "把箱子蓋起來。",
+      "synonyms": ["lid", "top"]
+    },
+    {
+      "id": "crack",
+      "definition_en": "A thin opening in a thing where it has broken a little.",
+      "gloss_zh_tw": "裂縫、裂痕；物體上的細小破口。",
+      "example_en": "There is a crack in the cup.",
+      "example_zh_tw": "杯子上有一道裂痕。",
+      "synonyms": ["break", "split"]
+    },
+    {
+      "id": "credit",
+      "definition_en": "Trust given to a person to pay later for what they get now.",
+      "gloss_zh_tw": "信用、賒帳；可延後付款的信任。",
+      "example_en": "She bought the food on credit.",
+      "example_zh_tw": "她賒帳買了那些食物。",
+      "synonyms": ["trust", "loan"]
+    },
+    {
+      "id": "crime",
+      "definition_en": "A bad act that the law says is wrong.",
+      "gloss_zh_tw": "犯罪；違反法律的惡行。",
+      "example_en": "Stealing is a crime in every country.",
+      "example_zh_tw": "偷竊在哪個國家都是犯罪。",
+      "synonyms": ["wrong", "sin"]
+    },
+    {
+      "id": "crush",
+      "definition_en": "The act of pressing a thing so hard that it loses its form.",
+      "gloss_zh_tw": "壓碎、擠壓；用力壓使物體變形。",
+      "example_en": "Do not crush the flowers in the box.",
+      "example_zh_tw": "別把箱子裡的花壓壞了。",
+      "synonyms": ["smash", "press"]
+    },
+    {
+      "id": "cry",
+      "definition_en": "The sound made when one is sad, or a loud call.",
+      "gloss_zh_tw": "哭、叫喊；悲傷或大聲呼喚的聲音。",
+      "example_en": "The baby gave a small cry.",
+      "example_zh_tw": "嬰兒小聲哭了一下。",
+      "synonyms": ["weep", "shout"]
+    },
+    {
+      "id": "current",
+      "definition_en": "The way water or air keeps moving in one direction.",
+      "gloss_zh_tw": "水流、氣流；液體或氣體的流向。",
+      "example_en": "The river has a strong current here.",
+      "example_zh_tw": "這段河流的水流很強。",
+      "synonyms": ["stream", "flow"]
+    },
+    {
+      "id": "curve",
+      "definition_en": "A line that is not straight, going round in a smooth bend.",
+      "gloss_zh_tw": "曲線；非直線、平滑彎曲的線。",
+      "example_en": "The road has a sharp curve here.",
+      "example_zh_tw": "這裡路有個急轉彎。",
+      "synonyms": ["bend", "arc"]
+    },
+    {
+      "id": "damage",
+      "definition_en": "Harm done to a thing so it does not work as well.",
+      "gloss_zh_tw": "損害、損壞；使事物受損的傷害。",
+      "example_en": "The storm did damage to the house.",
+      "example_zh_tw": "暴風雨對房子造成了損害。",
+      "synonyms": ["harm", "hurt"]
+    },
+    {
+      "id": "danger",
+      "definition_en": "The chance that something bad may happen.",
+      "gloss_zh_tw": "危險；可能發生壞事的可能性。",
+      "example_en": "Keep the baby out of danger.",
+      "example_zh_tw": "別讓小孩有危險。",
+      "synonyms": ["risk", "threat"]
+    },
+    {
+      "id": "daughter",
+      "definition_en": "A female child of a parent.",
+      "gloss_zh_tw": "女兒；雙親的女性子嗣。",
+      "example_en": "Her daughter is in school.",
+      "example_zh_tw": "她女兒在唸書。",
+      "synonyms": ["girl", "child"]
+    }
+  ]
+}

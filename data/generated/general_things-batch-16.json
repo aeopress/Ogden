@@ -1,0 +1,207 @@
+{
+  "category": "general_things",
+  "batch": 16,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "vessel",
+      "definition_en": "A ship or large boat; or a container for liquid.",
+      "gloss_zh_tw": "船隻、容器;用於航行或盛裝液體之物。",
+      "example_en": "The vessel came into harbour at noon.",
+      "example_zh_tw": "船於中午駛入港口。",
+      "synonyms": ["ship", "container"]
+    },
+    {
+      "id": "view",
+      "definition_en": "What one sees from a place; or one's idea about a thing.",
+      "gloss_zh_tw": "景色、觀點;所見的景緻或對事物的看法。",
+      "example_en": "We have a fine view of the hills.",
+      "example_zh_tw": "我們這裡可以看到漂亮的群山。",
+      "synonyms": ["sight", "opinion"]
+    },
+    {
+      "id": "voice",
+      "definition_en": "The sound a person makes with the mouth when talking or singing.",
+      "gloss_zh_tw": "嗓音、聲音;說話或歌唱時所發之聲。",
+      "example_en": "She has a lovely voice for songs.",
+      "example_zh_tw": "她的歌聲很動聽。",
+      "synonyms": ["tone", "sound"]
+    },
+    {
+      "id": "walk",
+      "definition_en": "An act of going on foot at a slow rate.",
+      "gloss_zh_tw": "步行、散步;雙足慢行。",
+      "example_en": "Take a walk in the park.",
+      "example_zh_tw": "去公園散個步。",
+      "synonyms": ["stroll", "march"]
+    },
+    {
+      "id": "war",
+      "definition_en": "A long fight between two countries or groups.",
+      "gloss_zh_tw": "戰爭;國家或團體間的長期衝突。",
+      "example_en": "The war went on for five years.",
+      "example_zh_tw": "戰爭持續了五年。",
+      "synonyms": ["fight", "conflict"]
+    },
+    {
+      "id": "wash",
+      "definition_en": "The act of cleaning a thing with water.",
+      "gloss_zh_tw": "洗、清洗;以水使物潔淨。",
+      "example_en": "Give the dish a good wash.",
+      "example_zh_tw": "把盤子好好洗一洗。",
+      "synonyms": ["clean", "rinse"]
+    },
+    {
+      "id": "waste",
+      "definition_en": "Things that are no longer of use; or the act of not making good use.",
+      "gloss_zh_tw": "廢物、浪費;無用之物或對資源的不善運用。",
+      "example_en": "Put the waste in the bin, please.",
+      "example_zh_tw": "請把垃圾丟進桶裡。",
+      "synonyms": ["rubbish", "trash"]
+    },
+    {
+      "id": "water",
+      "definition_en": "The clear liquid that falls as rain and runs in rivers.",
+      "gloss_zh_tw": "水;雨水或河水所形成的清澈液體。",
+      "example_en": "Drink a glass of water before bed.",
+      "example_zh_tw": "睡前喝杯水。",
+      "synonyms": ["fluid", "liquid"]
+    },
+    {
+      "id": "wave",
+      "definition_en": "A long high curve of water that moves on the sea.",
+      "gloss_zh_tw": "波浪、波;海面上起伏的長條水面。",
+      "example_en": "The wave came up to the beach.",
+      "example_zh_tw": "海浪打到了沙灘上。",
+      "synonyms": ["surge", "ripple"]
+    },
+    {
+      "id": "wax",
+      "definition_en": "A soft yellow stuff from bees, used for candles.",
+      "gloss_zh_tw": "蠟;蜂巢分泌、可製蠟燭的軟黃物。",
+      "example_en": "The candle is made of wax.",
+      "example_zh_tw": "蠟燭是用蠟做的。",
+      "synonyms": ["beeswax", "paraffin"]
+    },
+    {
+      "id": "way",
+      "definition_en": "A road or path; or the manner in which a thing is done.",
+      "gloss_zh_tw": "道路、方法;通行的路徑或行事的方式。",
+      "example_en": "Which way to the shop?",
+      "example_zh_tw": "去那家店該怎麼走？",
+      "synonyms": ["path", "method"]
+    },
+    {
+      "id": "weather",
+      "definition_en": "The state of the air, like rain, sun, or wind.",
+      "gloss_zh_tw": "天氣;空氣的狀態，如晴雨或風。",
+      "example_en": "The weather is fine today.",
+      "example_zh_tw": "今天天氣很好。",
+      "synonyms": ["climate", "conditions"]
+    },
+    {
+      "id": "week",
+      "definition_en": "Seven days, one after another.",
+      "gloss_zh_tw": "週、星期;連續七日。",
+      "example_en": "I will see you next week.",
+      "example_zh_tw": "我下星期再見你。",
+      "synonyms": ["seven days"]
+    },
+    {
+      "id": "weight",
+      "definition_en": "How heavy a thing is.",
+      "gloss_zh_tw": "重量、體重;事物有多重。",
+      "example_en": "What is the weight of this box?",
+      "example_zh_tw": "這個箱子多重？",
+      "synonyms": ["mass", "heaviness"]
+    },
+    {
+      "id": "wind",
+      "definition_en": "Air that is moving fast.",
+      "gloss_zh_tw": "風;快速流動的空氣。",
+      "example_en": "The wind blew the leaves off the tree.",
+      "example_zh_tw": "風把樹上的葉子吹落。",
+      "synonyms": ["breeze", "gale"]
+    },
+    {
+      "id": "wine",
+      "definition_en": "A drink made from the juice of grapes.",
+      "gloss_zh_tw": "葡萄酒;以葡萄汁釀製的飲品。",
+      "example_en": "Have a glass of red wine.",
+      "example_zh_tw": "來杯紅酒吧。",
+      "synonyms": ["alcohol", "vintage"]
+    },
+    {
+      "id": "winter",
+      "definition_en": "The cold time of the year, between autumn and spring.",
+      "gloss_zh_tw": "冬天、冬季;介於秋春之間的寒冷時節。",
+      "example_en": "We go skiing in winter.",
+      "example_zh_tw": "我們冬天去滑雪。",
+      "synonyms": ["cold", "season"]
+    },
+    {
+      "id": "woman",
+      "definition_en": "An adult female person.",
+      "gloss_zh_tw": "女人、女性成人。",
+      "example_en": "An old woman sat by the window.",
+      "example_zh_tw": "一個老婦人坐在窗邊。",
+      "synonyms": ["lady", "female"]
+    },
+    {
+      "id": "wood",
+      "definition_en": "The hard stuff that comes from the inside of a tree.",
+      "gloss_zh_tw": "木頭、木材;自樹幹取得的堅硬物質。",
+      "example_en": "The table is made of dark wood.",
+      "example_zh_tw": "桌子是深色木頭做的。",
+      "synonyms": ["timber", "log"]
+    },
+    {
+      "id": "wool",
+      "definition_en": "The soft hair from a sheep, used for warm clothes.",
+      "gloss_zh_tw": "羊毛;自羊身取得、可製暖衣的軟毛。",
+      "example_en": "Her coat is made of wool.",
+      "example_zh_tw": "她的外套是羊毛的。",
+      "synonyms": ["fleece", "yarn"]
+    },
+    {
+      "id": "word",
+      "definition_en": "A sound or sign that has a meaning, used in talk or writing.",
+      "gloss_zh_tw": "詞、字;有意義的聲音或符號，用於語言文字。",
+      "example_en": "What does this word mean?",
+      "example_zh_tw": "這個字是什麼意思？",
+      "synonyms": ["term", "expression"]
+    },
+    {
+      "id": "work",
+      "definition_en": "Acts done to make a thing or to get money.",
+      "gloss_zh_tw": "工作、勞動;為製作或營生所做之事。",
+      "example_en": "She has good work in the city.",
+      "example_zh_tw": "她在城裡有份不錯的工作。",
+      "synonyms": ["labour", "job"]
+    },
+    {
+      "id": "wound",
+      "definition_en": "A bad place on the body where it was cut or hit.",
+      "gloss_zh_tw": "傷口;身體被劃或被擊的受損之處。",
+      "example_en": "The wound was deep but is now better.",
+      "example_zh_tw": "傷口很深，但已經好多了。",
+      "synonyms": ["injury", "cut"]
+    },
+    {
+      "id": "writing",
+      "definition_en": "Words put on paper or a screen.",
+      "gloss_zh_tw": "書寫、寫作;紙上或螢幕上的文字。",
+      "example_en": "Her writing is clear and good to read.",
+      "example_zh_tw": "她寫的字清楚好讀。",
+      "synonyms": ["text", "script"]
+    },
+    {
+      "id": "year",
+      "definition_en": "The time of 365 days, made of twelve months.",
+      "gloss_zh_tw": "年;三百六十五天、十二個月的時段。",
+      "example_en": "I will see you next year.",
+      "example_zh_tw": "我明年再見你。",
+      "synonyms": ["twelve months", "annum"]
+    }
+  ]
+}

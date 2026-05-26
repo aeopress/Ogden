@@ -1,0 +1,83 @@
+/* Ogden TW — global tokens */
+
+:root {
+  /* light theme */
+  --bg: #fbf8ef;
+  --bg-elev: #fffdf7;
+  --ink: #1c1917;
+  --ink-soft: #44403c;
+  --ink-faint: #78716c;
+  --line: #e7e2d4;
+  --line-soft: #efe9da;
+
+  /* category — light */
+  --op: #c2410c;          /* operations · deep terracotta */
+  --op-bg: #fff7ed;
+  --gt: #0f766e;          /* general · teal */
+  --gt-bg: #f0fdfa;
+  --pt: #a16207;          /* picturable · amber */
+  --pt-bg: #fefce8;
+  --qg: #3730a3;          /* qualities general · indigo */
+  --qg-bg: #eef2ff;
+  --qo: #9333ea;          /* qualities opposites · purple */
+  --qo-bg: #faf5ff;
+
+  /* fonts */
+  --serif: 'Cormorant Garamond', 'Source Han Serif TC', 'Noto Serif TC', Georgia, serif;
+  --sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif;
+  --zh-serif: 'Source Han Serif TC', 'Noto Serif TC', 'Songti TC', serif;
+}
+
+[data-theme='dark'] {
+  --bg: #1c1917;
+  --bg-elev: #292524;
+  --ink: #e7e5e4;
+  --ink-soft: #a8a29e;
+  --ink-faint: #78716c;
+  --line: #44403c;
+  --line-soft: #292524;
+
+  --op: #fb923c;
+  --op-bg: #3a1f12;
+  --gt: #5eead4;
+  --gt-bg: #0d2926;
+  --pt: #fbbf24;
+  --pt-bg: #2d2410;
+  --qg: #a5b4fc;
+  --qg-bg: #1e1d3a;
+  --qo: #d8b4fe;
+  --qo-bg: #2b1e3a;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Restore [hidden] semantics for flex/grid elements that set display directly. */
+[hidden] {
+  display: none !important;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 15px;
+  line-height: 1.6;
+  padding-bottom: 80px;
+  -webkit-font-smoothing: antialiased;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 3px;
+}

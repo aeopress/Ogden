@@ -1,0 +1,207 @@
+{
+  "category": "qualities_general",
+  "batch": 4,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "same",
+      "definition_en": "Not different; the very one.",
+      "gloss_zh_tw": "相同的、一樣的;非不同、即指同一者。",
+      "example_en": "She wears the same hat every day.",
+      "example_zh_tw": "她每天都戴同一頂帽子。",
+      "synonyms": ["identical", "equal"]
+    },
+    {
+      "id": "second",
+      "definition_en": "Coming after the first.",
+      "gloss_zh_tw": "第二的、其次的;位於第一之後的。",
+      "example_en": "She got the second prize.",
+      "example_zh_tw": "她得了第二名。",
+      "synonyms": ["next", "another"]
+    },
+    {
+      "id": "separate",
+      "definition_en": "Apart; not joined to another.",
+      "gloss_zh_tw": "分開的、各別的;與他物分離的。",
+      "example_en": "Keep the milk in a separate cup.",
+      "example_zh_tw": "把牛奶倒在另一個杯子裡。",
+      "synonyms": ["apart", "distinct"]
+    },
+    {
+      "id": "serious",
+      "definition_en": "Of great worth, not for play; or grave.",
+      "gloss_zh_tw": "嚴重的、認真的;非戲謔、具重要性。",
+      "example_en": "She has a serious look on her face.",
+      "example_zh_tw": "她神情嚴肅。",
+      "synonyms": ["grave", "earnest"]
+    },
+    {
+      "id": "sharp",
+      "definition_en": "Able to cut; with a thin edge or point.",
+      "gloss_zh_tw": "鋒利的、銳利的;邊或尖端細利、可切割。",
+      "example_en": "Be careful with that sharp knife.",
+      "example_zh_tw": "小心那把利刀。",
+      "synonyms": ["pointed", "keen"]
+    },
+    {
+      "id": "smooth",
+      "definition_en": "With no rough parts; even on the surface.",
+      "gloss_zh_tw": "平滑的、光滑的;表面均勻、無粗糙處。",
+      "example_en": "The stone is smooth from the river water.",
+      "example_zh_tw": "那顆石頭因河水沖刷而光滑。",
+      "synonyms": ["even", "level"]
+    },
+    {
+      "id": "sticky",
+      "definition_en": "That keeps to things one's hand touches.",
+      "gloss_zh_tw": "黏的、黏稠的;會附著於所觸之物。",
+      "example_en": "The cake is sticky on my fingers.",
+      "example_zh_tw": "蛋糕黏在我手上。",
+      "synonyms": ["gluey", "tacky"]
+    },
+    {
+      "id": "stiff",
+      "definition_en": "Not soft or able to bend easily.",
+      "gloss_zh_tw": "硬挺的、僵硬的;不柔軟或不易彎曲。",
+      "example_en": "The card is stiff and straight.",
+      "example_zh_tw": "這張卡片硬挺平整。",
+      "synonyms": ["rigid", "firm"]
+    },
+    {
+      "id": "straight",
+      "definition_en": "Going one way with no bend.",
+      "gloss_zh_tw": "直的、筆直的;無彎曲地朝一方延伸。",
+      "example_en": "Draw a straight line on the page.",
+      "example_zh_tw": "在紙上畫一條直線。",
+      "synonyms": ["direct", "level"]
+    },
+    {
+      "id": "strong",
+      "definition_en": "Having great power or able to take much weight.",
+      "gloss_zh_tw": "強壯的、堅固的;具大力量或可承重。",
+      "example_en": "He has very strong arms.",
+      "example_zh_tw": "他手臂非常有力。",
+      "synonyms": ["powerful", "tough"]
+    },
+    {
+      "id": "sudden",
+      "definition_en": "Happening at once, without warning.",
+      "gloss_zh_tw": "突然的、忽然的;毫無預警地發生。",
+      "example_en": "There was a sudden noise outside.",
+      "example_zh_tw": "外面突然傳來聲響。",
+      "synonyms": ["abrupt", "unexpected"]
+    },
+    {
+      "id": "sweet",
+      "definition_en": "Tasting like sugar; pleasing to the tongue.",
+      "gloss_zh_tw": "甜的;如糖之味、令舌愉悅。",
+      "example_en": "The cake is too sweet for me.",
+      "example_zh_tw": "這蛋糕對我來說太甜了。",
+      "synonyms": ["sugary", "honeyed"]
+    },
+    {
+      "id": "tall",
+      "definition_en": "Higher than most others of its kind.",
+      "gloss_zh_tw": "高的;比同類更高的。",
+      "example_en": "She is a tall woman.",
+      "example_zh_tw": "她是個高個子女性。",
+      "synonyms": ["high", "lofty"]
+    },
+    {
+      "id": "thick",
+      "definition_en": "With great measure from one side to the other; or with many parts close together.",
+      "gloss_zh_tw": "厚的、稠密的;雙側距離大或內含物緊密。",
+      "example_en": "The book is thick and heavy.",
+      "example_zh_tw": "這本書又厚又重。",
+      "synonyms": ["dense", "wide"]
+    },
+    {
+      "id": "tight",
+      "definition_en": "Held close, with no loose room.",
+      "gloss_zh_tw": "緊的、緊密的;貼合無鬆餘地。",
+      "example_en": "Tie the rope tight.",
+      "example_zh_tw": "把繩子綁緊。",
+      "synonyms": ["close", "snug"]
+    },
+    {
+      "id": "tired",
+      "definition_en": "In need of rest; not feeling fresh.",
+      "gloss_zh_tw": "疲累的、勞累的;需要休息、非神清氣爽。",
+      "example_en": "I am tired after the long walk.",
+      "example_zh_tw": "走了那麼長一段路我累了。",
+      "synonyms": ["weary", "exhausted"]
+    },
+    {
+      "id": "true",
+      "definition_en": "In accord with fact; not made up.",
+      "gloss_zh_tw": "真實的、確實的;符合事實、非虛構。",
+      "example_en": "It is true that I was at the meeting.",
+      "example_zh_tw": "我確實出席了那場會議。",
+      "synonyms": ["real", "actual"]
+    },
+    {
+      "id": "violent",
+      "definition_en": "Using great force, often to do harm.",
+      "gloss_zh_tw": "暴力的、強烈的;以強力造成傷害。",
+      "example_en": "There was a violent storm last night.",
+      "example_zh_tw": "昨晚有一場猛烈的風暴。",
+      "synonyms": ["fierce", "brutal"]
+    },
+    {
+      "id": "waiting",
+      "definition_en": "Staying in one place till something happens.",
+      "gloss_zh_tw": "等待的;留在原處直到某事發生。",
+      "example_en": "The waiting room was full of people.",
+      "example_zh_tw": "等候室裡擠滿了人。",
+      "synonyms": ["expectant", "patient"]
+    },
+    {
+      "id": "warm",
+      "definition_en": "A little hot; pleasing to the body.",
+      "gloss_zh_tw": "暖和的、溫暖的;略熱、令身體舒適。",
+      "example_en": "The room is warm and dry.",
+      "example_zh_tw": "房間又暖又乾。",
+      "synonyms": ["mild", "cosy"]
+    },
+    {
+      "id": "wet",
+      "definition_en": "Covered or full of water.",
+      "gloss_zh_tw": "濕的、潮濕的;被水覆蓋或充滿水分。",
+      "example_en": "Her hair is wet from the rain.",
+      "example_zh_tw": "她的頭髮被雨淋濕了。",
+      "synonyms": ["damp", "moist"]
+    },
+    {
+      "id": "wide",
+      "definition_en": "Of great measure from one side to the other.",
+      "gloss_zh_tw": "寬的、寬闊的;兩側相距大的。",
+      "example_en": "The river is wide and deep.",
+      "example_zh_tw": "那條河又寬又深。",
+      "synonyms": ["broad", "vast"]
+    },
+    {
+      "id": "wise",
+      "definition_en": "Having good knowledge and able to use it well.",
+      "gloss_zh_tw": "明智的、有智慧的;具良好知識且能善用之。",
+      "example_en": "She is a wise old woman.",
+      "example_zh_tw": "她是位睿智的老婦人。",
+      "synonyms": ["smart", "thoughtful"]
+    },
+    {
+      "id": "yellow",
+      "definition_en": "Of the colour of the sun or gold.",
+      "gloss_zh_tw": "黃色的;如太陽或黃金之色。",
+      "example_en": "The leaves turn yellow in autumn.",
+      "example_zh_tw": "秋天時葉子轉黃。",
+      "synonyms": ["golden", "amber"]
+    },
+    {
+      "id": "young",
+      "definition_en": "Of few years; not old.",
+      "gloss_zh_tw": "年輕的;年歲少、非老的。",
+      "example_en": "She is a young woman at twenty.",
+      "example_zh_tw": "她二十歲，是個年輕女性。",
+      "synonyms": ["youthful", "fresh"]
+    }
+  ]
+}

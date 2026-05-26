@@ -1,0 +1,207 @@
+{
+  "category": "operations",
+  "batch": 3,
+  "generated_by": "claude-opus-4-7 (in-session, pre-API-key)",
+  "results": [
+    {
+      "id": "some",
+      "definition_en": "Not all, but a part of a group or amount.",
+      "gloss_zh_tw": "一些、某些；部分（不特定）。",
+      "example_en": "I have some apples in my bag.",
+      "example_zh_tw": "我袋子裡有一些蘋果。",
+      "synonyms": ["any", "few"]
+    },
+    {
+      "id": "such",
+      "definition_en": "Of this sort or that sort.",
+      "gloss_zh_tw": "這樣的、那樣的；如此（這般）。",
+      "example_en": "I have never seen such a beautiful flower.",
+      "example_zh_tw": "我從沒看過這麼漂亮的花。",
+      "synonyms": ["like", "this"]
+    },
+    {
+      "id": "that",
+      "definition_en": "Word used to point to a thing not near, or one talked about.",
+      "gloss_zh_tw": "那、那個（指較遠的人事物）。",
+      "example_en": "That book on the shelf is mine.",
+      "example_zh_tw": "架子上那本書是我的。",
+      "synonyms": ["this", "the"]
+    },
+    {
+      "id": "this",
+      "definition_en": "Word used to point to a thing near, or just talked about.",
+      "gloss_zh_tw": "這、這個（指較近的人事物）。",
+      "example_en": "This is my new book.",
+      "example_zh_tw": "這是我的新書。",
+      "synonyms": ["that", "the"]
+    },
+    {
+      "id": "i",
+      "definition_en": "The word the person talking uses for himself.",
+      "gloss_zh_tw": "我（第一人稱單數）。",
+      "example_en": "I have two brothers.",
+      "example_zh_tw": "我有兩個哥哥。",
+      "synonyms": ["me", "myself"]
+    },
+    {
+      "id": "he",
+      "definition_en": "Word used for a man or boy talked about.",
+      "gloss_zh_tw": "他（指男性）。",
+      "example_en": "He is my brother.",
+      "example_zh_tw": "他是我的哥哥。",
+      "synonyms": ["him", "this"]
+    },
+    {
+      "id": "you",
+      "definition_en": "The word used for the person or persons being talked to.",
+      "gloss_zh_tw": "你、你們（第二人稱）。",
+      "example_en": "You are my best friend.",
+      "example_zh_tw": "你是我最好的朋友。",
+      "synonyms": ["yourself"]
+    },
+    {
+      "id": "who",
+      "definition_en": "Word used to ask about a person.",
+      "gloss_zh_tw": "誰；用於詢問人物。",
+      "example_en": "Who is at the door?",
+      "example_zh_tw": "誰在門口？",
+      "synonyms": ["whom", "which"]
+    },
+    {
+      "id": "and",
+      "definition_en": "Word used to put two things together.",
+      "gloss_zh_tw": "和、與、並且。",
+      "example_en": "I have a cat and a dog.",
+      "example_zh_tw": "我有一隻貓和一隻狗。",
+      "synonyms": ["with", "also"]
+    },
+    {
+      "id": "because",
+      "definition_en": "Word used to say the reason for a thing.",
+      "gloss_zh_tw": "因為；用以說明原因。",
+      "example_en": "I am tired because I worked all day.",
+      "example_zh_tw": "我累是因為我工作了一整天。",
+      "synonyms": ["as", "since"]
+    },
+    {
+      "id": "but",
+      "definition_en": "Word used to say a thing that is not the same.",
+      "gloss_zh_tw": "但是、然而（用於轉折）。",
+      "example_en": "I am tired, but I am happy.",
+      "example_zh_tw": "我很累，但我很開心。",
+      "synonyms": ["though", "yet"]
+    },
+    {
+      "id": "or",
+      "definition_en": "Word used to give a different choice between two things.",
+      "gloss_zh_tw": "或、或者（表選擇）。",
+      "example_en": "Tea or coffee?",
+      "example_zh_tw": "茶還是咖啡？",
+      "synonyms": ["either"]
+    },
+    {
+      "id": "if",
+      "definition_en": "Word used to say a thing may be, but is not certain.",
+      "gloss_zh_tw": "如果、假如；表示條件。",
+      "example_en": "If it rains, we will stay at home.",
+      "example_zh_tw": "如果下雨，我們就待在家。",
+      "synonyms": ["when", "though"]
+    },
+    {
+      "id": "though",
+      "definition_en": "Word used to say a thing that is true even when another thing is true.",
+      "gloss_zh_tw": "雖然、儘管。",
+      "example_en": "Though it was cold, she went out.",
+      "example_zh_tw": "雖然天氣冷，她還是出門了。",
+      "synonyms": ["but", "while"]
+    },
+    {
+      "id": "while",
+      "definition_en": "During the time that a thing is going on.",
+      "gloss_zh_tw": "當……的時候；雖然。",
+      "example_en": "She sang while she worked.",
+      "example_zh_tw": "她邊工作邊唱歌。",
+      "synonyms": ["as", "when"]
+    },
+    {
+      "id": "how",
+      "definition_en": "Word used to ask in what way a thing is done.",
+      "gloss_zh_tw": "如何、怎麼；用於詢問方式。",
+      "example_en": "How do you make this cake?",
+      "example_zh_tw": "這蛋糕怎麼做？",
+      "synonyms": ["why"]
+    },
+    {
+      "id": "when",
+      "definition_en": "Word used to ask or say at what time a thing is.",
+      "gloss_zh_tw": "何時、當……的時候。",
+      "example_en": "When will you come back?",
+      "example_zh_tw": "你什麼時候回來？",
+      "synonyms": ["while", "as"]
+    },
+    {
+      "id": "where",
+      "definition_en": "Word used to ask or say in what place a thing is.",
+      "gloss_zh_tw": "在哪裡、在……的地方。",
+      "example_en": "Where is the key?",
+      "example_zh_tw": "鑰匙在哪？",
+      "synonyms": ["there"]
+    },
+    {
+      "id": "why",
+      "definition_en": "Word used to ask the reason for a thing.",
+      "gloss_zh_tw": "為什麼；用於詢問原因。",
+      "example_en": "Why are you so tired?",
+      "example_zh_tw": "你怎麼那麼累？",
+      "synonyms": ["how", "because"]
+    },
+    {
+      "id": "again",
+      "definition_en": "One more time.",
+      "gloss_zh_tw": "再一次、又一次。",
+      "example_en": "Please say it again.",
+      "example_zh_tw": "請再說一次。",
+      "synonyms": ["once more", "still"]
+    },
+    {
+      "id": "ever",
+      "definition_en": "At any time.",
+      "gloss_zh_tw": "曾經、永遠；在任何時候。",
+      "example_en": "Have you ever seen a star fall?",
+      "example_zh_tw": "你看過流星嗎？",
+      "synonyms": ["always", "once"]
+    },
+    {
+      "id": "far",
+      "definition_en": "A long way from a place.",
+      "gloss_zh_tw": "遠、遙遠（距離或程度）。",
+      "example_en": "The school is not far from my house.",
+      "example_zh_tw": "學校離我家不遠。",
+      "synonyms": ["distant"]
+    },
+    {
+      "id": "forward",
+      "definition_en": "To the front, or in the way one is looking.",
+      "gloss_zh_tw": "向前、往前。",
+      "example_en": "Take one step forward, please.",
+      "example_zh_tw": "請向前走一步。",
+      "synonyms": ["ahead", "on"]
+    },
+    {
+      "id": "here",
+      "definition_en": "In this place, near to the person talking.",
+      "gloss_zh_tw": "在這裡、到這裡。",
+      "example_en": "Come here, please.",
+      "example_zh_tw": "請過來這邊。",
+      "synonyms": ["near", "there"]
+    },
+    {
+      "id": "near",
+      "definition_en": "Not far from a place or thing.",
+      "gloss_zh_tw": "在……附近、靠近。",
+      "example_en": "The shop is near my house.",
+      "example_zh_tw": "那家店在我家附近。",
+      "synonyms": ["by", "close"]
+    }
+  ]
+}

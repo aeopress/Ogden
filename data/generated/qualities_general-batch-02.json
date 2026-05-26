@@ -1,0 +1,207 @@
+{
+  "category": "qualities_general",
+  "batch": 2,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "fat",
+      "definition_en": "Having much soft body, not thin.",
+      "gloss_zh_tw": "胖的、肥的;體型臃腫、非瘦削。",
+      "example_en": "The cat is too fat to jump.",
+      "example_zh_tw": "那隻貓太胖跳不起來。",
+      "synonyms": ["plump", "stout"]
+    },
+    {
+      "id": "fertile",
+      "definition_en": "Able to give much fruit, grain, or new life.",
+      "gloss_zh_tw": "肥沃的、多產的;能生產果實、穀物或新生命。",
+      "example_en": "The fertile land gives much food.",
+      "example_zh_tw": "肥沃的土地能種出許多食物。",
+      "synonyms": ["productive", "rich"]
+    },
+    {
+      "id": "first",
+      "definition_en": "Coming before all others in time or place.",
+      "gloss_zh_tw": "第一的、首先的;在時間或位置上居先。",
+      "example_en": "She is first in line for the bus.",
+      "example_zh_tw": "她排公車排第一個。",
+      "synonyms": ["initial", "earliest"]
+    },
+    {
+      "id": "fixed",
+      "definition_en": "Made not to move; stable.",
+      "gloss_zh_tw": "固定的;不會移動的、穩固的。",
+      "example_en": "The picture is fixed to the wall.",
+      "example_zh_tw": "那幅畫固定在牆上。",
+      "synonyms": ["set", "stable"]
+    },
+    {
+      "id": "flat",
+      "definition_en": "Smooth and even; not curved or angled.",
+      "gloss_zh_tw": "平的、平坦的;光滑均勻、無起伏。",
+      "example_en": "Put the paper on a flat surface.",
+      "example_zh_tw": "把紙放在平的表面上。",
+      "synonyms": ["even", "level"]
+    },
+    {
+      "id": "free",
+      "definition_en": "Not held back; able to do as one wishes.",
+      "gloss_zh_tw": "自由的;不受束縛、可隨意而行。",
+      "example_en": "The bird is free in the sky.",
+      "example_zh_tw": "那隻鳥在天空自由飛翔。",
+      "synonyms": ["loose", "independent"]
+    },
+    {
+      "id": "frequent",
+      "definition_en": "Happening often.",
+      "gloss_zh_tw": "頻繁的、經常的;發生頻率高的。",
+      "example_en": "She is a frequent visitor to the library.",
+      "example_zh_tw": "她常去圖書館。",
+      "synonyms": ["common", "regular"]
+    },
+    {
+      "id": "full",
+      "definition_en": "Holding as much as it can; with no more room.",
+      "gloss_zh_tw": "滿的、充足的;容量已盡、無餘地。",
+      "example_en": "The cup is full of milk.",
+      "example_zh_tw": "杯子裡裝滿了牛奶。",
+      "synonyms": ["complete", "loaded"]
+    },
+    {
+      "id": "general",
+      "definition_en": "True for most things, not just one.",
+      "gloss_zh_tw": "一般的、普遍的;適用於多數事物的。",
+      "example_en": "There is a general feeling of happiness.",
+      "example_zh_tw": "整體氛圍很開心。",
+      "synonyms": ["common", "universal"]
+    },
+    {
+      "id": "good",
+      "definition_en": "Right or pleasing; of high quality.",
+      "gloss_zh_tw": "好的、優良的;正確、令人滿意或品質高的。",
+      "example_en": "She is a good friend to me.",
+      "example_zh_tw": "她是我的好朋友。",
+      "synonyms": ["fine", "nice"]
+    },
+    {
+      "id": "great",
+      "definition_en": "Very big; or very important.",
+      "gloss_zh_tw": "偉大的、巨大的;規模大或地位重要。",
+      "example_en": "It was a great day for our family.",
+      "example_zh_tw": "那是我們家很重要的一天。",
+      "synonyms": ["large", "grand"]
+    },
+    {
+      "id": "grey",
+      "definition_en": "Of the colour between white and black.",
+      "gloss_zh_tw": "灰色的;介於白與黑之間。",
+      "example_en": "She wore a grey coat in the rain.",
+      "example_zh_tw": "她在雨中穿著灰色外套。",
+      "synonyms": ["ashen", "gray"]
+    },
+    {
+      "id": "hanging",
+      "definition_en": "Held up from above; not on the ground.",
+      "gloss_zh_tw": "懸掛的、垂掛的;由上方吊起、未著地。",
+      "example_en": "The pictures are hanging on the wall.",
+      "example_zh_tw": "畫掛在牆上。",
+      "synonyms": ["dangling", "suspended"]
+    },
+    {
+      "id": "happy",
+      "definition_en": "Having a good feeling of pleasure.",
+      "gloss_zh_tw": "快樂的、開心的;心情愉悅。",
+      "example_en": "She was happy to see her friend.",
+      "example_zh_tw": "她很高興見到朋友。",
+      "synonyms": ["glad", "joyful"]
+    },
+    {
+      "id": "hard",
+      "definition_en": "Not soft; or not easy to do.",
+      "gloss_zh_tw": "硬的、難的;不柔軟或不容易完成。",
+      "example_en": "The seat is too hard for sitting long.",
+      "example_zh_tw": "這座位太硬，坐久不舒服。",
+      "synonyms": ["firm", "tough"]
+    },
+    {
+      "id": "healthy",
+      "definition_en": "In good condition, with no disease.",
+      "gloss_zh_tw": "健康的;身體良好、無疾病。",
+      "example_en": "Eat fresh fruit to stay healthy.",
+      "example_zh_tw": "多吃新鮮水果保持健康。",
+      "synonyms": ["well", "fit"]
+    },
+    {
+      "id": "high",
+      "definition_en": "Far up from the ground.",
+      "gloss_zh_tw": "高的;距地面遠的。",
+      "example_en": "The bird sat on a high branch.",
+      "example_zh_tw": "那隻鳥停在高枝上。",
+      "synonyms": ["tall", "elevated"]
+    },
+    {
+      "id": "hollow",
+      "definition_en": "Empty inside; not solid.",
+      "gloss_zh_tw": "空心的、中空的;內部為空、非實心。",
+      "example_en": "The drum is hollow inside.",
+      "example_zh_tw": "那個鼓裡是空的。",
+      "synonyms": ["empty", "vacant"]
+    },
+    {
+      "id": "important",
+      "definition_en": "Of great worth or weight; needing care.",
+      "gloss_zh_tw": "重要的;有重大價值或意義的。",
+      "example_en": "She has an important meeting at noon.",
+      "example_zh_tw": "她中午有一場重要會議。",
+      "synonyms": ["key", "crucial"]
+    },
+    {
+      "id": "kind",
+      "definition_en": "Doing good or having a soft heart for others.",
+      "gloss_zh_tw": "親切的、和藹的;心懷善意對待他人。",
+      "example_en": "She is kind to all the dogs.",
+      "example_zh_tw": "她對所有的狗都很溫柔。",
+      "synonyms": ["nice", "warm"]
+    },
+    {
+      "id": "like",
+      "definition_en": "The same as, or near to, another thing.",
+      "gloss_zh_tw": "相像的;與他物相同或相近。",
+      "example_en": "She has a face like her mother's.",
+      "example_zh_tw": "她的臉長得像她媽。",
+      "synonyms": ["similar", "alike"]
+    },
+    {
+      "id": "living",
+      "definition_en": "Having life; not dead.",
+      "gloss_zh_tw": "活著的;有生命、非死亡的。",
+      "example_en": "Every living thing needs water.",
+      "example_zh_tw": "每個生物都需要水。",
+      "synonyms": ["alive", "breathing"]
+    },
+    {
+      "id": "long",
+      "definition_en": "Of great measure from end to end.",
+      "gloss_zh_tw": "長的;從一端到另一端距離大的。",
+      "example_en": "The road is long and straight.",
+      "example_zh_tw": "那條路又長又直。",
+      "synonyms": ["lengthy", "extended"]
+    },
+    {
+      "id": "male",
+      "definition_en": "Of the sex that does not give birth; like a man or a boy.",
+      "gloss_zh_tw": "男性的、雄性的;不能生育、屬男方一性。",
+      "example_en": "The male bird has bright colours.",
+      "example_zh_tw": "雄鳥顏色鮮豔。",
+      "synonyms": ["masculine", "manly"]
+    },
+    {
+      "id": "married",
+      "definition_en": "Joined as husband and wife.",
+      "gloss_zh_tw": "已婚的;結為夫妻的。",
+      "example_en": "They were married two years ago.",
+      "example_zh_tw": "他們兩年前結婚了。",
+      "synonyms": ["wedded", "joined"]
+    }
+  ]
+}

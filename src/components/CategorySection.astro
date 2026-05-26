@@ -1,0 +1,78 @@
+---
+import type { Category, Word } from '@/data/schema';
+import { CATEGORY_META } from '@/data/schema';
+import WordCard from './WordCard.astro';
+
+interface Props {
+  category: Category;
+  words: readonly Word[];
+}
+
+const { category, words } = Astro.props;
+const meta = CATEGORY_META[category];
+---
+
+<section id={`cat-${category}`} class={`section cat-${category}`}>
+  <header class="section-header">
+    <h2>
+      <span class="en">{meta.label_en}</span>
+      <span class="zh">{meta.label_zh}</span>
+    </h2>
+    <span class="count">{words.length} 詞</span>
+  </header>
+  <div class="grid">
+    {words.map((w) => <WordCard word={w} />)}
+  </div>
+</section>
+
+<style>
+  .section {
+    margin-top: 64px;
+    scroll-margin-top: 80px;
+  }
+  .section:first-child {
+    margin-top: 24px;
+  }
+  .section-header {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    margin-bottom: 24px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid var(--cat-color, var(--ink));
+  }
+  h2 {
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+  }
+  h2 .en {
+    font-family: var(--serif);
+    font-weight: 600;
+    font-size: 28px;
+    color: var(--ink);
+  }
+  h2 .zh {
+    font-family: var(--zh-serif);
+    font-size: 18px;
+    color: var(--ink-soft);
+  }
+  .count {
+    font-family: var(--sans);
+    font-size: 13px;
+    color: var(--ink-faint);
+    font-variant-numeric: tabular-nums;
+    margin-left: auto;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 16px;
+  }
+
+  .cat-operations { --cat-color: var(--op); }
+  .cat-general_things { --cat-color: var(--gt); }
+  .cat-picturable_things { --cat-color: var(--pt); }
+  .cat-qualities_general { --cat-color: var(--qg); }
+  .cat-qualities_opposites { --cat-color: var(--qo); }
+</style>

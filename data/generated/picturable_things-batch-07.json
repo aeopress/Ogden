@@ -1,0 +1,207 @@
+{
+  "category": "picturable_things",
+  "batch": 7,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "screw",
+      "definition_en": "A short pointed piece of metal with a turning end, used to hold things together.",
+      "gloss_zh_tw": "螺絲;尾端可旋的尖頭金屬物，用以固定。",
+      "example_en": "Tighten the screw with care.",
+      "example_zh_tw": "小心鎖緊那顆螺絲。",
+      "synonyms": ["bolt", "fastener"]
+    },
+    {
+      "id": "seed",
+      "definition_en": "The small part of a plant from which a new plant grows.",
+      "gloss_zh_tw": "種子;植物中可長出新苗的小部分。",
+      "example_en": "She put a seed in the wet earth.",
+      "example_zh_tw": "她把種子播進濕土裡。",
+      "synonyms": ["grain", "kernel"]
+    },
+    {
+      "id": "sheep",
+      "definition_en": "A farm animal kept for its wool and meat.",
+      "gloss_zh_tw": "綿羊;為毛與肉而養的農場動物。",
+      "example_en": "The sheep ate the grass.",
+      "example_zh_tw": "羊群吃了草。",
+      "synonyms": ["lamb", "ewe"]
+    },
+    {
+      "id": "shelf",
+      "definition_en": "A flat thin board put on a wall, for keeping things.",
+      "gloss_zh_tw": "架子、書架;釘於牆上的扁薄板，用以擺物。",
+      "example_en": "Put the books on the top shelf.",
+      "example_zh_tw": "把書放到最上層架子。",
+      "synonyms": ["ledge", "rack"]
+    },
+    {
+      "id": "ship",
+      "definition_en": "A large boat used to go across the sea.",
+      "gloss_zh_tw": "船舶、輪船;橫渡海洋的大型船隻。",
+      "example_en": "The ship sailed across the sea.",
+      "example_zh_tw": "那艘船橫渡大海。",
+      "synonyms": ["vessel", "boat"]
+    },
+    {
+      "id": "shirt",
+      "definition_en": "A piece of clothing for the top of the body, often with buttons.",
+      "gloss_zh_tw": "襯衫;穿於上身、多有鈕扣的衣物。",
+      "example_en": "He wears a white shirt to work.",
+      "example_zh_tw": "他穿白襯衫去上班。",
+      "synonyms": ["blouse", "top"]
+    },
+    {
+      "id": "shoe",
+      "definition_en": "A covering for the foot, made of leather or other strong stuff.",
+      "gloss_zh_tw": "鞋子;以皮革或其他堅韌材料製成、覆蓋足部之物。",
+      "example_en": "Put on your shoes before you go.",
+      "example_zh_tw": "出門前先穿鞋。",
+      "synonyms": ["footwear", "boot"]
+    },
+    {
+      "id": "skin",
+      "definition_en": "The thin covering of the body of a person or animal; or the outside of some fruit.",
+      "gloss_zh_tw": "皮膚、外皮;人或動物身體的薄層覆蓋，或某些果皮。",
+      "example_en": "Her skin is soft and clear.",
+      "example_zh_tw": "她的皮膚柔軟潔淨。",
+      "synonyms": ["hide"]
+    },
+    {
+      "id": "skirt",
+      "definition_en": "A piece of clothing for women that hangs down from the waist.",
+      "gloss_zh_tw": "裙子;女性穿著、自腰部往下垂之衣。",
+      "example_en": "She has a long blue skirt.",
+      "example_zh_tw": "她穿了條藍色長裙。",
+      "synonyms": ["dress", "kilt"]
+    },
+    {
+      "id": "snake",
+      "definition_en": "A long thin animal with no legs that moves on the ground.",
+      "gloss_zh_tw": "蛇;無腳、長條形、爬行於地的動物。",
+      "example_en": "A snake went past my foot.",
+      "example_zh_tw": "一條蛇從我腳邊滑過。",
+      "synonyms": ["serpent", "viper"]
+    },
+    {
+      "id": "sock",
+      "definition_en": "A piece of soft clothing for the foot, worn inside a shoe.",
+      "gloss_zh_tw": "襪子;穿於鞋內、覆腳的軟質衣物。",
+      "example_en": "Put on warm socks in the cold.",
+      "example_zh_tw": "天冷穿上暖襪。",
+      "synonyms": ["hosiery"]
+    },
+    {
+      "id": "spade",
+      "definition_en": "A flat tool with a long handle, used to dig the earth.",
+      "gloss_zh_tw": "鏟子;長柄扁平的挖土工具。",
+      "example_en": "Use a spade to dig the hole.",
+      "example_zh_tw": "用鏟子挖洞。",
+      "synonyms": ["shovel"]
+    },
+    {
+      "id": "sponge",
+      "definition_en": "A soft thing with many small holes that takes in water, used to clean.",
+      "gloss_zh_tw": "海綿;多孔吸水的柔軟物，用以清潔。",
+      "example_en": "Wipe the table with a wet sponge.",
+      "example_zh_tw": "用濕海綿擦桌子。",
+      "synonyms": ["sea sponge"]
+    },
+    {
+      "id": "spoon",
+      "definition_en": "A small tool with a round end and a handle, used for eating soup or other food.",
+      "gloss_zh_tw": "湯匙;圓頭帶柄的進食工具。",
+      "example_en": "Use a spoon to eat the soup.",
+      "example_zh_tw": "用湯匙喝湯。",
+      "synonyms": ["scoop"]
+    },
+    {
+      "id": "spring",
+      "definition_en": "A piece of curled metal that goes back to its old shape after being pulled; or the time of year between winter and summer.",
+      "gloss_zh_tw": "彈簧;或春季。",
+      "example_en": "Flowers come out in the spring.",
+      "example_zh_tw": "春天百花綻放。",
+      "synonyms": ["coil", "fountain"]
+    },
+    {
+      "id": "square",
+      "definition_en": "A shape with four equal sides and four right angles.",
+      "gloss_zh_tw": "正方形;四邊等長、四角皆直角的形狀。",
+      "example_en": "The window is in the shape of a square.",
+      "example_zh_tw": "窗戶是正方形的。",
+      "synonyms": ["rectangle", "quadrilateral"]
+    },
+    {
+      "id": "stamp",
+      "definition_en": "A small piece of paper put on a letter to show that money for sending has been paid.",
+      "gloss_zh_tw": "郵票;貼於信上以示郵資已付的紙片。",
+      "example_en": "Put a stamp on the letter.",
+      "example_zh_tw": "在信上貼張郵票。",
+      "synonyms": ["postage"]
+    },
+    {
+      "id": "star",
+      "definition_en": "One of the small bright lights in the sky at night.",
+      "gloss_zh_tw": "星星;夜空中閃亮的小光點。",
+      "example_en": "The stars are out tonight.",
+      "example_zh_tw": "今晚星星出來了。",
+      "synonyms": ["sun", "luminary"]
+    },
+    {
+      "id": "station",
+      "definition_en": "A building where trains or buses stop for people.",
+      "gloss_zh_tw": "車站;火車或公車載客停靠之處。",
+      "example_en": "The train comes into the station now.",
+      "example_zh_tw": "火車正進站。",
+      "synonyms": ["terminal", "stop"]
+    },
+    {
+      "id": "stem",
+      "definition_en": "The long thin part of a plant from which leaves and flowers grow.",
+      "gloss_zh_tw": "莖;植物上長出葉與花的長細部分。",
+      "example_en": "The stem of the flower is green.",
+      "example_zh_tw": "那朵花的莖是綠色的。",
+      "synonyms": ["stalk", "trunk"]
+    },
+    {
+      "id": "stick",
+      "definition_en": "A long thin piece of wood.",
+      "gloss_zh_tw": "棍子、樹枝;長條形木材。",
+      "example_en": "Pick up a stick from the ground.",
+      "example_zh_tw": "從地上撿根樹枝。",
+      "synonyms": ["branch", "rod"]
+    },
+    {
+      "id": "stocking",
+      "definition_en": "A long soft covering for the foot and leg, worn under clothes.",
+      "gloss_zh_tw": "長襪;穿於足與腿、藏於衣下的長型軟織物。",
+      "example_en": "She wears warm stockings in winter.",
+      "example_zh_tw": "她冬天穿暖長襪。",
+      "synonyms": ["hose", "tights"]
+    },
+    {
+      "id": "stomach",
+      "definition_en": "The part of the body where food goes after one eats it.",
+      "gloss_zh_tw": "胃、肚子;進食後食物所在的部位。",
+      "example_en": "I have a pain in my stomach.",
+      "example_zh_tw": "我肚子痛。",
+      "synonyms": ["belly", "abdomen"]
+    },
+    {
+      "id": "store",
+      "definition_en": "A place where things are kept or sold.",
+      "gloss_zh_tw": "商店、儲藏室;存放或販賣物品之處。",
+      "example_en": "Go to the store to buy bread.",
+      "example_zh_tw": "去店裡買麵包。",
+      "synonyms": ["shop", "market"]
+    },
+    {
+      "id": "street",
+      "definition_en": "A road in a town, with houses or shops on each side.",
+      "gloss_zh_tw": "街道;鎮中兩側有房屋或店面的道路。",
+      "example_en": "Cross the street with care.",
+      "example_zh_tw": "過馬路要小心。",
+      "synonyms": ["road", "avenue"]
+    }
+  ]
+}

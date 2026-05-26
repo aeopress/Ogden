@@ -1,0 +1,207 @@
+{
+  "category": "qualities_general",
+  "batch": 3,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "material",
+      "definition_en": "Made of stuff one can touch.",
+      "gloss_zh_tw": "物質的、有形的;由可觸物質構成的。",
+      "example_en": "She has many material things to keep.",
+      "example_zh_tw": "她有很多物品要收。",
+      "synonyms": ["physical", "tangible"]
+    },
+    {
+      "id": "medical",
+      "definition_en": "Having to do with the care of ill or hurt people.",
+      "gloss_zh_tw": "醫學的、醫療的;與病傷照護相關的。",
+      "example_en": "She got medical help at once.",
+      "example_zh_tw": "她立刻接受了醫療照護。",
+      "synonyms": ["clinical", "therapeutic"]
+    },
+    {
+      "id": "military",
+      "definition_en": "Having to do with soldiers or war.",
+      "gloss_zh_tw": "軍事的、軍方的;與士兵或戰爭相關的。",
+      "example_en": "He works at a military base.",
+      "example_zh_tw": "他在軍事基地工作。",
+      "synonyms": ["army", "war"]
+    },
+    {
+      "id": "natural",
+      "definition_en": "Made by nature, not by people.",
+      "gloss_zh_tw": "天然的、自然的;由自然形成、非人造。",
+      "example_en": "Honey is a natural sweet food.",
+      "example_zh_tw": "蜂蜜是天然的甜食。",
+      "synonyms": ["raw", "wild"]
+    },
+    {
+      "id": "necessary",
+      "definition_en": "Needed; that one must have.",
+      "gloss_zh_tw": "必要的、必須的;不可或缺的。",
+      "example_en": "Water is necessary for life.",
+      "example_zh_tw": "水是生命所必需。",
+      "synonyms": ["needed", "essential"]
+    },
+    {
+      "id": "new",
+      "definition_en": "Made or got just now; not old.",
+      "gloss_zh_tw": "新的;剛製成或剛取得、非舊的。",
+      "example_en": "She has a new dress for the party.",
+      "example_zh_tw": "她穿了件新洋裝去派對。",
+      "synonyms": ["recent", "fresh"]
+    },
+    {
+      "id": "normal",
+      "definition_en": "Like most others; not strange.",
+      "gloss_zh_tw": "正常的、一般的;與多數無異、不奇怪的。",
+      "example_en": "It is normal to feel tired after work.",
+      "example_zh_tw": "下班後感到疲累很正常。",
+      "synonyms": ["regular", "common"]
+    },
+    {
+      "id": "open",
+      "definition_en": "Not shut; with a way to go in or out.",
+      "gloss_zh_tw": "開的、開放的;未關閉、可進出的。",
+      "example_en": "The shop is open till nine.",
+      "example_zh_tw": "這家店開到九點。",
+      "synonyms": ["ajar", "available"]
+    },
+    {
+      "id": "parallel",
+      "definition_en": "Of two lines that go the same way and never meet.",
+      "gloss_zh_tw": "平行的;兩線同向延伸而不相交。",
+      "example_en": "The roads are parallel for a mile.",
+      "example_zh_tw": "這兩條路平行了一英里。",
+      "synonyms": ["aligned", "even"]
+    },
+    {
+      "id": "past",
+      "definition_en": "Gone by in time; not now.",
+      "gloss_zh_tw": "過去的;時間已逝、非當下。",
+      "example_en": "Look back on the past with no regret.",
+      "example_zh_tw": "回望過去不要遺憾。",
+      "synonyms": ["former", "previous"]
+    },
+    {
+      "id": "physical",
+      "definition_en": "Of the body; or of things one can touch.",
+      "gloss_zh_tw": "身體的、物質的;與身體或可觸之物相關。",
+      "example_en": "He does physical work every day.",
+      "example_zh_tw": "他每天從事勞動工作。",
+      "synonyms": ["bodily", "material"]
+    },
+    {
+      "id": "political",
+      "definition_en": "Having to do with the government and how it is run.",
+      "gloss_zh_tw": "政治的;與政府治理相關的。",
+      "example_en": "There is a political meeting tonight.",
+      "example_zh_tw": "今晚有一場政治集會。",
+      "synonyms": ["governmental", "civic"]
+    },
+    {
+      "id": "poor",
+      "definition_en": "Having little money or other things needed.",
+      "gloss_zh_tw": "貧困的、貧窮的;缺乏金錢或必需之物。",
+      "example_en": "The poor man has no home.",
+      "example_zh_tw": "那個窮人無家可歸。",
+      "synonyms": ["needy", "broke"]
+    },
+    {
+      "id": "possible",
+      "definition_en": "Able to happen or be done.",
+      "gloss_zh_tw": "可能的;能夠發生或被完成的。",
+      "example_en": "It is possible to learn a new language.",
+      "example_zh_tw": "學習新語言是有可能的。",
+      "synonyms": ["likely", "feasible"]
+    },
+    {
+      "id": "present",
+      "definition_en": "Being here now; or the time now.",
+      "gloss_zh_tw": "現在的、出席的;當下存在或在場的。",
+      "example_en": "All the students are present today.",
+      "example_zh_tw": "所有學生今天都出席了。",
+      "synonyms": ["current", "here"]
+    },
+    {
+      "id": "private",
+      "definition_en": "For only one person or a few, not for all.",
+      "gloss_zh_tw": "私人的、私密的;只屬於某人或少數人。",
+      "example_en": "Do not read my private letters.",
+      "example_zh_tw": "別看我的私人信件。",
+      "synonyms": ["personal", "secret"]
+    },
+    {
+      "id": "probable",
+      "definition_en": "Likely to happen or be true.",
+      "gloss_zh_tw": "可能的、有可能的;發生或成真機率高的。",
+      "example_en": "It is probable that she will come tonight.",
+      "example_zh_tw": "她今晚很可能會來。",
+      "synonyms": ["likely", "possible"]
+    },
+    {
+      "id": "quick",
+      "definition_en": "Done in a short time; not slow.",
+      "gloss_zh_tw": "快速的、迅速的;耗時短、不慢的。",
+      "example_en": "Give me a quick answer, please.",
+      "example_zh_tw": "請快點回答我。",
+      "synonyms": ["fast", "rapid"]
+    },
+    {
+      "id": "quiet",
+      "definition_en": "Making little or no sound.",
+      "gloss_zh_tw": "安靜的、寂靜的;發聲少或無聲的。",
+      "example_en": "Please be quiet, the baby is asleep.",
+      "example_zh_tw": "請安靜，寶寶在睡覺。",
+      "synonyms": ["silent", "calm"]
+    },
+    {
+      "id": "ready",
+      "definition_en": "Set to do a thing; with no need to wait.",
+      "gloss_zh_tw": "準備好的;已就緒、無須等待。",
+      "example_en": "I am ready to go.",
+      "example_zh_tw": "我準備好可以走了。",
+      "synonyms": ["prepared", "set"]
+    },
+    {
+      "id": "red",
+      "definition_en": "Of the colour of blood or fire.",
+      "gloss_zh_tw": "紅色的;如血液或火焰之色。",
+      "example_en": "The flowers in the garden are red.",
+      "example_zh_tw": "花園裡的花是紅色的。",
+      "synonyms": ["crimson", "scarlet"]
+    },
+    {
+      "id": "regular",
+      "definition_en": "Happening at the same time again and again; or made in the same way.",
+      "gloss_zh_tw": "規律的、定期的;反覆於同一時間或同方式。",
+      "example_en": "She has a regular walk every morning.",
+      "example_zh_tw": "她每天早上定時散步。",
+      "synonyms": ["steady", "consistent"]
+    },
+    {
+      "id": "responsible",
+      "definition_en": "Having a duty to do or look after a thing.",
+      "gloss_zh_tw": "負責的、有責任的;承擔義務或管理之責。",
+      "example_en": "She is responsible for the children.",
+      "example_zh_tw": "她負責照顧那些孩子。",
+      "synonyms": ["accountable", "in charge"]
+    },
+    {
+      "id": "right",
+      "definition_en": "True or correct; or on the side that is not the left.",
+      "gloss_zh_tw": "正確的、右邊的;真實無誤或位於非左之側。",
+      "example_en": "Your answer is right.",
+      "example_zh_tw": "你的答案是對的。",
+      "synonyms": ["correct", "proper"]
+    },
+    {
+      "id": "round",
+      "definition_en": "In the shape of a circle or a ball.",
+      "gloss_zh_tw": "圓的、環形的;形如圓圈或球體。",
+      "example_en": "The plate is round and white.",
+      "example_zh_tw": "盤子是白色圓形的。",
+      "synonyms": ["circular", "spherical"]
+    }
+  ]
+}

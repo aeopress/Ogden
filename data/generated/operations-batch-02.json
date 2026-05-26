@@ -1,0 +1,207 @@
+{
+  "category": "operations",
+  "batch": 2,
+  "generated_by": "claude-opus-4-7 (in-session, pre-API-key)",
+  "results": [
+    {
+      "id": "between",
+      "definition_en": "In the space that has one thing on one side and another thing on the other side.",
+      "gloss_zh_tw": "在兩物之間；在……當中。",
+      "example_en": "The cat is between the two chairs.",
+      "example_zh_tw": "貓在兩張椅子中間。",
+      "synonyms": ["among", "in"]
+    },
+    {
+      "id": "by",
+      "definition_en": "Near to a thing; or used to say who or what does an act.",
+      "gloss_zh_tw": "在……旁邊；由（某人事物）所為。",
+      "example_en": "The book is by the window.",
+      "example_zh_tw": "書放在窗邊。",
+      "synonyms": ["near", "at"]
+    },
+    {
+      "id": "down",
+      "definition_en": "From a higher place to a lower place.",
+      "gloss_zh_tw": "向下、往下；從高處到低處。",
+      "example_en": "Put the bag down on the floor.",
+      "example_zh_tw": "把袋子放到地上。",
+      "synonyms": ["under", "low"]
+    },
+    {
+      "id": "from",
+      "definition_en": "Word used to say where a thing or person has come.",
+      "gloss_zh_tw": "從、自；表示起點或來源。",
+      "example_en": "I come from a small town.",
+      "example_zh_tw": "我來自一個小鎮。",
+      "synonyms": ["of", "out"]
+    },
+    {
+      "id": "in",
+      "definition_en": "Inside a place or a thing.",
+      "gloss_zh_tw": "在……裡面、在……內。",
+      "example_en": "The keys are in my pocket.",
+      "example_zh_tw": "鑰匙在我口袋裡。",
+      "synonyms": ["at", "among"]
+    },
+    {
+      "id": "off",
+      "definition_en": "Away from, or not on a thing.",
+      "gloss_zh_tw": "離開、脫離；不在……上面。",
+      "example_en": "Take your shoes off before you come in.",
+      "example_zh_tw": "進來前先把鞋子脫掉。",
+      "synonyms": ["away", "out"]
+    },
+    {
+      "id": "on",
+      "definition_en": "Touching the top side of a thing; or going on.",
+      "gloss_zh_tw": "在……上面（接觸）；持續進行中。",
+      "example_en": "The book is on the table.",
+      "example_zh_tw": "書在桌上。",
+      "synonyms": ["at", "over"]
+    },
+    {
+      "id": "over",
+      "definition_en": "Higher than a thing, or from one side to the other side.",
+      "gloss_zh_tw": "在……上方；越過、結束。",
+      "example_en": "A bird is flying over the house.",
+      "example_zh_tw": "一隻鳥飛過屋頂。",
+      "synonyms": ["across", "above"]
+    },
+    {
+      "id": "through",
+      "definition_en": "From one side of a thing to the other side, going inside it.",
+      "gloss_zh_tw": "穿過、通過；從一端到另一端。",
+      "example_en": "We walked through the park.",
+      "example_zh_tw": "我們穿過了公園。",
+      "synonyms": ["across", "by"]
+    },
+    {
+      "id": "to",
+      "definition_en": "Word used to say where a thing or person is going.",
+      "gloss_zh_tw": "到、向；表示方向或對象。",
+      "example_en": "She went to the shop yesterday.",
+      "example_zh_tw": "她昨天去了商店。",
+      "synonyms": ["at", "into"]
+    },
+    {
+      "id": "under",
+      "definition_en": "In a lower place than a thing.",
+      "gloss_zh_tw": "在……下方、低於……。",
+      "example_en": "The cat is sleeping under the bed.",
+      "example_zh_tw": "貓睡在床底下。",
+      "synonyms": ["down", "below"]
+    },
+    {
+      "id": "up",
+      "definition_en": "From a lower place to a higher place.",
+      "gloss_zh_tw": "向上、往上；從低處到高處。",
+      "example_en": "She put her hand up to answer.",
+      "example_zh_tw": "她舉手要回答。",
+      "synonyms": ["over", "high"]
+    },
+    {
+      "id": "with",
+      "definition_en": "Together with a thing or a person.",
+      "gloss_zh_tw": "和……一起；帶著、藉由。",
+      "example_en": "I will come with my friend.",
+      "example_zh_tw": "我會和我朋友一起來。",
+      "synonyms": ["by", "together"]
+    },
+    {
+      "id": "as",
+      "definition_en": "In the same way that; or while.",
+      "gloss_zh_tw": "像……一樣；當……時。",
+      "example_en": "Do as I say, not as I do.",
+      "example_zh_tw": "照我說的做，不是照我做的做。",
+      "synonyms": ["like", "while"]
+    },
+    {
+      "id": "for",
+      "definition_en": "Word used to say who or what gets a thing, or what an act is done.",
+      "gloss_zh_tw": "為了、給；表示對象或目的。",
+      "example_en": "This gift is for you.",
+      "example_zh_tw": "這份禮物是要給你的。",
+      "synonyms": ["to", "of"]
+    },
+    {
+      "id": "of",
+      "definition_en": "Word used to say what a thing comes from or is part of.",
+      "gloss_zh_tw": "……的；表示所屬或來源。",
+      "example_en": "A cup of tea, please.",
+      "example_zh_tw": "請給我一杯茶。",
+      "synonyms": ["from", "about"]
+    },
+    {
+      "id": "till",
+      "definition_en": "Up to the time when a thing comes.",
+      "gloss_zh_tw": "直到……（某個時間）。",
+      "example_en": "We will wait till you come back.",
+      "example_zh_tw": "我們會等到你回來。",
+      "synonyms": ["until", "before"]
+    },
+    {
+      "id": "than",
+      "definition_en": "Word used after a comparison, to say what the other thing is.",
+      "gloss_zh_tw": "比、較（用於比較）。",
+      "example_en": "She is taller than her brother.",
+      "example_zh_tw": "她比她弟弟高。",
+      "synonyms": ["as"]
+    },
+    {
+      "id": "a",
+      "definition_en": "Word used before a thing when it is only one and not a special one.",
+      "gloss_zh_tw": "一（個）；不定冠詞。",
+      "example_en": "I saw a dog on the road.",
+      "example_zh_tw": "我在路上看到一隻狗。",
+      "synonyms": ["one", "some"]
+    },
+    {
+      "id": "the",
+      "definition_en": "Word used before a thing when it is the special one talked about.",
+      "gloss_zh_tw": "這、那（特指）；定冠詞。",
+      "example_en": "The dog on the road is mine.",
+      "example_zh_tw": "路上那隻狗是我的。",
+      "synonyms": ["this", "that"]
+    },
+    {
+      "id": "all",
+      "definition_en": "Every part of a thing, or every one of a group.",
+      "gloss_zh_tw": "全部、所有；每一個。",
+      "example_en": "All the children went home.",
+      "example_zh_tw": "所有小孩都回家了。",
+      "synonyms": ["every", "complete"]
+    },
+    {
+      "id": "any",
+      "definition_en": "One or some, no matter which one.",
+      "gloss_zh_tw": "任何（一個）；任一。",
+      "example_en": "Take any book you like.",
+      "example_zh_tw": "你想拿哪一本書都可以。",
+      "synonyms": ["some", "every"]
+    },
+    {
+      "id": "every",
+      "definition_en": "Each one of a group, with no one left out.",
+      "gloss_zh_tw": "每一個；全部各個。",
+      "example_en": "Every child has a book.",
+      "example_zh_tw": "每個小孩都有一本書。",
+      "synonyms": ["all", "each"]
+    },
+    {
+      "id": "no",
+      "definition_en": "Not one; not any.",
+      "gloss_zh_tw": "沒有、不（強烈否定）。",
+      "example_en": "There is no milk in the bottle.",
+      "example_zh_tw": "瓶子裡沒有牛奶。",
+      "synonyms": ["not", "none"]
+    },
+    {
+      "id": "other",
+      "definition_en": "Not this one, but another one.",
+      "gloss_zh_tw": "另一個、其他的。",
+      "example_en": "Give me the other book, please.",
+      "example_zh_tw": "請把另一本書給我。",
+      "synonyms": ["another", "different"]
+    }
+  ]
+}

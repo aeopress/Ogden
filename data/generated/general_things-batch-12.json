@@ -1,0 +1,207 @@
+{
+  "category": "general_things",
+  "batch": 12,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "relation",
+      "definition_en": "The way two things or people are joined or connected.",
+      "gloss_zh_tw": "關係、關聯；兩者連結的方式。",
+      "example_en": "The relation between father and son is close.",
+      "example_zh_tw": "父子之間關係很親近。",
+      "synonyms": ["connection", "link"]
+    },
+    {
+      "id": "religion",
+      "definition_en": "A system of belief in a god or gods, with its own ways and rules.",
+      "gloss_zh_tw": "宗教；對神祇的信仰體系及其規範。",
+      "example_en": "She studies the religion of the East.",
+      "example_zh_tw": "她研究東方的宗教。",
+      "synonyms": ["faith", "belief"]
+    },
+    {
+      "id": "representative",
+      "definition_en": "A person who speaks or acts for others.",
+      "gloss_zh_tw": "代表；代他人發言或行動者。",
+      "example_en": "Each class has one representative.",
+      "example_zh_tw": "每個班級都有一名代表。",
+      "synonyms": ["delegate", "agent"]
+    },
+    {
+      "id": "request",
+      "definition_en": "An act of asking for a thing.",
+      "gloss_zh_tw": "請求、要求；提出獲取某物之請。",
+      "example_en": "She made a request for help.",
+      "example_zh_tw": "她請求協助。",
+      "synonyms": ["appeal", "ask"]
+    },
+    {
+      "id": "respect",
+      "definition_en": "A good feeling about a person for their qualities.",
+      "gloss_zh_tw": "尊敬、尊重；對某人特質的肯定感受。",
+      "example_en": "I have great respect for my teacher.",
+      "example_zh_tw": "我非常尊敬我的老師。",
+      "synonyms": ["honour", "regard"]
+    },
+    {
+      "id": "rest",
+      "definition_en": "A time when one does not work or move.",
+      "gloss_zh_tw": "休息、安歇；不勞動或不移動的時段。",
+      "example_en": "Take a long rest after your work.",
+      "example_zh_tw": "工作之後好好休息。",
+      "synonyms": ["break", "pause"]
+    },
+    {
+      "id": "reward",
+      "definition_en": "A thing given to a person for good work or help.",
+      "gloss_zh_tw": "獎賞、回報；因善行所獲之物。",
+      "example_en": "She gave him a reward for finding her dog.",
+      "example_zh_tw": "她給找回她狗的他一份獎賞。",
+      "synonyms": ["prize", "gift"]
+    },
+    {
+      "id": "rhythm",
+      "definition_en": "A regular beat in music or speech.",
+      "gloss_zh_tw": "節奏、韻律；音樂或語言中的規律拍子。",
+      "example_en": "The rhythm of the song made us move.",
+      "example_zh_tw": "歌曲的節奏讓我們跟著動。",
+      "synonyms": ["beat", "tempo"]
+    },
+    {
+      "id": "rice",
+      "definition_en": "A small white grain used as food, much eaten in the East.",
+      "gloss_zh_tw": "稻米、白飯；常見於東方飲食的白色小穀粒。",
+      "example_en": "We have rice for dinner.",
+      "example_zh_tw": "我們晚餐吃飯。",
+      "synonyms": ["grain"]
+    },
+    {
+      "id": "river",
+      "definition_en": "A big flow of water that goes from high land to the sea or a lake.",
+      "gloss_zh_tw": "河、河川；自高地流向海或湖的大量水流。",
+      "example_en": "The river runs through the town.",
+      "example_zh_tw": "那條河流經這個鎮。",
+      "synonyms": ["stream", "brook"]
+    },
+    {
+      "id": "road",
+      "definition_en": "A way made for cars and people to go from place to place.",
+      "gloss_zh_tw": "道路、馬路；供車輛與行人通行的路線。",
+      "example_en": "The road to the city is long.",
+      "example_zh_tw": "通往城市的路很長。",
+      "synonyms": ["way", "street"]
+    },
+    {
+      "id": "roll",
+      "definition_en": "An act of turning over and over; or a small loaf of bread.",
+      "gloss_zh_tw": "滾動；或小麵包卷。",
+      "example_en": "The ball took a slow roll down the hill.",
+      "example_zh_tw": "球緩緩滾下山坡。",
+      "synonyms": ["turn", "tumble"]
+    },
+    {
+      "id": "room",
+      "definition_en": "A part of a building closed in by walls.",
+      "gloss_zh_tw": "房間；建築物中以牆隔出的空間。",
+      "example_en": "My room has two windows.",
+      "example_zh_tw": "我房間有兩扇窗。",
+      "synonyms": ["chamber", "space"]
+    },
+    {
+      "id": "rub",
+      "definition_en": "A back-and-forth motion of one thing on another.",
+      "gloss_zh_tw": "摩擦、揉搓；兩物來回相觸的動作。",
+      "example_en": "Give the wood a good rub with the cloth.",
+      "example_zh_tw": "用布把木頭好好擦一擦。",
+      "synonyms": ["scrub", "wipe"]
+    },
+    {
+      "id": "rule",
+      "definition_en": "A word that says how one should act.",
+      "gloss_zh_tw": "規則、規範；指導行為的準則。",
+      "example_en": "It is a rule of the school to be quiet.",
+      "example_zh_tw": "學校規定要保持安靜。",
+      "synonyms": ["law", "regulation"]
+    },
+    {
+      "id": "run",
+      "definition_en": "An act of going fast on the feet.",
+      "gloss_zh_tw": "跑、奔跑；用雙腳快速移動。",
+      "example_en": "Take a long run in the park.",
+      "example_zh_tw": "在公園跑一場長跑。",
+      "synonyms": ["dash", "jog"]
+    },
+    {
+      "id": "salt",
+      "definition_en": "A white stuff in small bits, put on food to make it taste better.",
+      "gloss_zh_tw": "鹽；用於調味的白色細顆粒。",
+      "example_en": "Add some salt to the soup.",
+      "example_zh_tw": "湯裡加點鹽。",
+      "synonyms": ["seasoning"]
+    },
+    {
+      "id": "sand",
+      "definition_en": "Very small bits of broken stone, found on beaches.",
+      "gloss_zh_tw": "沙、沙子；海灘上常見的細碎石粒。",
+      "example_en": "The children played in the sand.",
+      "example_zh_tw": "孩子們在沙裡玩。",
+      "synonyms": ["dust", "grit"]
+    },
+    {
+      "id": "scale",
+      "definition_en": "A tool used to find the weight of a thing; or a row of numbers in order.",
+      "gloss_zh_tw": "秤；或量度等級的序列。",
+      "example_en": "Put the cheese on the scale.",
+      "example_zh_tw": "把起司放到秤上。",
+      "synonyms": ["balance", "gauge"]
+    },
+    {
+      "id": "science",
+      "definition_en": "The study of how things in the world work.",
+      "gloss_zh_tw": "科學；研究世界運作方式的學問。",
+      "example_en": "She loves science at school.",
+      "example_zh_tw": "她在學校最喜歡自然科學。",
+      "synonyms": ["study", "knowledge"]
+    },
+    {
+      "id": "sea",
+      "definition_en": "The great body of salt water that covers much of the earth.",
+      "gloss_zh_tw": "海、海洋；覆蓋地球大部分的鹹水域。",
+      "example_en": "We swam in the sea last week.",
+      "example_zh_tw": "我們上週在海裡游泳。",
+      "synonyms": ["ocean", "water"]
+    },
+    {
+      "id": "seat",
+      "definition_en": "A thing made for one to sit on.",
+      "gloss_zh_tw": "座位；供人坐的物件。",
+      "example_en": "Take a seat by the window, please.",
+      "example_zh_tw": "請坐到窗邊的位置。",
+      "synonyms": ["chair", "bench"]
+    },
+    {
+      "id": "secretary",
+      "definition_en": "A person whose work is to keep notes and answer letters for another.",
+      "gloss_zh_tw": "祕書；負責記事與處理信件的職員。",
+      "example_en": "His secretary will book the room.",
+      "example_zh_tw": "他的祕書會訂房間。",
+      "synonyms": ["assistant", "clerk"]
+    },
+    {
+      "id": "selection",
+      "definition_en": "The act of picking one or more from a group.",
+      "gloss_zh_tw": "選擇、挑選；自眾多事物中擇取。",
+      "example_en": "Her selection of books is wide.",
+      "example_zh_tw": "她的藏書選材很廣。",
+      "synonyms": ["choice", "pick"]
+    },
+    {
+      "id": "self",
+      "definition_en": "The person one is.",
+      "gloss_zh_tw": "自己、自身；個體本身。",
+      "example_en": "Take good care of your self.",
+      "example_zh_tw": "好好照顧自己。",
+      "synonyms": ["being", "identity"]
+    }
+  ]
+}

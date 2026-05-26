@@ -1,0 +1,10 @@
+name = "ogden-tw"
+compatibility_date = "2026-05-26"
+pages_build_output_dir = "dist"
+
+# Cloudflare Pages will run `bun run build` automatically when connected to git.
+# After first deploy:
+# 1. Cloudflare Dashboard → Pages → ogden-tw → Settings → Custom domains
+#    Add: ogden.orz99.com  (DNS CNAME → ogden-tw.pages.dev)
+# 2. Cloudflare Dashboard → Web Analytics → Add a site → ogden.orz99.com
+#    Copy the token, set in Pages env: PUBLIC_CF_ANALYTICS_TOKEN

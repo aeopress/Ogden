@@ -1,0 +1,207 @@
+{
+  "category": "picturable_things",
+  "batch": 5,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "knee",
+      "definition_en": "The joint in the middle of the leg, where it bends.",
+      "gloss_zh_tw": "膝蓋;腿部中段可彎曲的關節。",
+      "example_en": "She had a small cut on her knee.",
+      "example_zh_tw": "她膝蓋有個小傷口。",
+      "synonyms": ["joint"]
+    },
+    {
+      "id": "knife",
+      "definition_en": "A tool with a blade, used to cut things.",
+      "gloss_zh_tw": "刀;附刀刃、用以切割之工具。",
+      "example_en": "Use a sharp knife to cut the bread.",
+      "example_zh_tw": "用利刀切麵包。",
+      "synonyms": ["blade", "cutter"]
+    },
+    {
+      "id": "knot",
+      "definition_en": "A round tight place made by tying threads or rope.",
+      "gloss_zh_tw": "結;以線或繩綁成的緊結。",
+      "example_en": "Make a knot in the rope.",
+      "example_zh_tw": "在繩上打個結。",
+      "synonyms": ["tie", "loop"]
+    },
+    {
+      "id": "leaf",
+      "definition_en": "A flat green part that grows on a plant or tree.",
+      "gloss_zh_tw": "葉子、樹葉;植物或樹上生長的扁平綠色部分。",
+      "example_en": "A red leaf fell from the tree.",
+      "example_zh_tw": "一片紅葉自樹上落下。",
+      "synonyms": ["frond", "blade"]
+    },
+    {
+      "id": "leg",
+      "definition_en": "One of the parts of the body used for standing and walking.",
+      "gloss_zh_tw": "腿;用以站立與行走的身體部位。",
+      "example_en": "He hurt his leg in the fall.",
+      "example_zh_tw": "他跌倒傷了腿。",
+      "synonyms": ["limb"]
+    },
+    {
+      "id": "library",
+      "definition_en": "A building or room with many books that people may take to read.",
+      "gloss_zh_tw": "圖書館;藏有眾多書籍、可借閱之處。",
+      "example_en": "I go to the library every week.",
+      "example_zh_tw": "我每週都去圖書館。",
+      "synonyms": ["reading room", "archive"]
+    },
+    {
+      "id": "line",
+      "definition_en": "A long thin mark on a surface; or a row of things.",
+      "gloss_zh_tw": "線;表面上的長細痕，或物之排列。",
+      "example_en": "Draw a straight line on the paper.",
+      "example_zh_tw": "在紙上畫一條直線。",
+      "synonyms": ["stripe", "row"]
+    },
+    {
+      "id": "lip",
+      "definition_en": "One of the two soft red parts of the mouth.",
+      "gloss_zh_tw": "嘴唇;嘴部柔軟的兩片紅色部分。",
+      "example_en": "She bit her lip in fear.",
+      "example_zh_tw": "她害怕地咬住嘴唇。",
+      "synonyms": ["mouth edge"]
+    },
+    {
+      "id": "lock",
+      "definition_en": "A thing put on a door or box to keep it shut.",
+      "gloss_zh_tw": "鎖;安於門或箱上、使其閉合之物。",
+      "example_en": "Put a strong lock on the door.",
+      "example_zh_tw": "在門上裝一把堅固的鎖。",
+      "synonyms": ["latch", "bolt"]
+    },
+    {
+      "id": "map",
+      "definition_en": "A flat picture of a place that shows where things are.",
+      "gloss_zh_tw": "地圖;某地的扁平圖示，表明事物所在。",
+      "example_en": "Look at the map to find the city.",
+      "example_zh_tw": "看地圖找那座城市。",
+      "synonyms": ["chart", "plan"]
+    },
+    {
+      "id": "match",
+      "definition_en": "A small thin stick that gives a small flame when rubbed.",
+      "gloss_zh_tw": "火柴;摩擦即燃的細小木棒。",
+      "example_en": "Strike a match to light the candle.",
+      "example_zh_tw": "劃一根火柴點蠟燭。",
+      "synonyms": ["light", "fire"]
+    },
+    {
+      "id": "monkey",
+      "definition_en": "A long-tailed animal with hands, that lives in trees.",
+      "gloss_zh_tw": "猴子;長尾、有手、生活於樹上的動物。",
+      "example_en": "A monkey ate the banana.",
+      "example_zh_tw": "一隻猴子吃了那根香蕉。",
+      "synonyms": ["ape", "primate"]
+    },
+    {
+      "id": "moon",
+      "definition_en": "The big round thing in the sky at night that gives soft light.",
+      "gloss_zh_tw": "月亮;夜空中發出柔光的圓形天體。",
+      "example_en": "The moon is bright tonight.",
+      "example_zh_tw": "今晚月色很明亮。",
+      "synonyms": ["satellite", "luna"]
+    },
+    {
+      "id": "mouth",
+      "definition_en": "The opening in the face used for eating and talking.",
+      "gloss_zh_tw": "嘴、口;用以進食與說話的臉部開口。",
+      "example_en": "Open your mouth wide for me.",
+      "example_zh_tw": "請張大嘴給我看。",
+      "synonyms": ["lips"]
+    },
+    {
+      "id": "muscle",
+      "definition_en": "The part of the body that pulls to make bones move.",
+      "gloss_zh_tw": "肌肉;牽動骨骼運動的身體組織。",
+      "example_en": "He has strong muscles in his arms.",
+      "example_zh_tw": "他的手臂肌肉很結實。",
+      "synonyms": ["sinew", "tissue"]
+    },
+    {
+      "id": "nail",
+      "definition_en": "A thin sharp piece of metal, hit into wood to keep two things together; or the hard part at the end of a finger.",
+      "gloss_zh_tw": "釘子;或指甲。",
+      "example_en": "Hit the nail into the board.",
+      "example_zh_tw": "把釘子敲進板子裡。",
+      "synonyms": ["spike", "tack"]
+    },
+    {
+      "id": "neck",
+      "definition_en": "The part of the body between the head and the shoulders.",
+      "gloss_zh_tw": "脖子、頸部;介於頭與肩之間的身體部位。",
+      "example_en": "She has a long, soft scarf round her neck.",
+      "example_zh_tw": "她脖子上圍著一條長軟圍巾。",
+      "synonyms": ["throat"]
+    },
+    {
+      "id": "needle",
+      "definition_en": "A thin sharp piece of metal with a hole at one end, used for sewing.",
+      "gloss_zh_tw": "針;細而尖、末端有孔、用於縫紉的金屬物。",
+      "example_en": "Put the thread through the needle.",
+      "example_zh_tw": "把線穿過針眼。",
+      "synonyms": ["pin", "spike"]
+    },
+    {
+      "id": "nerve",
+      "definition_en": "One of the thin lines in the body that send feeling to the brain.",
+      "gloss_zh_tw": "神經;體內向大腦傳送感覺的細索。",
+      "example_en": "The nerve in her arm was hurt.",
+      "example_zh_tw": "她手臂的神經受了傷。",
+      "synonyms": ["fibre", "tendon"]
+    },
+    {
+      "id": "net",
+      "definition_en": "A material made of cord or thread, with open spaces, used to catch fish or other things.",
+      "gloss_zh_tw": "網;以繩或線製、有空隙的網狀物，用以捕物。",
+      "example_en": "The fish was caught in the net.",
+      "example_zh_tw": "魚被困在網裡。",
+      "synonyms": ["mesh", "web"]
+    },
+    {
+      "id": "nose",
+      "definition_en": "The part of the face used for breathing and smelling.",
+      "gloss_zh_tw": "鼻子;用以呼吸與嗅聞的臉部器官。",
+      "example_en": "He has a long, thin nose.",
+      "example_zh_tw": "他有一個又長又挺的鼻子。",
+      "synonyms": ["snout", "beak"]
+    },
+    {
+      "id": "nut",
+      "definition_en": "A hard fruit, with a soft food inside that one can eat.",
+      "gloss_zh_tw": "堅果;外殼堅硬、內有可食物之果實。",
+      "example_en": "Crack the nut and eat the inside.",
+      "example_zh_tw": "把堅果打開吃裡面。",
+      "synonyms": ["kernel", "seed"]
+    },
+    {
+      "id": "office",
+      "definition_en": "A room or building where people do work, like a business.",
+      "gloss_zh_tw": "辦公室;商務工作所進行的房間或大樓。",
+      "example_en": "I work in a small office in town.",
+      "example_zh_tw": "我在鎮上一間小辦公室上班。",
+      "synonyms": ["workplace", "bureau"]
+    },
+    {
+      "id": "orange",
+      "definition_en": "A round, sweet fruit with a thick skin, often eaten.",
+      "gloss_zh_tw": "柳橙;圓形味甜、果皮厚的常見水果。",
+      "example_en": "I have an orange for breakfast.",
+      "example_zh_tw": "我早餐吃了顆柳橙。",
+      "synonyms": ["citrus", "fruit"]
+    },
+    {
+      "id": "oven",
+      "definition_en": "A closed box used to cook food with heat inside.",
+      "gloss_zh_tw": "烤箱;以內熱烹煮食物的密閉箱體。",
+      "example_en": "Put the cake in the hot oven.",
+      "example_zh_tw": "把蛋糕放進熱烤箱裡。",
+      "synonyms": ["stove", "furnace"]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "qualities_general",
+  "batch": 1,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "able",
+      "definition_en": "Having the power or skill to do a thing.",
+      "gloss_zh_tw": "能夠的、有能力的;具備所需能力。",
+      "example_en": "She is able to run very fast.",
+      "example_zh_tw": "她跑得很快。",
+      "synonyms": ["capable", "skilled"]
+    },
+    {
+      "id": "acid",
+      "definition_en": "Having a sour taste, like lemon.",
+      "gloss_zh_tw": "酸的;具有檸檬般之酸味。",
+      "example_en": "This fruit has a sharp, acid taste.",
+      "example_zh_tw": "這水果味道酸澀。",
+      "synonyms": ["sour", "tart"]
+    },
+    {
+      "id": "angry",
+      "definition_en": "Having a bad feeling that one wishes to fight or say loud words.",
+      "gloss_zh_tw": "生氣的、憤怒的;情緒激動而欲爭吵。",
+      "example_en": "She was angry about the broken cup.",
+      "example_zh_tw": "她為打破的杯子生氣。",
+      "synonyms": ["mad", "cross"]
+    },
+    {
+      "id": "automatic",
+      "definition_en": "Working by itself, with no person needed.",
+      "gloss_zh_tw": "自動的;無需人為操作即可運作。",
+      "example_en": "The door is automatic and opens by itself.",
+      "example_zh_tw": "這扇門是自動的，會自己打開。",
+      "synonyms": ["self-acting", "mechanical"]
+    },
+    {
+      "id": "beautiful",
+      "definition_en": "Very good to see; pleasing to the eyes.",
+      "gloss_zh_tw": "美麗的、漂亮的;悅目可觀的。",
+      "example_en": "The garden is beautiful in spring.",
+      "example_zh_tw": "春天時花園很美。",
+      "synonyms": ["lovely", "pretty"]
+    },
+    {
+      "id": "black",
+      "definition_en": "Of the colour of the night sky with no light.",
+      "gloss_zh_tw": "黑色的;如無光夜空之色。",
+      "example_en": "She wears a black dress to the meeting.",
+      "example_zh_tw": "她穿黑色洋裝去開會。",
+      "synonyms": ["dark", "ebony"]
+    },
+    {
+      "id": "boiling",
+      "definition_en": "So hot that liquid is bubbling and turning into steam.",
+      "gloss_zh_tw": "沸騰的、滾燙的;液體冒泡並化為蒸氣。",
+      "example_en": "Pour the boiling water into the cup.",
+      "example_zh_tw": "把沸水倒進杯子裡。",
+      "synonyms": ["bubbling", "scalding"]
+    },
+    {
+      "id": "bright",
+      "definition_en": "Giving out much light; or clever.",
+      "gloss_zh_tw": "明亮的、聰明的;發出強光或頭腦靈敏。",
+      "example_en": "The sun is very bright today.",
+      "example_zh_tw": "今天陽光很強。",
+      "synonyms": ["shining", "clever"]
+    },
+    {
+      "id": "broken",
+      "definition_en": "In pieces; no longer in one whole.",
+      "gloss_zh_tw": "破的、碎的;不再完整。",
+      "example_en": "The cup is broken on the floor.",
+      "example_zh_tw": "杯子掉在地上碎了。",
+      "synonyms": ["shattered", "cracked"]
+    },
+    {
+      "id": "brown",
+      "definition_en": "Of the colour of earth or coffee.",
+      "gloss_zh_tw": "棕色的、咖啡色的;如泥土或咖啡之色。",
+      "example_en": "She has brown eyes and dark hair.",
+      "example_zh_tw": "她有棕色眼睛和深色頭髮。",
+      "synonyms": ["tan", "chestnut"]
+    },
+    {
+      "id": "cheap",
+      "definition_en": "Not costing much money.",
+      "gloss_zh_tw": "便宜的;價格不高的。",
+      "example_en": "This shop has cheap fruit today.",
+      "example_zh_tw": "這家店今天水果很便宜。",
+      "synonyms": ["low-priced", "inexpensive"]
+    },
+    {
+      "id": "chemical",
+      "definition_en": "Having to do with the parts that things are made of, or with the science of these.",
+      "gloss_zh_tw": "化學的;與物質組成或化學相關的。",
+      "example_en": "There is a chemical smell from the bottle.",
+      "example_zh_tw": "瓶子裡有化學味。",
+      "synonyms": ["scientific"]
+    },
+    {
+      "id": "chief",
+      "definition_en": "The most important; first in place.",
+      "gloss_zh_tw": "主要的、首要的;最重要的。",
+      "example_en": "The chief reason for her trip was work.",
+      "example_zh_tw": "她出差的主要原因是工作。",
+      "synonyms": ["main", "primary"]
+    },
+    {
+      "id": "clean",
+      "definition_en": "Free from dirt or marks.",
+      "gloss_zh_tw": "乾淨的;沒有髒污或痕跡。",
+      "example_en": "Put on a clean shirt for the meeting.",
+      "example_zh_tw": "穿件乾淨襯衫去開會。",
+      "synonyms": ["spotless", "pure"]
+    },
+    {
+      "id": "clear",
+      "definition_en": "Easy to see through or understand.",
+      "gloss_zh_tw": "清澈的、清楚的;易於看穿或理解。",
+      "example_en": "The water in the lake is very clear.",
+      "example_zh_tw": "湖水非常清澈。",
+      "synonyms": ["plain", "transparent"]
+    },
+    {
+      "id": "common",
+      "definition_en": "Seen often; or shared by many.",
+      "gloss_zh_tw": "常見的、共通的;頻繁出現或多人共享。",
+      "example_en": "Cats are a common pet in our town.",
+      "example_zh_tw": "貓是我們鎮上常見的寵物。",
+      "synonyms": ["usual", "shared"]
+    },
+    {
+      "id": "complex",
+      "definition_en": "Made of many parts; not simple.",
+      "gloss_zh_tw": "複雜的;由多部分構成、不單純。",
+      "example_en": "The machine has a complex inside.",
+      "example_zh_tw": "這台機器內部很複雜。",
+      "synonyms": ["complicated", "intricate"]
+    },
+    {
+      "id": "conscious",
+      "definition_en": "Awake and taking note of what is going on.",
+      "gloss_zh_tw": "有意識的、清醒的;警覺周遭的狀態。",
+      "example_en": "She was still conscious after the fall.",
+      "example_zh_tw": "她跌倒後仍有意識。",
+      "synonyms": ["aware", "alert"]
+    },
+    {
+      "id": "cut",
+      "definition_en": "Having had a sharp blade go through it.",
+      "gloss_zh_tw": "被切的、切開的;經利刃劃過的。",
+      "example_en": "Put the cut bread on the plate.",
+      "example_zh_tw": "把切好的麵包放到盤子上。",
+      "synonyms": ["sliced", "chopped"]
+    },
+    {
+      "id": "deep",
+      "definition_en": "Going far down; not near the top.",
+      "gloss_zh_tw": "深的;遠離表面、向下延伸的。",
+      "example_en": "The hole is very deep.",
+      "example_zh_tw": "那個洞很深。",
+      "synonyms": ["profound", "low"]
+    },
+    {
+      "id": "dependent",
+      "definition_en": "Needing someone or something else for help.",
+      "gloss_zh_tw": "依賴的、依靠的;需依靠他人或他物。",
+      "example_en": "The baby is dependent on her mother.",
+      "example_zh_tw": "嬰兒依賴媽媽。",
+      "synonyms": ["reliant", "subject"]
+    },
+    {
+      "id": "early",
+      "definition_en": "At the start of a time, before others.",
+      "gloss_zh_tw": "早的;在他人之前、時間開頭的。",
+      "example_en": "She is always early to work.",
+      "example_zh_tw": "她上班總是早到。",
+      "synonyms": ["prompt", "soon"]
+    },
+    {
+      "id": "elastic",
+      "definition_en": "Able to be stretched and to go back to its old shape.",
+      "gloss_zh_tw": "彈性的、可拉伸的;能被拉長後回復原狀。",
+      "example_en": "The band is elastic and goes back to shape.",
+      "example_zh_tw": "這條繩有彈性，會恢復原狀。",
+      "synonyms": ["stretchy", "flexible"]
+    },
+    {
+      "id": "electric",
+      "definition_en": "Working by the power that comes through wires.",
+      "gloss_zh_tw": "電動的、電力的;以電力運作的。",
+      "example_en": "We have an electric stove at home.",
+      "example_zh_tw": "我們家有一個電爐。",
+      "synonyms": ["electrical", "powered"]
+    },
+    {
+      "id": "equal",
+      "definition_en": "The same in number, size, or worth.",
+      "gloss_zh_tw": "相等的、平等的;在數量、大小或價值上相同。",
+      "example_en": "Give equal parts to both children.",
+      "example_zh_tw": "兩個小孩分得一樣多。",
+      "synonyms": ["same", "even"]
+    }
+  ]
+}

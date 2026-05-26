@@ -1,0 +1,207 @@
+{
+  "category": "general_things",
+  "batch": 11,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "powder",
+      "definition_en": "Very small dry bits of a thing, like dust.",
+      "gloss_zh_tw": "粉、粉末；極小乾燥的細粒。",
+      "example_en": "Put a little powder on the cake.",
+      "example_zh_tw": "在蛋糕上撒一點粉。",
+      "synonyms": ["dust", "fine"]
+    },
+    {
+      "id": "power",
+      "definition_en": "The strength to do a thing; or the right to rule.",
+      "gloss_zh_tw": "力量、權力；做事的能力或統治的權利。",
+      "example_en": "The lion has great power in its legs.",
+      "example_zh_tw": "獅子腿部力量很強。",
+      "synonyms": ["force", "strength"]
+    },
+    {
+      "id": "price",
+      "definition_en": "The amount of money one must pay for a thing.",
+      "gloss_zh_tw": "價格；購買某物所需的金額。",
+      "example_en": "The price of bread is going up.",
+      "example_zh_tw": "麵包的價格在漲。",
+      "synonyms": ["cost", "fee"]
+    },
+    {
+      "id": "print",
+      "definition_en": "Words or pictures put on paper by a machine.",
+      "gloss_zh_tw": "印刷、印製；以機器印在紙上之字或圖。",
+      "example_en": "The print is too small to read.",
+      "example_zh_tw": "字印得太小看不清楚。",
+      "synonyms": ["press", "publish"]
+    },
+    {
+      "id": "process",
+      "definition_en": "A row of steps done to get to an end.",
+      "gloss_zh_tw": "過程、流程；達到目的的一連串步驟。",
+      "example_en": "The process of making bread takes hours.",
+      "example_zh_tw": "做麵包要花上好幾個小時。",
+      "synonyms": ["procedure", "method"]
+    },
+    {
+      "id": "produce",
+      "definition_en": "The food or other things made by farms or land.",
+      "gloss_zh_tw": "農產品；農地所生產的食物或物品。",
+      "example_en": "We buy fresh produce at the market.",
+      "example_zh_tw": "我們在市場買新鮮農產品。",
+      "synonyms": ["crop", "yield"]
+    },
+    {
+      "id": "profit",
+      "definition_en": "The money one makes after paying all costs.",
+      "gloss_zh_tw": "利潤、盈餘；扣除成本後所得的錢。",
+      "example_en": "The shop made a small profit last year.",
+      "example_zh_tw": "那家店去年小有獲利。",
+      "synonyms": ["gain", "return"]
+    },
+    {
+      "id": "property",
+      "definition_en": "A thing that belongs to a person.",
+      "gloss_zh_tw": "財產、所有物；歸屬於某人的物品。",
+      "example_en": "This bag is my own property.",
+      "example_zh_tw": "這個袋子是我的。",
+      "synonyms": ["possession", "asset"]
+    },
+    {
+      "id": "prose",
+      "definition_en": "Writing in plain language, not in the form of verse.",
+      "gloss_zh_tw": "散文；普通的書面語，非詩體。",
+      "example_en": "Her prose is clear and simple.",
+      "example_zh_tw": "她的散文清楚簡單。",
+      "synonyms": ["writing", "text"]
+    },
+    {
+      "id": "protest",
+      "definition_en": "A strong say that one does not like a thing.",
+      "gloss_zh_tw": "抗議、反對；表達不認同的強烈聲音。",
+      "example_en": "There was a loud protest in the street.",
+      "example_zh_tw": "街上爆發了大聲的抗議。",
+      "synonyms": ["objection", "complaint"]
+    },
+    {
+      "id": "pull",
+      "definition_en": "An act of moving a thing toward oneself.",
+      "gloss_zh_tw": "拉、拖；把物體朝自己方向移動。",
+      "example_en": "Give the rope a strong pull.",
+      "example_zh_tw": "用力把繩子拉一下。",
+      "synonyms": ["tug", "drag"]
+    },
+    {
+      "id": "punishment",
+      "definition_en": "What is done to a person for a bad act.",
+      "gloss_zh_tw": "懲罰、處分；因犯錯而受的對待。",
+      "example_en": "The punishment was a week with no play.",
+      "example_zh_tw": "處罰是一週不准玩。",
+      "synonyms": ["penalty", "discipline"]
+    },
+    {
+      "id": "purpose",
+      "definition_en": "The aim or use of a thing.",
+      "gloss_zh_tw": "目的、用途；事物的目標或功用。",
+      "example_en": "What is the purpose of this meeting?",
+      "example_zh_tw": "這場會議的目的是什麼？",
+      "synonyms": ["aim", "goal"]
+    },
+    {
+      "id": "push",
+      "definition_en": "An act of moving a thing away from oneself.",
+      "gloss_zh_tw": "推；把物體朝外推離自己。",
+      "example_en": "Give the door a small push.",
+      "example_zh_tw": "輕輕推一下門。",
+      "synonyms": ["shove", "press"]
+    },
+    {
+      "id": "quality",
+      "definition_en": "The state of how good or bad a thing is.",
+      "gloss_zh_tw": "品質、特性；事物好壞的程度。",
+      "example_en": "The cloth is of high quality.",
+      "example_zh_tw": "這塊布的品質很好。",
+      "synonyms": ["grade", "feature"]
+    },
+    {
+      "id": "question",
+      "definition_en": "Words said to get an answer.",
+      "gloss_zh_tw": "問題、疑問;用以求得答案的話語。",
+      "example_en": "I have one question for you.",
+      "example_zh_tw": "我有一個問題想問你。",
+      "synonyms": ["query", "inquiry"]
+    },
+    {
+      "id": "rain",
+      "definition_en": "Drops of water that come down from the sky.",
+      "gloss_zh_tw": "雨；從天空落下的水滴。",
+      "example_en": "Heavy rain came in the night.",
+      "example_zh_tw": "夜裡下了大雨。",
+      "synonyms": ["shower", "downpour"]
+    },
+    {
+      "id": "range",
+      "definition_en": "The space between the lowest and the highest of a thing.",
+      "gloss_zh_tw": "範圍、區間；最低到最高之間的距離。",
+      "example_en": "There is a wide range of fruit at the market.",
+      "example_zh_tw": "市場上的水果種類很多。",
+      "synonyms": ["span", "scope"]
+    },
+    {
+      "id": "rate",
+      "definition_en": "How fast a thing is done; or the cost of a thing for each amount.",
+      "gloss_zh_tw": "速率、費率；事物進行的速度或每單位的價格。",
+      "example_en": "The rate of cars on this road is high.",
+      "example_zh_tw": "這條路上的車流量很大。",
+      "synonyms": ["speed", "tempo"]
+    },
+    {
+      "id": "ray",
+      "definition_en": "A line of light from the sun or a lamp.",
+      "gloss_zh_tw": "光線、光束；自太陽或燈具射出的光線。",
+      "example_en": "A ray of sun came through the window.",
+      "example_zh_tw": "一道陽光透過窗子照進來。",
+      "synonyms": ["beam", "shaft"]
+    },
+    {
+      "id": "reaction",
+      "definition_en": "What one does or feels because of a thing that has happened.",
+      "gloss_zh_tw": "反應、回應；因某事而生的言行或感覺。",
+      "example_en": "Her reaction was a small smile.",
+      "example_zh_tw": "她的反應是淡淡一笑。",
+      "synonyms": ["response", "answer"]
+    },
+    {
+      "id": "reading",
+      "definition_en": "The act of looking at words to take in their sense.",
+      "gloss_zh_tw": "閱讀；觀看文字以理解其意。",
+      "example_en": "Reading is her favourite hobby.",
+      "example_zh_tw": "閱讀是她最愛的興趣。",
+      "synonyms": ["study", "perusal"]
+    },
+    {
+      "id": "reason",
+      "definition_en": "Why a thing happens or is so.",
+      "gloss_zh_tw": "原因、理由；某事發生或如此的根據。",
+      "example_en": "Tell me the reason for your tears.",
+      "example_zh_tw": "告訴我你為什麼掉淚。",
+      "synonyms": ["cause", "motive"]
+    },
+    {
+      "id": "record",
+      "definition_en": "A note made to keep memory of a thing.",
+      "gloss_zh_tw": "紀錄、記載；為留存記憶所做之筆記。",
+      "example_en": "Keep a record of all your tests.",
+      "example_zh_tw": "把所有的考試成績記下來。",
+      "synonyms": ["log", "register"]
+    },
+    {
+      "id": "regret",
+      "definition_en": "A sad feeling about a thing one has done or not done.",
+      "gloss_zh_tw": "後悔、遺憾;對所為或未為之事的傷感。",
+      "example_en": "She has no regret about her choice.",
+      "example_zh_tw": "她對自己的選擇毫無遺憾。",
+      "synonyms": ["sorrow", "remorse"]
+    }
+  ]
+}

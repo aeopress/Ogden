@@ -1,0 +1,207 @@
+{
+  "category": "general_things",
+  "batch": 5,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "education",
+      "definition_en": "The act of teaching, or what a person comes to know from teaching.",
+      "gloss_zh_tw": "教育、學識；教學的過程或所得。",
+      "example_en": "Education is important for every child.",
+      "example_zh_tw": "教育對每個孩子都很重要。",
+      "synonyms": ["teaching", "learning"]
+    },
+    {
+      "id": "effect",
+      "definition_en": "What happens because of something else.",
+      "gloss_zh_tw": "效果、影響；因某事而產生的結果。",
+      "example_en": "The new rule had a good effect.",
+      "example_zh_tw": "新規定產生了好的效果。",
+      "synonyms": ["result", "outcome"]
+    },
+    {
+      "id": "end",
+      "definition_en": "The last part of a thing; or the place where it stops.",
+      "gloss_zh_tw": "結尾、終點；事物的最後部分或停止之處。",
+      "example_en": "We were at the end of the line.",
+      "example_zh_tw": "我們排在隊伍的最後。",
+      "synonyms": ["stop", "finish"]
+    },
+    {
+      "id": "error",
+      "definition_en": "A thing done in the wrong way.",
+      "gloss_zh_tw": "錯誤；不正確的作法。",
+      "example_en": "There is an error in your answer.",
+      "example_zh_tw": "你的答案有個錯誤。",
+      "synonyms": ["mistake", "fault"]
+    },
+    {
+      "id": "event",
+      "definition_en": "A thing that happens, often important.",
+      "gloss_zh_tw": "事件、大事；發生的事情，常具重要性。",
+      "example_en": "Her birthday is a big event in the family.",
+      "example_zh_tw": "她的生日是家裡的大事。",
+      "synonyms": ["happening", "occasion"]
+    },
+    {
+      "id": "example",
+      "definition_en": "One thing that shows what a group is like.",
+      "gloss_zh_tw": "例子、範例；代表某類事物的具體實例。",
+      "example_en": "Give me an example of a fruit.",
+      "example_zh_tw": "舉一個水果的例子給我。",
+      "synonyms": ["sample", "instance"]
+    },
+    {
+      "id": "exchange",
+      "definition_en": "The act of giving one thing for another.",
+      "gloss_zh_tw": "交換、交流；以一物換取另一物。",
+      "example_en": "We made an exchange of books.",
+      "example_zh_tw": "我們交換了彼此的書。",
+      "synonyms": ["trade", "swap"]
+    },
+    {
+      "id": "existence",
+      "definition_en": "The state of being; the fact of being real.",
+      "gloss_zh_tw": "存在；真實存在的狀態。",
+      "example_en": "She talks of the existence of life on Mars.",
+      "example_zh_tw": "她談到火星上有生命存在這件事。",
+      "synonyms": ["being", "life"]
+    },
+    {
+      "id": "expansion",
+      "definition_en": "The act of getting bigger or wider.",
+      "gloss_zh_tw": "擴張、擴大；變大或變寬的過程。",
+      "example_en": "The expansion of the road took two years.",
+      "example_zh_tw": "拓寬這條路花了兩年。",
+      "synonyms": ["growth", "increase"]
+    },
+    {
+      "id": "experience",
+      "definition_en": "What one learns from doing or seeing a thing.",
+      "gloss_zh_tw": "經驗、經歷；從實作或觀察中所學。",
+      "example_en": "She has years of experience in teaching.",
+      "example_zh_tw": "她有多年教學經驗。",
+      "synonyms": ["knowledge", "practice"]
+    },
+    {
+      "id": "expert",
+      "definition_en": "A person who knows a great deal about one thing.",
+      "gloss_zh_tw": "專家；對某一領域極為熟稔的人。",
+      "example_en": "He is an expert in old books.",
+      "example_zh_tw": "他是古書方面的專家。",
+      "synonyms": ["master", "specialist"]
+    },
+    {
+      "id": "fact",
+      "definition_en": "A thing that is true and can be seen or shown.",
+      "gloss_zh_tw": "事實；真實且可驗證之事。",
+      "example_en": "It is a fact that the earth goes round the sun.",
+      "example_zh_tw": "地球繞太陽轉是事實。",
+      "synonyms": ["truth", "reality"]
+    },
+    {
+      "id": "fall",
+      "definition_en": "The act of going down to the earth from a higher place.",
+      "gloss_zh_tw": "跌落、墜落；從高處掉下。",
+      "example_en": "She had a bad fall on the ice.",
+      "example_zh_tw": "她在冰上摔得很重。",
+      "synonyms": ["drop", "tumble"]
+    },
+    {
+      "id": "family",
+      "definition_en": "A group of people who share blood, like parents and children.",
+      "gloss_zh_tw": "家庭、家人；具血緣關係的群體。",
+      "example_en": "My family is small.",
+      "example_zh_tw": "我家成員不多。",
+      "synonyms": ["kin", "household"]
+    },
+    {
+      "id": "father",
+      "definition_en": "A male parent.",
+      "gloss_zh_tw": "父親；男性親長。",
+      "example_en": "My father works in a hospital.",
+      "example_zh_tw": "我爸在醫院工作。",
+      "synonyms": ["dad", "papa"]
+    },
+    {
+      "id": "fear",
+      "definition_en": "A feeling of being not safe; of waiting for a bad thing.",
+      "gloss_zh_tw": "恐懼、害怕；預期壞事將至的不安感。",
+      "example_en": "She has a fear of dogs.",
+      "example_zh_tw": "她怕狗。",
+      "synonyms": ["dread", "worry"]
+    },
+    {
+      "id": "feeling",
+      "definition_en": "What goes on in the mind, like happy or sad.",
+      "gloss_zh_tw": "感覺、情感；心中所生的情緒。",
+      "example_en": "I have a good feeling about today.",
+      "example_zh_tw": "我覺得今天感覺很不錯。",
+      "synonyms": ["emotion", "sense"]
+    },
+    {
+      "id": "fiction",
+      "definition_en": "Stories that are not true, made up by a writer.",
+      "gloss_zh_tw": "虛構、小說；作家編造的故事。",
+      "example_en": "She loves to read fiction at night.",
+      "example_zh_tw": "她晚上喜歡看小說。",
+      "synonyms": ["story", "tale"]
+    },
+    {
+      "id": "field",
+      "definition_en": "Open land, often used for grass or food plants.",
+      "gloss_zh_tw": "田野、原野；常作牧草或農地的開闊土地。",
+      "example_en": "Cows were eating in the field.",
+      "example_zh_tw": "牛群在田裡吃草。",
+      "synonyms": ["land", "meadow"]
+    },
+    {
+      "id": "fight",
+      "definition_en": "A violent meeting between two or more sides.",
+      "gloss_zh_tw": "打鬥、戰鬥；兩方激烈衝突的場面。",
+      "example_en": "There was a small fight at the school.",
+      "example_zh_tw": "學校發生了一場小打鬥。",
+      "synonyms": ["battle", "argument"]
+    },
+    {
+      "id": "fire",
+      "definition_en": "The hot bright thing that comes when a thing burns.",
+      "gloss_zh_tw": "火、火焰；物體燃燒時所生之熱光。",
+      "example_en": "We sat by the fire all night.",
+      "example_zh_tw": "我們整夜坐在火邊。",
+      "synonyms": ["flame", "blaze"]
+    },
+    {
+      "id": "flame",
+      "definition_en": "The bright moving light of a fire.",
+      "gloss_zh_tw": "火焰；火堆上閃動的光。",
+      "example_en": "A small flame came from the match.",
+      "example_zh_tw": "火柴冒出一小簇火焰。",
+      "synonyms": ["fire", "blaze"]
+    },
+    {
+      "id": "flight",
+      "definition_en": "The act of moving through the air; a journey by plane.",
+      "gloss_zh_tw": "飛行；空中的移動或一段航程。",
+      "example_en": "The bird's flight was long and high.",
+      "example_zh_tw": "那隻鳥飛得又遠又高。",
+      "synonyms": ["journey", "trip"]
+    },
+    {
+      "id": "flower",
+      "definition_en": "The bright coloured part of a plant that gives seeds.",
+      "gloss_zh_tw": "花；植物上鮮豔、生種的部分。",
+      "example_en": "She put a flower in her hair.",
+      "example_zh_tw": "她在頭髮上插了一朵花。",
+      "synonyms": ["bloom", "blossom"]
+    },
+    {
+      "id": "fold",
+      "definition_en": "The act of bending a flat thing over itself.",
+      "gloss_zh_tw": "摺、摺疊；將平面對折。",
+      "example_en": "Fold the letter and put it in the bag.",
+      "example_zh_tw": "把信摺起來，放進袋子裡。",
+      "synonyms": ["bend", "crease"]
+    }
+  ]
+}

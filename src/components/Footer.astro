@@ -1,0 +1,61 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="footer">
+  <div class="inner">
+    <p class="line">
+      Based on Charles Kay Ogden's <em>Basic English</em> (1930) · 850 words
+    </p>
+    <p class="line muted">
+      字表來源：<a href="https://en.wiktionary.org/wiki/Appendix:Basic_English_word_list" target="_blank" rel="noopener">Wiktionary</a>（CC BY-SA 4.0）·
+      原始字母對照：<a href="https://archive.org/details/ogdens-basic-english-words-list-alphabetic" target="_blank" rel="noopener">Internet Archive</a>
+    </p>
+    <p class="line muted small">
+      Crafted with care · {year} ·
+      <a href="/about">關於</a>
+    </p>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    margin-top: 96px;
+    border-top: 1px solid var(--line);
+    padding: 48px 32px;
+    text-align: center;
+  }
+  .inner {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+  .line {
+    font-family: var(--serif);
+    font-size: 16px;
+    color: var(--ink-soft);
+    margin-bottom: 8px;
+  }
+  .line em {
+    font-style: italic;
+    color: var(--op);
+  }
+  .muted {
+    font-family: var(--sans);
+    font-size: 13px;
+    color: var(--ink-faint);
+  }
+  .small {
+    font-size: 12px;
+    letter-spacing: 0.04em;
+  }
+  .footer a {
+    color: var(--ink-soft);
+    text-decoration: underline;
+    text-decoration-color: var(--line);
+    text-underline-offset: 3px;
+  }
+  .footer a:hover {
+    color: var(--ink);
+    text-decoration-color: var(--ink-faint);
+  }
+</style>

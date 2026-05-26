@@ -1,0 +1,207 @@
+{
+  "category": "operations",
+  "batch": 4,
+  "generated_by": "claude-opus-4-7 (in-session, pre-API-key)",
+  "results": [
+    {
+      "id": "now",
+      "definition_en": "At this present time.",
+      "gloss_zh_tw": "現在、此刻。",
+      "example_en": "Come here now, please.",
+      "example_zh_tw": "請你現在過來。",
+      "synonyms": ["today", "present"]
+    },
+    {
+      "id": "out",
+      "definition_en": "Not inside; away from a place.",
+      "gloss_zh_tw": "在外面、向外；離開。",
+      "example_en": "The cat ran out of the house.",
+      "example_zh_tw": "那隻貓跑出了屋子。",
+      "synonyms": ["off", "away"]
+    },
+    {
+      "id": "still",
+      "definition_en": "Up to and at this time, with no change.",
+      "gloss_zh_tw": "仍然、依舊（持續至今）。",
+      "example_en": "She is still at school.",
+      "example_zh_tw": "她還在學校。",
+      "synonyms": ["yet"]
+    },
+    {
+      "id": "then",
+      "definition_en": "At that time; or after that.",
+      "gloss_zh_tw": "那時、然後；接著。",
+      "example_en": "We went for a walk, then we had dinner.",
+      "example_zh_tw": "我們先去散步，然後吃晚餐。",
+      "synonyms": ["after", "next"]
+    },
+    {
+      "id": "there",
+      "definition_en": "In that place, away from the person talking.",
+      "gloss_zh_tw": "在那裡、到那裡。",
+      "example_en": "Put the box there, by the door.",
+      "example_zh_tw": "把箱子放在那邊，門旁邊。",
+      "synonyms": ["where", "here"]
+    },
+    {
+      "id": "together",
+      "definition_en": "With one another; in one place or group.",
+      "gloss_zh_tw": "一起、共同；在一塊兒。",
+      "example_en": "We went to the park together.",
+      "example_zh_tw": "我們一起去公園。",
+      "synonyms": ["with", "as one"]
+    },
+    {
+      "id": "well",
+      "definition_en": "In a good way; or in a state of health.",
+      "gloss_zh_tw": "很好地；身體健康。",
+      "example_en": "She sings very well.",
+      "example_zh_tw": "她唱得很好。",
+      "synonyms": ["good", "healthy"]
+    },
+    {
+      "id": "almost",
+      "definition_en": "Very near to, but not quite.",
+      "gloss_zh_tw": "幾乎、差不多。",
+      "example_en": "I am almost ready to go.",
+      "example_zh_tw": "我差不多準備好要走了。",
+      "synonyms": ["near", "nearly"]
+    },
+    {
+      "id": "enough",
+      "definition_en": "As much as one needs.",
+      "gloss_zh_tw": "足夠的；夠用。",
+      "example_en": "We have enough food for tonight.",
+      "example_zh_tw": "我們今晚的食物夠了。",
+      "synonyms": ["sufficient"]
+    },
+    {
+      "id": "even",
+      "definition_en": "Word used to say a thing more surprising than one might think.",
+      "gloss_zh_tw": "甚至、連……都；表加強語氣。",
+      "example_en": "Even a child can do it.",
+      "example_zh_tw": "連小孩都會。",
+      "synonyms": ["still", "yet"]
+    },
+    {
+      "id": "little",
+      "definition_en": "Not much; a small amount.",
+      "gloss_zh_tw": "少、一點點；不多。",
+      "example_en": "I have a little time before the meeting.",
+      "example_zh_tw": "開會前我還有一點時間。",
+      "synonyms": ["small", "less"]
+    },
+    {
+      "id": "much",
+      "definition_en": "A great amount of a thing.",
+      "gloss_zh_tw": "許多、大量。",
+      "example_en": "There is not much milk left.",
+      "example_zh_tw": "牛奶剩沒多少了。",
+      "synonyms": ["many", "more"]
+    },
+    {
+      "id": "not",
+      "definition_en": "Word used to make a thing the opposite, or to say no.",
+      "gloss_zh_tw": "不、沒有；用以否定。",
+      "example_en": "I am not ready yet.",
+      "example_zh_tw": "我還沒準備好。",
+      "synonyms": ["no", "never"]
+    },
+    {
+      "id": "only",
+      "definition_en": "No more than; nothing other than.",
+      "gloss_zh_tw": "只、僅僅。",
+      "example_en": "I have only one brother.",
+      "example_zh_tw": "我只有一個哥哥。",
+      "synonyms": ["just", "merely"]
+    },
+    {
+      "id": "quite",
+      "definition_en": "Very much; or completely.",
+      "gloss_zh_tw": "相當、十分；完全。",
+      "example_en": "It is quite cold today.",
+      "example_zh_tw": "今天相當冷。",
+      "synonyms": ["very", "completely"]
+    },
+    {
+      "id": "so",
+      "definition_en": "In this way; or to such a degree.",
+      "gloss_zh_tw": "如此、這麼；因此。",
+      "example_en": "He is so tall!",
+      "example_zh_tw": "他好高！",
+      "synonyms": ["thus", "very"]
+    },
+    {
+      "id": "very",
+      "definition_en": "To a great degree; much.",
+      "gloss_zh_tw": "非常、很。",
+      "example_en": "She is very happy today.",
+      "example_zh_tw": "她今天很開心。",
+      "synonyms": ["so", "much"]
+    },
+    {
+      "id": "tomorrow",
+      "definition_en": "The day after today.",
+      "gloss_zh_tw": "明天、明日。",
+      "example_en": "I will see you tomorrow.",
+      "example_zh_tw": "我們明天見。",
+      "synonyms": ["next day"]
+    },
+    {
+      "id": "yesterday",
+      "definition_en": "The day before today.",
+      "gloss_zh_tw": "昨天、昨日。",
+      "example_en": "I saw her yesterday at the shop.",
+      "example_zh_tw": "我昨天在店裡看到她。",
+      "synonyms": ["last day"]
+    },
+    {
+      "id": "north",
+      "definition_en": "The side of the earth opposite to south, where it is cold.",
+      "gloss_zh_tw": "北方、北邊。",
+      "example_en": "We are going to the north for our holiday.",
+      "example_zh_tw": "我們要去北方度假。",
+      "synonyms": ["northern"]
+    },
+    {
+      "id": "south",
+      "definition_en": "The side of the earth opposite to north, where it is hot.",
+      "gloss_zh_tw": "南方、南邊。",
+      "example_en": "Birds fly to the south for the winter.",
+      "example_zh_tw": "鳥兒冬天會往南飛。",
+      "synonyms": ["southern"]
+    },
+    {
+      "id": "east",
+      "definition_en": "The side where the sun comes up.",
+      "gloss_zh_tw": "東方、東邊（日出方向）。",
+      "example_en": "The sun comes up in the east.",
+      "example_zh_tw": "太陽從東邊升起。",
+      "synonyms": ["eastern"]
+    },
+    {
+      "id": "west",
+      "definition_en": "The side where the sun goes down.",
+      "gloss_zh_tw": "西方、西邊（日落方向）。",
+      "example_en": "The sun goes down in the west.",
+      "example_zh_tw": "太陽從西邊落下。",
+      "synonyms": ["western"]
+    },
+    {
+      "id": "please",
+      "definition_en": "Word used to ask for a thing in a kind way.",
+      "gloss_zh_tw": "請；用於禮貌地請求。",
+      "example_en": "Please give me a glass of water.",
+      "example_zh_tw": "請給我一杯水。",
+      "synonyms": ["kindly"]
+    },
+    {
+      "id": "yes",
+      "definition_en": "Word used to say a thing is true, or to say one will do a thing.",
+      "gloss_zh_tw": "是、好；表達同意或肯定。",
+      "example_en": "Yes, I will come with you.",
+      "example_zh_tw": "好啊，我會跟你一起去。",
+      "synonyms": ["right", "ok"]
+    }
+  ]
+}

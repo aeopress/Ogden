@@ -1,0 +1,207 @@
+{
+  "category": "qualities_opposites",
+  "batch": 1,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "awake",
+      "definition_en": "Not asleep; with the eyes open.",
+      "gloss_zh_tw": "醒著的;未入睡、雙眼睜開的。",
+      "example_en": "She is awake at six every morning.",
+      "example_zh_tw": "她每天早上六點就醒了。",
+      "synonyms": ["alert", "conscious"]
+    },
+    {
+      "id": "bad",
+      "definition_en": "Not good; of low quality or wrong.",
+      "gloss_zh_tw": "壞的、不好的;低劣或錯誤的。",
+      "example_en": "The food has gone bad.",
+      "example_zh_tw": "那食物壞掉了。",
+      "synonyms": ["poor", "wrong"]
+    },
+    {
+      "id": "bent",
+      "definition_en": "Curved; not straight.",
+      "gloss_zh_tw": "彎的、彎曲的;具弧度、非直的。",
+      "example_en": "The nail is bent and will not go in.",
+      "example_zh_tw": "釘子彎了，敲不進去。",
+      "synonyms": ["curved", "crooked"]
+    },
+    {
+      "id": "bitter",
+      "definition_en": "Having a sharp, harsh taste, not sweet.",
+      "gloss_zh_tw": "苦的、苦澀的;味道刺烈、非甜美。",
+      "example_en": "Coffee can have a bitter taste.",
+      "example_zh_tw": "咖啡可能會帶苦味。",
+      "synonyms": ["acrid", "sour"]
+    },
+    {
+      "id": "blue",
+      "definition_en": "Of the colour of the clear sky in the day.",
+      "gloss_zh_tw": "藍色的;如晴日天空之色。",
+      "example_en": "The sea looks blue today.",
+      "example_zh_tw": "今天海看起來很藍。",
+      "synonyms": ["azure", "navy"]
+    },
+    {
+      "id": "certain",
+      "definition_en": "Being sure; without doubt.",
+      "gloss_zh_tw": "確定的、必定的;無疑慮的。",
+      "example_en": "I am certain that she will come.",
+      "example_zh_tw": "我確信她會來。",
+      "synonyms": ["sure", "definite"]
+    },
+    {
+      "id": "cold",
+      "definition_en": "Not hot; of low heat.",
+      "gloss_zh_tw": "冷的、寒冷的;非熱、溫度低的。",
+      "example_en": "Drink your milk before it gets cold.",
+      "example_zh_tw": "趁牛奶還沒涼喝掉。",
+      "synonyms": ["chilly", "frosty"]
+    },
+    {
+      "id": "complete",
+      "definition_en": "With all the parts; full and finished.",
+      "gloss_zh_tw": "完整的、完成的;具備所有部分、已結束的。",
+      "example_en": "Her work is complete now.",
+      "example_zh_tw": "她的工作做完了。",
+      "synonyms": ["whole", "entire"]
+    },
+    {
+      "id": "cruel",
+      "definition_en": "Causing pain or harm with no care.",
+      "gloss_zh_tw": "殘忍的、殘酷的;漠然地造成痛苦或傷害。",
+      "example_en": "It is cruel to leave a dog out in the rain.",
+      "example_zh_tw": "把狗丟在雨中很殘忍。",
+      "synonyms": ["harsh", "brutal"]
+    },
+    {
+      "id": "dark",
+      "definition_en": "With little or no light.",
+      "gloss_zh_tw": "黑暗的、深色的;光線少或無。",
+      "example_en": "It is dark in the room at night.",
+      "example_zh_tw": "晚上房間很暗。",
+      "synonyms": ["dim", "black"]
+    },
+    {
+      "id": "dead",
+      "definition_en": "Not living any more.",
+      "gloss_zh_tw": "死的、死亡的;不再存活。",
+      "example_en": "The plant is dead from too much sun.",
+      "example_zh_tw": "那植物被太陽曬死了。",
+      "synonyms": ["lifeless", "gone"]
+    },
+    {
+      "id": "dear",
+      "definition_en": "Loved much; or costing much money.",
+      "gloss_zh_tw": "親愛的、昂貴的;受人珍愛或價格高。",
+      "example_en": "My dear friend, please come in.",
+      "example_zh_tw": "親愛的朋友，請進。",
+      "synonyms": ["beloved", "expensive"]
+    },
+    {
+      "id": "delicate",
+      "definition_en": "Easy to break or hurt; soft and small.",
+      "gloss_zh_tw": "脆弱的、精細的;易碎或柔小的。",
+      "example_en": "The glass is delicate, hold it with care.",
+      "example_zh_tw": "玻璃很脆，小心拿。",
+      "synonyms": ["fragile", "fine"]
+    },
+    {
+      "id": "different",
+      "definition_en": "Not the same.",
+      "gloss_zh_tw": "不同的、相異的;與他者有異。",
+      "example_en": "Her dress is different from mine.",
+      "example_zh_tw": "她的洋裝跟我的不一樣。",
+      "synonyms": ["distinct", "varied"]
+    },
+    {
+      "id": "dirty",
+      "definition_en": "Not clean; with dirt on it.",
+      "gloss_zh_tw": "髒的、污穢的;沾有污垢的。",
+      "example_en": "Your hands are dirty, go wash them.",
+      "example_zh_tw": "你的手髒了，去洗。",
+      "synonyms": ["filthy", "soiled"]
+    },
+    {
+      "id": "dry",
+      "definition_en": "Without water; not wet.",
+      "gloss_zh_tw": "乾的、乾燥的;無水分。",
+      "example_en": "The leaves are dry on the floor.",
+      "example_zh_tw": "葉子掉在地上乾了。",
+      "synonyms": ["arid", "parched"]
+    },
+    {
+      "id": "false",
+      "definition_en": "Not true; or made to look real but is not.",
+      "gloss_zh_tw": "假的、錯誤的;非真、看似真但實非。",
+      "example_en": "She gave a false name to the police.",
+      "example_zh_tw": "她給警察報了假名。",
+      "synonyms": ["untrue", "fake"]
+    },
+    {
+      "id": "feeble",
+      "definition_en": "Without strength; weak.",
+      "gloss_zh_tw": "虛弱的、無力的;缺乏氣力。",
+      "example_en": "His voice was feeble after the illness.",
+      "example_zh_tw": "他病後聲音很微弱。",
+      "synonyms": ["weak", "frail"]
+    },
+    {
+      "id": "female",
+      "definition_en": "Of the sex that can give birth; like a woman or a girl.",
+      "gloss_zh_tw": "女性的、雌性的;能生育、屬女方一性。",
+      "example_en": "The female cat had three kittens.",
+      "example_zh_tw": "那隻母貓生了三隻小貓。",
+      "synonyms": ["feminine", "womanly"]
+    },
+    {
+      "id": "foolish",
+      "definition_en": "Without good sense; doing things one should not.",
+      "gloss_zh_tw": "愚蠢的、傻的;欠缺判斷、做出不當之事。",
+      "example_en": "It was foolish to go out in the storm.",
+      "example_zh_tw": "在暴風雨中出門很傻。",
+      "synonyms": ["silly", "unwise"]
+    },
+    {
+      "id": "future",
+      "definition_en": "Of the time still to come.",
+      "gloss_zh_tw": "未來的;即將到來的時光。",
+      "example_en": "She has great plans for the future.",
+      "example_zh_tw": "她對未來有遠大計畫。",
+      "synonyms": ["coming", "later"]
+    },
+    {
+      "id": "green",
+      "definition_en": "Of the colour of grass or leaves.",
+      "gloss_zh_tw": "綠色的;如草或葉之色。",
+      "example_en": "The hills are green in spring.",
+      "example_zh_tw": "山在春天裡一片翠綠。",
+      "synonyms": ["verdant", "lush"]
+    },
+    {
+      "id": "ill",
+      "definition_en": "Not in good health; with a disease.",
+      "gloss_zh_tw": "生病的、不適的;身體不佳、患病。",
+      "example_en": "She is ill with a bad cough.",
+      "example_zh_tw": "她咳得很厲害，病了。",
+      "synonyms": ["sick", "unwell"]
+    },
+    {
+      "id": "last",
+      "definition_en": "Coming at the end, after all others.",
+      "gloss_zh_tw": "最後的;在他者之後、位居末位的。",
+      "example_en": "She is the last person to leave.",
+      "example_zh_tw": "她是最後一個離開的。",
+      "synonyms": ["final", "ultimate"]
+    },
+    {
+      "id": "late",
+      "definition_en": "After the right time; not on time.",
+      "gloss_zh_tw": "遲的、晚的;超過預定時間。",
+      "example_en": "She is late for the meeting.",
+      "example_zh_tw": "她開會遲到了。",
+      "synonyms": ["delayed", "tardy"]
+    }
+  ]
+}

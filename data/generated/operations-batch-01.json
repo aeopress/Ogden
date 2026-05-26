@@ -1,0 +1,207 @@
+{
+  "category": "operations",
+  "batch": 1,
+  "generated_by": "claude-opus-4-7 (in-session, pre-API-key)",
+  "results": [
+    {
+      "id": "come",
+      "definition_en": "To go to the place where the person talking is.",
+      "gloss_zh_tw": "向說話者所在的位置移動過去；來、到達。",
+      "example_en": "Please come here when you are ready.",
+      "example_zh_tw": "你準備好就過來。",
+      "synonyms": ["go", "get"]
+    },
+    {
+      "id": "get",
+      "definition_en": "To come to have something, or come into some place.",
+      "gloss_zh_tw": "取得、拿到，或抵達某地。",
+      "example_en": "I will get the book from the table.",
+      "example_zh_tw": "我去把桌上的書拿過來。",
+      "synonyms": ["take", "have"]
+    },
+    {
+      "id": "give",
+      "definition_en": "To let another person have or take something from you.",
+      "gloss_zh_tw": "把東西交給別人，讓對方擁有或拿走；給予。",
+      "example_en": "She will give the gift to her friend.",
+      "example_zh_tw": "她要把禮物送給朋友。",
+      "synonyms": ["send", "let"]
+    },
+    {
+      "id": "go",
+      "definition_en": "To move from one place to another, away from the person talking.",
+      "gloss_zh_tw": "從一處移動到另一處，離開說話者；去、走。",
+      "example_en": "We go to the park every Sunday.",
+      "example_zh_tw": "我們每個星期天都會去公園。",
+      "synonyms": ["come", "move"]
+    },
+    {
+      "id": "keep",
+      "definition_en": "To go on having something, or to make it stay where it is.",
+      "gloss_zh_tw": "持續擁有某物，或讓某物保持在原處；保留、保管。",
+      "example_en": "Please keep the door open.",
+      "example_zh_tw": "請讓門開著別關。",
+      "synonyms": ["have", "hold"]
+    },
+    {
+      "id": "let",
+      "definition_en": "To make it possible for someone to do something; to give them way.",
+      "gloss_zh_tw": "允許某人做某事；讓、容許。",
+      "example_en": "Let her tell her story to you.",
+      "example_zh_tw": "讓她把她的故事告訴你。",
+      "synonyms": ["may", "give"]
+    },
+    {
+      "id": "make",
+      "definition_en": "To put things together, so that a new thing comes into being.",
+      "gloss_zh_tw": "把材料或部分組合起來，形成新事物；做、製作。",
+      "example_en": "She makes a cake for her family.",
+      "example_zh_tw": "她做了一個蛋糕給家人。",
+      "synonyms": ["do", "produce"]
+    },
+    {
+      "id": "put",
+      "definition_en": "To move a thing to a place.",
+      "gloss_zh_tw": "把某物移到某處；放、擺。",
+      "example_en": "Put the books on the shelf.",
+      "example_zh_tw": "把書放到架子上。",
+      "synonyms": ["place", "give"]
+    },
+    {
+      "id": "seem",
+      "definition_en": "To give the look of being something, but maybe not be it.",
+      "gloss_zh_tw": "看起來像、似乎是；可能事實並非如此。",
+      "example_en": "She seems happy with her new house.",
+      "example_zh_tw": "她對新房子似乎很滿意。",
+      "synonyms": ["look", "be"]
+    },
+    {
+      "id": "take",
+      "definition_en": "To get something into your hand or to your side.",
+      "gloss_zh_tw": "拿、取；把人或物帶走。",
+      "example_en": "Take this letter to the post office.",
+      "example_zh_tw": "把這封信帶去郵局。",
+      "synonyms": ["get", "have"]
+    },
+    {
+      "id": "be",
+      "definition_en": "To have living form; to be in some state.",
+      "gloss_zh_tw": "存在；處於某種狀態；作為繫詞表示「是」。",
+      "example_en": "I will be at the meeting at ten.",
+      "example_zh_tw": "我十點會在會議現場。",
+      "synonyms": ["seem", "have"]
+    },
+    {
+      "id": "do",
+      "definition_en": "To make an act take place; to put work into something.",
+      "gloss_zh_tw": "做、進行；表示動作的執行。",
+      "example_en": "What do you do every morning?",
+      "example_zh_tw": "你每天早上都做些什麼？",
+      "synonyms": ["make", "act"]
+    },
+    {
+      "id": "have",
+      "definition_en": "To be the owner of a thing or to be in some condition.",
+      "gloss_zh_tw": "擁有、持有；具備某物或某狀態。",
+      "example_en": "I have two brothers and one sister.",
+      "example_zh_tw": "我有兩個哥哥和一個妹妹。",
+      "synonyms": ["keep", "get"]
+    },
+    {
+      "id": "say",
+      "definition_en": "To put a thought into words.",
+      "gloss_zh_tw": "說、講；用言語表達想法。",
+      "example_en": "She says she will come tomorrow.",
+      "example_zh_tw": "她說她明天會來。",
+      "synonyms": ["talk", "answer"]
+    },
+    {
+      "id": "see",
+      "definition_en": "To get the picture of a thing through your eyes.",
+      "gloss_zh_tw": "看到、看見；用眼睛感知事物。",
+      "example_en": "I see a bird on the tree.",
+      "example_zh_tw": "我看到樹上有一隻鳥。",
+      "synonyms": ["look", "view"]
+    },
+    {
+      "id": "send",
+      "definition_en": "To make a thing or a person go to another place.",
+      "gloss_zh_tw": "派、寄、送出去；讓某物或某人前往他處。",
+      "example_en": "Send the letter to me by post.",
+      "example_zh_tw": "請把信郵寄給我。",
+      "synonyms": ["give", "go"]
+    },
+    {
+      "id": "may",
+      "definition_en": "Word used to say that a thing is able to be, but is not certain.",
+      "gloss_zh_tw": "也許、可能；表示有可能性但不確定。",
+      "example_en": "It may rain in the afternoon.",
+      "example_zh_tw": "下午可能會下雨。",
+      "synonyms": ["will", "might"]
+    },
+    {
+      "id": "will",
+      "definition_en": "Word used to say that a thing is going to be in time still to come.",
+      "gloss_zh_tw": "將要、會；表示未來時態。",
+      "example_en": "I will come back tomorrow.",
+      "example_zh_tw": "我明天會回來。",
+      "synonyms": ["may"]
+    },
+    {
+      "id": "about",
+      "definition_en": "Near to a place; or having to do with a thing.",
+      "gloss_zh_tw": "在……附近；關於、有關。",
+      "example_en": "We talked about the news.",
+      "example_zh_tw": "我們聊了那則新聞。",
+      "synonyms": ["of", "near"]
+    },
+    {
+      "id": "across",
+      "definition_en": "From one side of a thing to the other side.",
+      "gloss_zh_tw": "從一邊到另一邊；橫越、穿越。",
+      "example_en": "The dog ran across the road.",
+      "example_zh_tw": "那隻狗跑過了馬路。",
+      "synonyms": ["over", "through"]
+    },
+    {
+      "id": "after",
+      "definition_en": "Later in time; or coming behind something.",
+      "gloss_zh_tw": "在……之後；隨後跟著。",
+      "example_en": "We will go home after the meeting.",
+      "example_zh_tw": "會議結束後我們就回家。",
+      "synonyms": ["later", "behind"]
+    },
+    {
+      "id": "against",
+      "definition_en": "Touching or pushing on a thing; or in fight with it.",
+      "gloss_zh_tw": "靠著、貼著；反對、對抗。",
+      "example_en": "He put his hand against the wall.",
+      "example_zh_tw": "他把手貼在牆上。",
+      "synonyms": ["on", "with"]
+    },
+    {
+      "id": "among",
+      "definition_en": "In the middle of a group of things.",
+      "gloss_zh_tw": "在……之中；在一群當中。",
+      "example_en": "The cat is among the flowers.",
+      "example_zh_tw": "貓在花叢之中。",
+      "synonyms": ["between", "in"]
+    },
+    {
+      "id": "at",
+      "definition_en": "In or near a place, or at a point in time.",
+      "gloss_zh_tw": "在……（地點或時間點）。",
+      "example_en": "I will be at home at six.",
+      "example_zh_tw": "我六點會在家。",
+      "synonyms": ["in", "on"]
+    },
+    {
+      "id": "before",
+      "definition_en": "Earlier in time; or in the front of.",
+      "gloss_zh_tw": "在……之前；在前面。",
+      "example_en": "Please wash your hands before the meal.",
+      "example_zh_tw": "請在用餐前洗手。",
+      "synonyms": ["till", "by"]
+    }
+  ]
+}

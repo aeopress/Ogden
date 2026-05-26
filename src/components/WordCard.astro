@@ -1,0 +1,253 @@
+---
+import type { Word } from '@/data/schema';
+
+interface Props {
+  word: Word;
+}
+
+const { word } = Astro.props;
+const isPlaceholder = word.notes === 'PLACEHOLDER';
+const hasUkUsDistinct = word.spelling_uk !== word.spelling_us;
+---
+
+<article
+  class:list={['card', `cat-${word.category}`, { placeholder: isPlaceholder }]}
+  data-word-id={word.id}
+  data-category={word.category}
+  data-headword={word.headword}
+  data-spelling-uk={word.spelling_uk}
+  data-spelling-us={word.spelling_us}
+>
+  <header class="head">
+    <h3 class="headword" data-speak="word">
+      <span class="primary">{word.spelling_uk}</span>
+      {hasUkUsDistinct && (
+        <span class="alt" title="美式拼法"><sup>UK</sup> · {word.spelling_us}<sup>US</sup></span>
+      )}
+    </h3>
+    {word.is_18_operators && (
+      <span class="badge-18op" title="Ogden 18 operators — 核心動詞">18-op</span>
+    )}
+  </header>
+
+  <p class="def-en" lang="en">{word.definition_en}</p>
+  <p class="gloss-zh">{word.gloss_zh_tw}</p>
+
+  <div class="example">
+    <p class="ex-en" data-speak="example" lang="en">{word.example_en}</p>
+    <p class="ex-zh">{word.example_zh_tw}</p>
+  </div>
+
+  {word.synonyms.length > 0 && (
+    <div class="synonyms">
+      <span class="syn-label">近義</span>
+      {word.synonyms.map((s) => (
+        <a class="syn" href={`#syn-${s.replace(/\s+/g, '-')}`} data-syn={s}>{s}</a>
+      ))}
+    </div>
+  )}
+
+  <div class="actions">
+    <button class="act-speak" type="button" data-speak-target="word" title="聽單字發音" aria-label="聽單字發音">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M11 5L6 9H2v6h4l5 4V5z"></path>
+        <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+      </svg>
+      <span>單字</span>
+    </button>
+    <button class="act-speak" type="button" data-speak-target="example" title="聽例句發音" aria-label="聽例句發音">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M11 5L6 9H2v6h4l5 4V5z"></path>
+        <path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path>
+        <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+      </svg>
+      <span>例句</span>
+    </button>
+    <button class="act-learned" type="button" data-learned aria-label="標記已學" title="標記已學">
+      <span class="check">✓</span>
+      <span>已學</span>
+    </button>
+  </div>
+</article>
+
+<style>
+  .card {
+    background: var(--bg-elev);
+    border: 1px solid var(--line);
+    border-left: 3px solid var(--cat-color, var(--ink-soft));
+    border-radius: 8px;
+    padding: 20px 20px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
+  }
+  .card:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 14px -8px rgba(0, 0, 0, 0.18);
+  }
+  .card.placeholder {
+    opacity: 0.55;
+  }
+  .card.placeholder .gloss-zh,
+  .card.placeholder .def-en,
+  .card.placeholder .ex-en,
+  .card.placeholder .ex-zh {
+    font-style: italic;
+    color: var(--ink-faint);
+  }
+
+  .cat-operations { --cat-color: var(--op); --cat-bg: var(--op-bg); }
+  .cat-general_things { --cat-color: var(--gt); --cat-bg: var(--gt-bg); }
+  .cat-picturable_things { --cat-color: var(--pt); --cat-bg: var(--pt-bg); }
+  .cat-qualities_general { --cat-color: var(--qg); --cat-bg: var(--qg-bg); }
+  .cat-qualities_opposites { --cat-color: var(--qo); --cat-bg: var(--qo-bg); }
+
+  .head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 8px;
+  }
+  .headword {
+    font-family: var(--serif);
+    font-weight: 600;
+    font-size: 28px;
+    color: var(--ink);
+    line-height: 1.1;
+  }
+  .headword .primary { letter-spacing: -0.01em; }
+  .headword .alt {
+    font-family: var(--serif);
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--ink-faint);
+    margin-left: 8px;
+  }
+  .headword .alt sup {
+    font-family: var(--sans);
+    font-style: normal;
+    font-size: 9px;
+    font-weight: 600;
+    color: var(--cat-color);
+    letter-spacing: 0.04em;
+    margin: 0 2px;
+    vertical-align: 0.6em;
+  }
+
+  .badge-18op {
+    font-family: var(--sans);
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--bg-elev);
+    background: var(--cat-color);
+    border-radius: 999px;
+    padding: 2px 8px;
+    align-self: center;
+    white-space: nowrap;
+  }
+
+  .def-en {
+    font-family: var(--serif);
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--ink);
+    line-height: 1.45;
+    letter-spacing: -0.005em;
+  }
+  .gloss-zh {
+    font-family: var(--zh-serif);
+    font-size: 13.5px;
+    color: var(--ink-faint);
+    line-height: 1.6;
+  }
+
+  .example {
+    border-left: 2px solid var(--cat-bg);
+    padding: 4px 0 4px 12px;
+    margin-top: 4px;
+  }
+  .ex-en {
+    font-family: var(--serif);
+    font-size: 14px;
+    color: var(--ink);
+    line-height: 1.45;
+  }
+  .ex-zh {
+    font-family: var(--zh-serif);
+    font-size: 13px;
+    color: var(--ink-soft);
+    line-height: 1.5;
+    margin-top: 2px;
+  }
+
+  .synonyms {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    align-items: center;
+    margin-top: 4px;
+  }
+  .syn-label {
+    font-family: var(--sans);
+    font-size: 11px;
+    color: var(--ink-faint);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin-right: 6px;
+  }
+  .syn {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--cat-color);
+    background: var(--cat-bg);
+    border-radius: 5px;
+    padding: 2px 10px;
+    text-decoration: none;
+  }
+  .syn:hover {
+    filter: brightness(0.95);
+  }
+
+  .actions {
+    display: flex;
+    gap: 6px;
+    margin-top: 8px;
+    padding-top: 10px;
+    border-top: 1px dashed var(--line);
+  }
+  .actions button {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    background: transparent;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 4px 10px;
+    font-family: var(--sans);
+    font-size: 12px;
+    color: var(--ink-soft);
+    cursor: pointer;
+    transition: background 0.15s, border-color 0.15s, color 0.15s;
+  }
+  .actions button:hover {
+    background: var(--cat-bg);
+    border-color: var(--cat-color);
+    color: var(--cat-color);
+  }
+  .actions button[data-speak-target] svg { color: currentColor; }
+  .act-learned { margin-left: auto; }
+  .act-learned .check { opacity: 0.4; }
+  .act-learned[data-active='true'] {
+    background: var(--cat-bg);
+    border-color: var(--cat-color);
+    color: var(--cat-color);
+  }
+  .act-learned[data-active='true'] .check { opacity: 1; font-weight: 700; }
+</style>

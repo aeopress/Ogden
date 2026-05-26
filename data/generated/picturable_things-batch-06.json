@@ -1,0 +1,207 @@
+{
+  "category": "picturable_things",
+  "batch": 6,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "parcel",
+      "definition_en": "A thing wrapped in paper, ready to be sent.",
+      "gloss_zh_tw": "包裹;以紙裹好、可寄送之物。",
+      "example_en": "I sent her a parcel of gifts.",
+      "example_zh_tw": "我寄了一包禮物給她。",
+      "synonyms": ["package"]
+    },
+    {
+      "id": "pen",
+      "definition_en": "A long thin tool with ink inside, used to write.",
+      "gloss_zh_tw": "筆;內含墨水、用以書寫的細長工具。",
+      "example_en": "Sign here with this pen.",
+      "example_zh_tw": "用這支筆在這裡簽名。",
+      "synonyms": ["biro", "ballpoint"]
+    },
+    {
+      "id": "pencil",
+      "definition_en": "A long thin tool with a soft grey stick inside, used to write.",
+      "gloss_zh_tw": "鉛筆;內含軟灰芯、用以書寫的細長工具。",
+      "example_en": "Use a pencil for the test.",
+      "example_zh_tw": "考試用鉛筆作答。",
+      "synonyms": ["lead", "crayon"]
+    },
+    {
+      "id": "picture",
+      "definition_en": "A drawing or photograph that shows a scene or thing.",
+      "gloss_zh_tw": "圖畫、照片;呈現景物的繪畫或攝影作品。",
+      "example_en": "She paints a picture of her cat.",
+      "example_zh_tw": "她畫了張她的貓的畫。",
+      "synonyms": ["image", "photograph"]
+    },
+    {
+      "id": "pig",
+      "definition_en": "A pink farm animal kept for its meat.",
+      "gloss_zh_tw": "豬;為肉食而養的粉紅色農場動物。",
+      "example_en": "The pig sleeps in the mud.",
+      "example_zh_tw": "豬在泥地裡睡覺。",
+      "synonyms": ["hog", "swine"]
+    },
+    {
+      "id": "pin",
+      "definition_en": "A small thin piece of metal with a sharp point, used to keep things together.",
+      "gloss_zh_tw": "別針、大頭針;細小有尖頭的金屬物，用以固定。",
+      "example_en": "Use a pin to hold the cloth.",
+      "example_zh_tw": "用大頭針固定布料。",
+      "synonyms": ["needle", "tack"]
+    },
+    {
+      "id": "pipe",
+      "definition_en": "A long round thing through which liquid or gas flows.",
+      "gloss_zh_tw": "管子;可流通液體或氣體的長圓物。",
+      "example_en": "Water comes through the pipe.",
+      "example_zh_tw": "水從管子流出來。",
+      "synonyms": ["tube", "conduit"]
+    },
+    {
+      "id": "plane",
+      "definition_en": "A flying machine with wings; or a tool with a flat bottom for making wood smooth.",
+      "gloss_zh_tw": "飛機;或刨子。",
+      "example_en": "We took a plane to the city.",
+      "example_zh_tw": "我們搭飛機去那座城市。",
+      "synonyms": ["aircraft"]
+    },
+    {
+      "id": "plate",
+      "definition_en": "A flat round dish from which one eats food.",
+      "gloss_zh_tw": "盤子、碟子;用以盛食的扁平圓盤。",
+      "example_en": "Put the food on the plate.",
+      "example_zh_tw": "把食物放到盤子上。",
+      "synonyms": ["dish", "platter"]
+    },
+    {
+      "id": "plough",
+      "definition_en": "A big tool used to turn the earth before plants are put in.",
+      "gloss_zh_tw": "犁;種植前翻土用的大型工具。",
+      "example_en": "The farmer pulls the plough across the field.",
+      "example_zh_tw": "農夫拖著犁穿過田地。",
+      "synonyms": ["plow"]
+    },
+    {
+      "id": "pocket",
+      "definition_en": "A small bag put into clothes, used to keep small things.",
+      "gloss_zh_tw": "口袋;衣物中縫入的小袋，用以放置小物。",
+      "example_en": "I have keys in my pocket.",
+      "example_zh_tw": "我口袋裡有鑰匙。",
+      "synonyms": ["pouch", "compartment"]
+    },
+    {
+      "id": "pot",
+      "definition_en": "A round container used for cooking food or for keeping plants.",
+      "gloss_zh_tw": "鍋、盆;用以烹煮或栽花的圓形容器。",
+      "example_en": "Put the soup in a big pot.",
+      "example_zh_tw": "把湯倒進大鍋裡。",
+      "synonyms": ["pan", "vessel"]
+    },
+    {
+      "id": "potato",
+      "definition_en": "A round root food that grows under the earth, with a brown skin.",
+      "gloss_zh_tw": "馬鈴薯;地下生長、棕皮的圓形根莖食物。",
+      "example_en": "I cook potato every night.",
+      "example_zh_tw": "我每晚都會煮馬鈴薯。",
+      "synonyms": ["spud", "tuber"]
+    },
+    {
+      "id": "prison",
+      "definition_en": "A building where people are kept after they have done a crime.",
+      "gloss_zh_tw": "監獄;犯罪者被關押之處。",
+      "example_en": "He spent two years in prison.",
+      "example_zh_tw": "他被關了兩年。",
+      "synonyms": ["jail", "lockup"]
+    },
+    {
+      "id": "pump",
+      "definition_en": "A machine used to move liquid or air from one place to another.",
+      "gloss_zh_tw": "幫浦、唧筒;將液體或空氣從一處移至他處的機器。",
+      "example_en": "Use the pump to fill the tyre with air.",
+      "example_zh_tw": "用打氣筒把輪胎打氣。",
+      "synonyms": ["compressor", "inflator"]
+    },
+    {
+      "id": "rail",
+      "definition_en": "A long thin bar of metal or wood; or a track for a train.",
+      "gloss_zh_tw": "欄杆、軌道;長條金屬或木桿，或火車行駛之路。",
+      "example_en": "Hold the rail when you go down the steps.",
+      "example_zh_tw": "下樓梯時扶著欄杆。",
+      "synonyms": ["bar", "track"]
+    },
+    {
+      "id": "rat",
+      "definition_en": "A small, long-tailed animal like a big mouse.",
+      "gloss_zh_tw": "老鼠;類似大鼠的長尾小動物。",
+      "example_en": "A rat ran across the floor.",
+      "example_zh_tw": "一隻老鼠跑過地板。",
+      "synonyms": ["rodent", "vermin"]
+    },
+    {
+      "id": "receipt",
+      "definition_en": "A paper given to show that money has been paid.",
+      "gloss_zh_tw": "收據;表示款項已付的紙張。",
+      "example_en": "Keep the receipt for the shop.",
+      "example_zh_tw": "把收據留好，方便對店家查驗。",
+      "synonyms": ["proof", "voucher"]
+    },
+    {
+      "id": "ring",
+      "definition_en": "A small round band, often of metal, worn on a finger.",
+      "gloss_zh_tw": "戒指、環;戴於指上、多為金屬的小圓圈。",
+      "example_en": "She has a gold ring on her hand.",
+      "example_zh_tw": "她手上戴了一只金戒指。",
+      "synonyms": ["band", "loop"]
+    },
+    {
+      "id": "rod",
+      "definition_en": "A long straight thin bar of wood, metal, or other hard stuff.",
+      "gloss_zh_tw": "桿、棒;長直的細條，木金屬或其他硬物所製。",
+      "example_en": "Use a rod to push the leaves out of the pipe.",
+      "example_zh_tw": "用桿子把葉子從管子裡推出來。",
+      "synonyms": ["pole", "staff"]
+    },
+    {
+      "id": "roof",
+      "definition_en": "The top cover of a building, that keeps the rain out.",
+      "gloss_zh_tw": "屋頂;建築頂部、防雨的覆蓋層。",
+      "example_en": "The roof was wet from the rain.",
+      "example_zh_tw": "屋頂被雨淋濕了。",
+      "synonyms": ["top", "cover"]
+    },
+    {
+      "id": "root",
+      "definition_en": "The part of a plant that grows under the earth.",
+      "gloss_zh_tw": "根;植物在地下生長的部分。",
+      "example_en": "The tree has deep roots.",
+      "example_zh_tw": "那棵樹的根很深。",
+      "synonyms": ["base", "origin"]
+    },
+    {
+      "id": "sail",
+      "definition_en": "A large piece of cloth put on a boat to catch the wind.",
+      "gloss_zh_tw": "船帆;綁於船上、用以受風的大片布。",
+      "example_en": "The boat moves fast with a full sail.",
+      "example_zh_tw": "船帆吃滿風時船跑得很快。",
+      "synonyms": ["canvas"]
+    },
+    {
+      "id": "school",
+      "definition_en": "A place where children go to learn.",
+      "gloss_zh_tw": "學校;兒童學習之處。",
+      "example_en": "She goes to school every day.",
+      "example_zh_tw": "她每天都去學校。",
+      "synonyms": ["academy", "college"]
+    },
+    {
+      "id": "scissors",
+      "definition_en": "A tool with two blades joined in the middle, used to cut paper or cloth.",
+      "gloss_zh_tw": "剪刀;雙刃於中相交、用以剪紙或布的工具。",
+      "example_en": "Use the scissors to cut the paper.",
+      "example_zh_tw": "用剪刀剪紙。",
+      "synonyms": ["shears", "clippers"]
+    }
+  ]
+}

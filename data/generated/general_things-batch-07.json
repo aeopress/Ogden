@@ -1,0 +1,207 @@
+{
+  "category": "general_things",
+  "batch": 7,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "humour",
+      "definition_en": "What makes one laugh; something funny.",
+      "gloss_zh_tw": "幽默、笑點；引人發笑的特質或情緒。",
+      "example_en": "She has a great sense of humour.",
+      "example_zh_tw": "她很有幽默感。",
+      "synonyms": ["wit", "amusement"]
+    },
+    {
+      "id": "ice",
+      "definition_en": "Water made hard by being very cold.",
+      "gloss_zh_tw": "冰；冷凍變硬的水。",
+      "example_en": "Put some ice in my drink.",
+      "example_zh_tw": "在我飲料裡加點冰塊。",
+      "synonyms": ["frost", "freeze"]
+    },
+    {
+      "id": "idea",
+      "definition_en": "A thought in the mind.",
+      "gloss_zh_tw": "想法、念頭；心中浮現的概念。",
+      "example_en": "I have a good idea for the project.",
+      "example_zh_tw": "我對這個計畫有個好點子。",
+      "synonyms": ["thought", "plan"]
+    },
+    {
+      "id": "impulse",
+      "definition_en": "A sudden push of the mind to do a thing.",
+      "gloss_zh_tw": "衝動、念頭；突然想做的心理動力。",
+      "example_en": "On impulse, she bought the flowers.",
+      "example_zh_tw": "她一時衝動買下了那些花。",
+      "synonyms": ["urge", "instinct"]
+    },
+    {
+      "id": "increase",
+      "definition_en": "The act of becoming greater in number or size.",
+      "gloss_zh_tw": "增加、增長；數量或規模變大。",
+      "example_en": "There is an increase in the price of bread.",
+      "example_zh_tw": "麵包的價格漲了。",
+      "synonyms": ["growth", "rise"]
+    },
+    {
+      "id": "industry",
+      "definition_en": "The making of things in factories, or the trade of doing so.",
+      "gloss_zh_tw": "工業、產業；工廠製造業及相關行業。",
+      "example_en": "The car industry is very large.",
+      "example_zh_tw": "汽車產業很龐大。",
+      "synonyms": ["business", "trade"]
+    },
+    {
+      "id": "ink",
+      "definition_en": "A coloured liquid used for writing or printing.",
+      "gloss_zh_tw": "墨水；用於書寫或印刷的有色液體。",
+      "example_en": "She wrote her name in black ink.",
+      "example_zh_tw": "她用黑墨水簽名。",
+      "synonyms": ["pigment", "dye"]
+    },
+    {
+      "id": "insect",
+      "definition_en": "A small living thing with six legs, like a bee or ant.",
+      "gloss_zh_tw": "昆蟲；六足小型生物，如蜜蜂或螞蟻。",
+      "example_en": "A small insect was on the leaf.",
+      "example_zh_tw": "葉子上有一隻小昆蟲。",
+      "synonyms": ["bug", "pest"]
+    },
+    {
+      "id": "instrument",
+      "definition_en": "A thing made to do a special work, like a tool or one that gives music.",
+      "gloss_zh_tw": "器具、樂器；專用工具或演奏之器物。",
+      "example_en": "The piano is her favourite instrument.",
+      "example_zh_tw": "鋼琴是她最愛的樂器。",
+      "synonyms": ["tool", "device"]
+    },
+    {
+      "id": "insurance",
+      "definition_en": "A way of paying money so that one is helped if a bad thing happens.",
+      "gloss_zh_tw": "保險；定期付款以備不時之需的制度。",
+      "example_en": "She has insurance for her car.",
+      "example_zh_tw": "她的車有保險。",
+      "synonyms": ["cover", "policy"]
+    },
+    {
+      "id": "interest",
+      "definition_en": "A feeling of wanting to know more about a thing.",
+      "gloss_zh_tw": "興趣、關注；想多了解某事的感覺。",
+      "example_en": "He has an interest in old books.",
+      "example_zh_tw": "他對古書有興趣。",
+      "synonyms": ["care", "concern"]
+    },
+    {
+      "id": "invention",
+      "definition_en": "Something new that has been made for the first time.",
+      "gloss_zh_tw": "發明；首次創造的新事物。",
+      "example_en": "The phone was a great invention.",
+      "example_zh_tw": "電話是一項偉大的發明。",
+      "synonyms": ["creation", "discovery"]
+    },
+    {
+      "id": "iron",
+      "definition_en": "A hard grey metal used for many things, like nails or pots.",
+      "gloss_zh_tw": "鐵；堅硬的灰色金屬，用途廣泛。",
+      "example_en": "The gate is made of iron.",
+      "example_zh_tw": "那道門是鐵做的。",
+      "synonyms": ["metal", "steel"]
+    },
+    {
+      "id": "jelly",
+      "definition_en": "A soft sweet food made from fruit and sugar.",
+      "gloss_zh_tw": "果凍；以水果與糖製成的軟質甜點。",
+      "example_en": "I have jelly with my bread.",
+      "example_zh_tw": "我在麵包上抹果凍吃。",
+      "synonyms": ["jam", "gel"]
+    },
+    {
+      "id": "join",
+      "definition_en": "The act of putting two things together.",
+      "gloss_zh_tw": "連接、加入；將兩物或多人合在一起。",
+      "example_en": "Join the two ropes to make a longer one.",
+      "example_zh_tw": "把兩條繩子接起來成一條長的。",
+      "synonyms": ["link", "connect"]
+    },
+    {
+      "id": "journey",
+      "definition_en": "A trip from one place to another.",
+      "gloss_zh_tw": "旅程、旅行；從一地到另一地的行程。",
+      "example_en": "It was a long journey to the city.",
+      "example_zh_tw": "到那座城市的路途很長。",
+      "synonyms": ["trip", "voyage"]
+    },
+    {
+      "id": "judge",
+      "definition_en": "A person who decides what is right in a law court.",
+      "gloss_zh_tw": "法官；於法庭裁定是非的人。",
+      "example_en": "The judge said he was not guilty.",
+      "example_zh_tw": "法官判他無罪。",
+      "synonyms": ["ruler", "umpire"]
+    },
+    {
+      "id": "jump",
+      "definition_en": "A sudden push off the ground with the legs.",
+      "gloss_zh_tw": "跳、跳躍；以雙腿用力離地的動作。",
+      "example_en": "The dog gave a big jump over the fence.",
+      "example_zh_tw": "那隻狗一躍越過了圍欄。",
+      "synonyms": ["leap", "spring"]
+    },
+    {
+      "id": "kick",
+      "definition_en": "A strong push made with the foot.",
+      "gloss_zh_tw": "踢；用腳用力推或擊打。",
+      "example_en": "Give the ball a hard kick.",
+      "example_zh_tw": "用力把球踢出去。",
+      "synonyms": ["strike", "punt"]
+    },
+    {
+      "id": "kiss",
+      "definition_en": "A touch with the lips, often to show love.",
+      "gloss_zh_tw": "親吻；以雙唇接觸他人，常為表達愛意。",
+      "example_en": "She gave the baby a kiss.",
+      "example_zh_tw": "她親了寶寶一下。",
+      "synonyms": ["peck", "smooch"]
+    },
+    {
+      "id": "knowledge",
+      "definition_en": "All that one knows about a thing or things.",
+      "gloss_zh_tw": "知識、學識；所知的全部內容。",
+      "example_en": "She has knowledge of many languages.",
+      "example_zh_tw": "她精通多種語言。",
+      "synonyms": ["learning", "wisdom"]
+    },
+    {
+      "id": "land",
+      "definition_en": "The dry part of the earth, not the sea.",
+      "gloss_zh_tw": "陸地、土地；地球乾燥之處，非海洋。",
+      "example_en": "The boat came to land at noon.",
+      "example_zh_tw": "船於中午靠岸。",
+      "synonyms": ["ground", "country"]
+    },
+    {
+      "id": "language",
+      "definition_en": "The words people use to say things to one another.",
+      "gloss_zh_tw": "語言；人們交流所用的詞彙系統。",
+      "example_en": "She speaks three languages.",
+      "example_zh_tw": "她會說三種語言。",
+      "synonyms": ["tongue", "speech"]
+    },
+    {
+      "id": "laugh",
+      "definition_en": "The sound one makes when one is happy or finds a thing funny.",
+      "gloss_zh_tw": "笑、笑聲；快樂或覺得有趣時所發之聲。",
+      "example_en": "Her story made me laugh.",
+      "example_zh_tw": "她的故事讓我笑了。",
+      "synonyms": ["chuckle", "giggle"]
+    },
+    {
+      "id": "law",
+      "definition_en": "A rule made by the government that all must keep.",
+      "gloss_zh_tw": "法律；政府制定、全民須遵守的規範。",
+      "example_en": "It is the law to wear a seat belt.",
+      "example_zh_tw": "繫安全帶是法律規定。",
+      "synonyms": ["rule", "statute"]
+    }
+  ]
+}

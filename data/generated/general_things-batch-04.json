@@ -1,0 +1,207 @@
+{
+  "category": "general_things",
+  "batch": 4,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "day",
+      "definition_en": "The time when the sun is up, from morning to night; or 24 hours.",
+      "gloss_zh_tw": "一天、白天；日出至日落，或 24 小時。",
+      "example_en": "What day is it today?",
+      "example_zh_tw": "今天星期幾？",
+      "synonyms": ["date", "time"]
+    },
+    {
+      "id": "death",
+      "definition_en": "The end of the life of a person, animal, or plant.",
+      "gloss_zh_tw": "死亡、逝世；生命的結束。",
+      "example_en": "Death came to the old man in the night.",
+      "example_zh_tw": "老人在夜裡過世了。",
+      "synonyms": ["end", "loss"]
+    },
+    {
+      "id": "debt",
+      "definition_en": "Money that one person must pay back to another.",
+      "gloss_zh_tw": "債、債務；欠他人並須償還的金錢。",
+      "example_en": "He paid off his debt last week.",
+      "example_zh_tw": "他上週把債還清了。",
+      "synonyms": ["loan", "owing"]
+    },
+    {
+      "id": "decision",
+      "definition_en": "The choice one makes between two or more things.",
+      "gloss_zh_tw": "決定、抉擇；於多項中做出選擇。",
+      "example_en": "The decision was hard for her.",
+      "example_zh_tw": "這個決定對她來說很難。",
+      "synonyms": ["choice", "judgment"]
+    },
+    {
+      "id": "degree",
+      "definition_en": "A step or stage on a scale; or a unit for measuring heat.",
+      "gloss_zh_tw": "程度、等級；或量測熱度的單位。",
+      "example_en": "It is twenty degrees outside today.",
+      "example_zh_tw": "今天外面二十度。",
+      "synonyms": ["stage", "level"]
+    },
+    {
+      "id": "design",
+      "definition_en": "A picture or plan made before a thing is built.",
+      "gloss_zh_tw": "設計、圖樣；製作前的圖稿或計畫。",
+      "example_en": "I like the design of her new dress.",
+      "example_zh_tw": "我喜歡她那件新洋裝的設計。",
+      "synonyms": ["plan", "pattern"]
+    },
+    {
+      "id": "desire",
+      "definition_en": "A strong feeling of wanting something.",
+      "gloss_zh_tw": "渴望、慾望；強烈想要的感覺。",
+      "example_en": "He has a great desire to learn.",
+      "example_zh_tw": "他有強烈的學習慾望。",
+      "synonyms": ["want", "wish"]
+    },
+    {
+      "id": "destruction",
+      "definition_en": "The act of breaking a thing so it is no more.",
+      "gloss_zh_tw": "破壞、毀滅；徹底毀壞使其不再存在。",
+      "example_en": "The fire caused great destruction.",
+      "example_zh_tw": "那場火造成了極大的破壞。",
+      "synonyms": ["damage", "ruin"]
+    },
+    {
+      "id": "detail",
+      "definition_en": "A small part of a bigger thing.",
+      "gloss_zh_tw": "細節、細部；整體中的小部分。",
+      "example_en": "Tell me every detail of the story.",
+      "example_zh_tw": "把故事的每個細節告訴我。",
+      "synonyms": ["point", "bit"]
+    },
+    {
+      "id": "development",
+      "definition_en": "The act or process of growing or getting better.",
+      "gloss_zh_tw": "發展、成長；逐漸壯大或進步的過程。",
+      "example_en": "The development of the city is fast.",
+      "example_zh_tw": "這座城市的發展很快。",
+      "synonyms": ["growth", "progress"]
+    },
+    {
+      "id": "digestion",
+      "definition_en": "The work the body does to break down food after eating.",
+      "gloss_zh_tw": "消化；身體分解食物的過程。",
+      "example_en": "A walk after a meal helps digestion.",
+      "example_zh_tw": "飯後散步有助於消化。",
+      "synonyms": ["process", "breakdown"]
+    },
+    {
+      "id": "direction",
+      "definition_en": "The way a thing or person is moving or facing.",
+      "gloss_zh_tw": "方向；移動或面對的方位。",
+      "example_en": "Which direction is the school?",
+      "example_zh_tw": "學校在哪個方向？",
+      "synonyms": ["way", "course"]
+    },
+    {
+      "id": "discovery",
+      "definition_en": "The finding of something new or not known before.",
+      "gloss_zh_tw": "發現；首次找到或得知的事物。",
+      "example_en": "The discovery of gold made the town rich.",
+      "example_zh_tw": "黃金的發現讓那座鎮富了起來。",
+      "synonyms": ["finding", "uncovering"]
+    },
+    {
+      "id": "discussion",
+      "definition_en": "A talk between people about a thing.",
+      "gloss_zh_tw": "討論、商議；針對某事的交談。",
+      "example_en": "We had a long discussion about the plan.",
+      "example_zh_tw": "我們就那項計畫討論了很久。",
+      "synonyms": ["talk", "argument"]
+    },
+    {
+      "id": "disease",
+      "definition_en": "A sickness that makes the body or mind not well.",
+      "gloss_zh_tw": "疾病；使身心不適的病症。",
+      "example_en": "He is in hospital with a serious disease.",
+      "example_zh_tw": "他得了重病在住院。",
+      "synonyms": ["sickness", "illness"]
+    },
+    {
+      "id": "disgust",
+      "definition_en": "A strong bad feeling about a thing that one does not like.",
+      "gloss_zh_tw": "厭惡、反感；對不喜歡之事物的強烈感覺。",
+      "example_en": "She looked at the food with disgust.",
+      "example_zh_tw": "她厭惡地看著那食物。",
+      "synonyms": ["hate", "loathing"]
+    },
+    {
+      "id": "distance",
+      "definition_en": "The space between two places or things.",
+      "gloss_zh_tw": "距離；兩地或兩物之間的空間。",
+      "example_en": "The distance from here to the shop is short.",
+      "example_zh_tw": "從這裡到那家店距離很近。",
+      "synonyms": ["space", "length"]
+    },
+    {
+      "id": "distribution",
+      "definition_en": "The act of giving things out to many people.",
+      "gloss_zh_tw": "分發、分配；把東西分給多人。",
+      "example_en": "The distribution of food was done at noon.",
+      "example_zh_tw": "中午就把食物分發完了。",
+      "synonyms": ["sharing", "spread"]
+    },
+    {
+      "id": "division",
+      "definition_en": "The act of putting a thing into parts; or one of the parts itself.",
+      "gloss_zh_tw": "分割、區分；把整體切成各部分，或其中一部分。",
+      "example_en": "The cake had a clear division into eight pieces.",
+      "example_zh_tw": "蛋糕清楚地分成了八塊。",
+      "synonyms": ["part", "section"]
+    },
+    {
+      "id": "doubt",
+      "definition_en": "A feeling of not being sure about a thing.",
+      "gloss_zh_tw": "懷疑、疑慮；對事物把握不準的感覺。",
+      "example_en": "I have no doubt that she will come.",
+      "example_zh_tw": "我相信她一定會來。",
+      "synonyms": ["uncertainty", "question"]
+    },
+    {
+      "id": "drink",
+      "definition_en": "A liquid for taking into the mouth, like water or tea.",
+      "gloss_zh_tw": "飲料；可入口的液體，如水或茶。",
+      "example_en": "I would like a cold drink, please.",
+      "example_zh_tw": "請給我一杯冷飲。",
+      "synonyms": ["beverage", "liquid"]
+    },
+    {
+      "id": "driving",
+      "definition_en": "The act of guiding a car or other vehicle.",
+      "gloss_zh_tw": "駕駛；操控車輛行進。",
+      "example_en": "Driving in the rain is hard.",
+      "example_zh_tw": "雨天開車很難。",
+      "synonyms": ["steering", "motoring"]
+    },
+    {
+      "id": "dust",
+      "definition_en": "Very small bits of dry earth or other matter that float in the air.",
+      "gloss_zh_tw": "灰塵、塵土；飄浮空中的細小乾燥微粒。",
+      "example_en": "There is dust on the books.",
+      "example_zh_tw": "書上有灰塵。",
+      "synonyms": ["dirt", "powder"]
+    },
+    {
+      "id": "earth",
+      "definition_en": "The world we live on; or the soil under our feet.",
+      "gloss_zh_tw": "地球；或泥土、土壤。",
+      "example_en": "Plants grow in the rich earth.",
+      "example_zh_tw": "植物在肥沃的土壤中生長。",
+      "synonyms": ["world", "soil"]
+    },
+    {
+      "id": "edge",
+      "definition_en": "The outside line where a thing ends.",
+      "gloss_zh_tw": "邊緣、邊界；事物外圍的線。",
+      "example_en": "Do not stand at the edge of the cliff.",
+      "example_zh_tw": "別站在懸崖邊。",
+      "synonyms": ["border", "rim"]
+    }
+  ]
+}

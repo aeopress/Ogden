@@ -1,0 +1,207 @@
+{
+  "category": "general_things",
+  "batch": 15,
+  "generated_by": "claude-opus-4-7 (in-session)",
+  "results": [
+    {
+      "id": "system",
+      "definition_en": "A set of parts that work together as a whole.",
+      "gloss_zh_tw": "系統、體系;作為整體共同運作的一組部分。",
+      "example_en": "The school has a new system for tests.",
+      "example_zh_tw": "學校採用了新的考試制度。",
+      "synonyms": ["scheme", "structure"]
+    },
+    {
+      "id": "talk",
+      "definition_en": "Words said between two or more persons.",
+      "gloss_zh_tw": "談話、交談;兩人或多人間的言語往來。",
+      "example_en": "We had a long talk last night.",
+      "example_zh_tw": "我們昨晚聊了很久。",
+      "synonyms": ["chat", "conversation"]
+    },
+    {
+      "id": "taste",
+      "definition_en": "What one notes through the tongue, like sweet or sour.",
+      "gloss_zh_tw": "味道;舌頭所感的酸甜苦辣。",
+      "example_en": "The soup has a salty taste.",
+      "example_zh_tw": "湯帶鹹味。",
+      "synonyms": ["flavour", "savour"]
+    },
+    {
+      "id": "tax",
+      "definition_en": "Money one must pay to the government.",
+      "gloss_zh_tw": "稅;向政府繳納的金錢。",
+      "example_en": "We pay tax on what we get from work.",
+      "example_zh_tw": "我們的工作所得要納稅。",
+      "synonyms": ["duty", "levy"]
+    },
+    {
+      "id": "teaching",
+      "definition_en": "The act or work of giving knowledge to others.",
+      "gloss_zh_tw": "教學、教導;把知識傳給他人之事。",
+      "example_en": "Teaching is hard but good work.",
+      "example_zh_tw": "教學雖然辛苦但很有意義。",
+      "synonyms": ["education", "instruction"]
+    },
+    {
+      "id": "tendency",
+      "definition_en": "A way a thing or person is likely to act.",
+      "gloss_zh_tw": "趨勢、傾向;事物或人慣有的行事方式。",
+      "example_en": "She has a tendency to be late.",
+      "example_zh_tw": "她有遲到的毛病。",
+      "synonyms": ["leaning", "inclination"]
+    },
+    {
+      "id": "test",
+      "definition_en": "An act done to see how good or right a thing is.",
+      "gloss_zh_tw": "測驗、考驗;用以檢驗事物優劣或正誤之舉。",
+      "example_en": "We had a test in school today.",
+      "example_zh_tw": "我們今天在學校考試。",
+      "synonyms": ["exam", "check"]
+    },
+    {
+      "id": "theory",
+      "definition_en": "An idea about how a thing is or why it is so.",
+      "gloss_zh_tw": "理論、假說;對事物如何或為何的見解。",
+      "example_en": "She has a theory about the lost key.",
+      "example_zh_tw": "她對遺失的鑰匙有個推論。",
+      "synonyms": ["idea", "hypothesis"]
+    },
+    {
+      "id": "thing",
+      "definition_en": "A word used for anything that is not a person or animal.",
+      "gloss_zh_tw": "東西、事物;指非人或動物的任何之物。",
+      "example_en": "What is that thing on the table?",
+      "example_zh_tw": "桌上那是什麼東西？",
+      "synonyms": ["object", "item"]
+    },
+    {
+      "id": "thought",
+      "definition_en": "What goes on in the mind; an idea.",
+      "gloss_zh_tw": "思想、念頭;心中的概念或想法。",
+      "example_en": "Give me a moment for my thought.",
+      "example_zh_tw": "讓我想一下。",
+      "synonyms": ["idea", "reflection"]
+    },
+    {
+      "id": "thunder",
+      "definition_en": "The loud noise that comes after lightning in a storm.",
+      "gloss_zh_tw": "雷、雷聲;暴風雨中閃電後的巨響。",
+      "example_en": "The thunder made the baby cry.",
+      "example_zh_tw": "雷聲把寶寶嚇哭了。",
+      "synonyms": ["roar", "boom"]
+    },
+    {
+      "id": "time",
+      "definition_en": "What goes on from before to now to after, made of minutes and hours.",
+      "gloss_zh_tw": "時間;由分時組成、自過去到未來的流動。",
+      "example_en": "Do you have time for a drink?",
+      "example_zh_tw": "你有空喝一杯嗎？",
+      "synonyms": ["period", "duration"]
+    },
+    {
+      "id": "tin",
+      "definition_en": "A soft white-grey metal; or a box made of this metal for food.",
+      "gloss_zh_tw": "錫;柔軟銀白色金屬，或以此製成的食物罐。",
+      "example_en": "Open this tin of fish.",
+      "example_zh_tw": "把這罐魚罐頭打開。",
+      "synonyms": ["can", "metal"]
+    },
+    {
+      "id": "top",
+      "definition_en": "The highest part of a thing.",
+      "gloss_zh_tw": "頂端、最上方;事物最高之處。",
+      "example_en": "She climbed to the top of the tree.",
+      "example_zh_tw": "她爬到樹頂。",
+      "synonyms": ["peak", "summit"]
+    },
+    {
+      "id": "touch",
+      "definition_en": "The act of putting one's hand or body on a thing.",
+      "gloss_zh_tw": "觸碰、接觸;以手或身體碰觸某物。",
+      "example_en": "Do not touch the wet paint.",
+      "example_zh_tw": "別碰濕油漆。",
+      "synonyms": ["feel", "contact"]
+    },
+    {
+      "id": "trade",
+      "definition_en": "The buying and selling of things.",
+      "gloss_zh_tw": "貿易、交易;買賣行為。",
+      "example_en": "Trade with the East is growing fast.",
+      "example_zh_tw": "與東方的貿易迅速擴大。",
+      "synonyms": ["business", "commerce"]
+    },
+    {
+      "id": "transport",
+      "definition_en": "The act of taking things or people from one place to another.",
+      "gloss_zh_tw": "運輸、運送;將人或物自一地送往他地。",
+      "example_en": "Cars are used for transport.",
+      "example_zh_tw": "汽車是用來運輸的工具。",
+      "synonyms": ["carriage", "shipping"]
+    },
+    {
+      "id": "trick",
+      "definition_en": "A clever or sly act done to take someone in.",
+      "gloss_zh_tw": "把戲、詭計;巧妙或狡猾的手段。",
+      "example_en": "He played a small trick on his friend.",
+      "example_zh_tw": "他對朋友開了個小玩笑。",
+      "synonyms": ["prank", "deception"]
+    },
+    {
+      "id": "trouble",
+      "definition_en": "A thing that makes one's life hard or full of pain.",
+      "gloss_zh_tw": "麻煩、困擾;使生活困苦或痛苦之事。",
+      "example_en": "She is in great trouble at work.",
+      "example_zh_tw": "她工作上遇到大麻煩。",
+      "synonyms": ["problem", "difficulty"]
+    },
+    {
+      "id": "turn",
+      "definition_en": "An act of changing the way a thing is facing or moving.",
+      "gloss_zh_tw": "轉、轉向;改變面向或行動方向。",
+      "example_en": "Take a sharp turn to the left.",
+      "example_zh_tw": "向左急轉。",
+      "synonyms": ["twist", "spin"]
+    },
+    {
+      "id": "twist",
+      "definition_en": "An act of turning a thing round so it changes shape.",
+      "gloss_zh_tw": "扭、扭轉;使物轉動而變形。",
+      "example_en": "Give the lid a hard twist.",
+      "example_zh_tw": "用力扭轉一下蓋子。",
+      "synonyms": ["turn", "wind"]
+    },
+    {
+      "id": "unit",
+      "definition_en": "One of a number of equal parts that make up a whole.",
+      "gloss_zh_tw": "單位、單元;組成整體的等量部分。",
+      "example_en": "A metre is a unit of length.",
+      "example_zh_tw": "公尺是長度的單位。",
+      "synonyms": ["part", "component"]
+    },
+    {
+      "id": "use",
+      "definition_en": "The act of putting a thing to work.",
+      "gloss_zh_tw": "使用、運用;讓事物發揮功能。",
+      "example_en": "Make good use of your time.",
+      "example_zh_tw": "好好利用你的時間。",
+      "synonyms": ["employ", "apply"]
+    },
+    {
+      "id": "value",
+      "definition_en": "How much a thing is worth.",
+      "gloss_zh_tw": "價值;事物的所值。",
+      "example_en": "The book is of great value to her.",
+      "example_zh_tw": "這本書對她而言極有價值。",
+      "synonyms": ["worth", "price"]
+    },
+    {
+      "id": "verse",
+      "definition_en": "Writing in lines with rhythm, like a poem or song.",
+      "gloss_zh_tw": "詩、韻文;具節奏的分行書寫，如詩或歌。",
+      "example_en": "She wrote a short verse for her friend.",
+      "example_zh_tw": "她為朋友寫了一首小詩。",
+      "synonyms": ["poem", "rhyme"]
+    }
+  ]
+}

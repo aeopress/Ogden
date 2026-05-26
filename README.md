@@ -1,5 +1,10 @@
 # Ogden's Basic English · 850 字繁中學習手冊
 
+[![Code License: MIT](https://img.shields.io/badge/code%20license-MIT-blue.svg)](./LICENSE)
+[![Content License: CC BY-SA 4.0](https://img.shields.io/badge/content%20license-CC%20BY--SA%204.0-lightgrey.svg)](./LICENSE-CONTENT.md)
+[![Deploy](https://github.com/yelban/Ogden/actions/workflows/deploy.yml/badge.svg)](https://github.com/yelban/Ogden/actions/workflows/deploy.yml)
+[![Site](https://img.shields.io/badge/site-ogden.orz99.com-orange.svg)](https://ogden.orz99.com)
+
 C.K. Ogden 1930 年 Basic English 850 字的繁體中文版（台灣用語）學習網站。
 
 **線上版**：https://ogden.orz99.com
@@ -139,11 +144,36 @@ bun run merge-reviewed
 2. Custom domains 加 `ogden.orz99.com`（DNS CNAME → `*.pages.dev`）
 3. Cloudflare Dashboard → Web Analytics → Add site → 拿 token → Pages env 加 `PUBLIC_CF_ANALYTICS_TOKEN`
 
-## 授權
+## 授權（雙授權）
 
-- 程式碼：MIT
-- 內容（繁中釋義 / 英文定義 / 例句 / 同義詞）：CC BY-SA 4.0
-- 字表底層：Wiktionary - Basic English word list（CC BY-SA 4.0）
+本專案採雙授權設計——程式碼跟內容分開規範：
+
+| 範圍 | 授權 | 檔案位置 |
+|---|---|---|
+| **程式碼**：Astro components、TypeScript scripts、CSS、CI workflow、build config | **MIT** | [LICENSE](./LICENSE) |
+| **內容**：850 詞表、繁中釋義、英文定義、例句、同義詞、`docs/ogden-research/` 研究筆記 | **CC BY-SA 4.0** | [LICENSE-CONTENT.md](./LICENSE-CONTENT.md) |
+
+具體路徑歸屬：
+
+| 路徑 | 授權 |
+|---|---|
+| `src/components/`, `src/layouts/`, `src/pages/`, `src/scripts/`, `src/styles/`, `src/data/schema.ts` | MIT |
+| `scripts/`, `astro.config.mjs`, `tsconfig.json`, `wrangler.toml`, `.github/`, `package.json` | MIT |
+| `src/data/words.ts`, `src/data/words.seed.ts`, `data/`, `docs/ogden-research/` | CC BY-SA 4.0 |
+| `README.md`, `CLAUDE.md`, `docs/deploy-notes.md` | CC BY-SA 4.0 |
+
+### 上游 attribution
+
+- 字表來自 [Wiktionary - Basic English word list](https://en.wiktionary.org/wiki/Appendix:Basic_English_word_list)（CC BY-SA 4.0）
+- 例句語料天花板參考 [Simple Wikipedia - Basic English combined wordlist](https://simple.wikipedia.org/wiki/Wikipedia:Basic_English_combined_wordlist)（CC BY-SA 4.0）
+- C.K. Ogden 1930 年原著於多數司法管轄區已進入公共領域（台灣：作者卒於 1957，已於 2008 年過期）
+
+### 你可以拿來做什麼
+
+- 拿**整個專案**架你自己的 Ogden 學習站？✅ 保留兩個 LICENSE 檔案 + README 中的 attribution
+- 只想拿**引擎**（Astro + 詞卡 UI）做別的單字學習站？✅ 換掉 `src/data/words.ts` 與 `docs/ogden-research/`，只需保留 MIT
+- 拿**詞表內容**進你的商業 App？✅ 保留 attribution + 衍生內容也採 CC BY-SA 4.0 或相容授權
+- 想把內容**重新打包賣**？✅ 但你的衍生物必須**也是開放授權**（這就是 ShareAlike 的本質）
 
 ## 致謝
 

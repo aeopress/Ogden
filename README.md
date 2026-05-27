@@ -1,4 +1,4 @@
-# Ogden's Basic English · 850 字繁中學習手冊
+# 🇹🇼 Ogden's Basic English · 850 字繁中學習手冊
 
 [![Code License: MIT](https://img.shields.io/badge/code%20license-MIT-blue.svg)](./LICENSE)
 [![Content License: CC BY-SA 4.0](https://img.shields.io/badge/content%20license-CC%20BY--SA%204.0-lightgrey.svg)](./LICENSE-CONTENT.md)
